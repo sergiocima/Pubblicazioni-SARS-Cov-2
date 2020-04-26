@@ -1,17 +1,11 @@
 "Country","Codice","Articoli pubblicati"
 "Arabia Saudita","SAU",11
 "Australia","AUS",19
-"Belgio","BEL",7
-"Brasile","BRA",7
 "Canada","CAN",26
 "Cina","CHN",238
-"Danimarca","DNK",5
-"Egitto","EGY",5
 "Francia","FRA",42
 "Germania","DEU",25
 "Giappone","JPN",11
-"Grecia","GRC",5
-"Hong Kong","HKG",6
 "India","IND",20
 "Iran","IRN",11
 "Italia","ITA",43
@@ -20,9 +14,6 @@
 "Paesi Bassi","NLD",13
 "Singapore","SGP",13
 "Spagna","ESP",20
-"Svezia","SWE",7
-"Svizzera","CHE",5
-"Taiwan","TWN",5
 "UK","GBR",46
 "USA","USA",129
-"Altro",,58
+"Altro",,110
