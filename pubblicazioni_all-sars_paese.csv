@@ -1,68 +1,28 @@
 "Country","Codice","Articoli pubblicati"
-,,1
 "Arabia Saudita","SAU",11
-"Argentina","ARG",1
 "Australia","AUS",19
-"Austria","AUT",2
-"Azerbaijan","AZE",1
-"Bangladesh","BGD",1
 "Belgio","BEL",7
-"Bolivia","BOL",2
 "Brasile","BRA",7
-"Bulgaria","BGR",1
 "Canada","CAN",26
-"Cile","CHL",1
 "Cina","CHN",238
-"Cipro","CYP",1
-"Colombia","COL",2
-"Costa d'Avorio","CIV",1
-"Croazia","HRV",1
 "Danimarca","DNK",5
-"Ecuador","ECU",1
 "Egitto","EGY",5
-"Emirati Arabi Uniti","ARE",3
-"Finlandia","FIN",3
 "Francia","FRA",42
 "Germania","DEU",25
 "Giappone","JPN",11
-"Giordania","JOR",2
 "Grecia","GRC",5
 "Hong Kong","HKG",6
 "India","IND",20
-"Indonesia","IDN",1
 "Iran","IRN",11
-"Iraq","IRQ",1
-"Irlanda","IRL",1
-"Islanda","ISL",1
 "Italia","ITA",43
 "Korea","KOR",14
-"Libano","LBN",3
-"Mali","MLI",1
-"Malta","MLT",1
-"Messico","MEX",2
 "N/A","N/A",12
-"Nigeria","NGA",1
-"Norvegia","NOR",3
-"Nuova Zelanda","NZL",1
 "Paesi Bassi","NLD",13
-"Pakistan","PAK",2
-"Polonia","POL",2
-"Protogallo","PRT",1
-"Repubblica del Congo","COG",1
-"Romania","ROU",1
-"Russia","RUS",1
-"Senegal","SEN",1
 "Singapore","SGP",13
 "Spagna","ESP",20
-"Sri Lanka","LKA",1
-"Sud Africa","ZAF",1
 "Svezia","SWE",7
 "Svizzera","CHE",5
 "Taiwan","TWN",5
-"Thailandia","THA",1
-"Tunisia","TUN",1
-"Turchia","TUR",3
 "UK","GBR",46
 "USA","USA",129
-"Ungheria","HUN",1
-"Venezuela","VEN",1
+"Altro",,58
