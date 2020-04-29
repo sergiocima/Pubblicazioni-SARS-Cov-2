@@ -1,19 +1,20 @@
 "Country","Codice","Articoli pubblicati"
 "Arabia Saudita","SAU",11
 "Australia","AUS",20
-"Canada","CAN",26
-"Cina","CHN",242
+"Canada","CAN",31
+"Cina","CHN",262
 "Francia","FRA",42
-"Germania","DEU",25
-"Giappone","JPN",12
-"India","IND",23
-"Iran","IRN",12
-"Italia","ITA",43
-"Korea","KOR",15
-"N/A","N/A",12
+"Germania","DEU",31
+"Giappone","JPN",11
+"India","IND",24
+"Iran","IRN",14
+"Italia","ITA",54
+"Korea","KOR",17
+"N/A","N/A",17
 "Paesi Bassi","NLD",13
-"Singapore","SGP",13
-"Spagna","ESP",20
-"UK","GBR",47
-"USA","USA",135
+"Singapore","SGP",14
+"Spagna","ESP",21
+"Svezia","SWE",10
+"UK","GBR",53
+"USA","USA",163
 "Altro",,117

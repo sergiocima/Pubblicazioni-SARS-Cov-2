@@ -8,48 +8,54 @@
 "Belgio","Francia",5
 "Belgio","UK",4
 "Canada","Australia",4
-"Canada","Cina",11
-"Canada","UK",6
-"Canada","USA",10
+"Canada","Cina",12
+"Canada","UK",7
+"Canada","USA",11
 "Cina","Arabia Saudita",5
 "Cina","Australia",7
-"Cina","Canada",11
-"Cina","Francia",5
+"Cina","Canada",12
+"Cina","Francia",4
+"Cina","Germania",4
 "Cina","Paesi Bassi",4
 "Cina","UK",9
 "Cina","USA",25
 "Francia","Belgio",5
-"Francia","Cina",5
-"Francia","Germania",4
+"Francia","Cina",4
+"Francia","Germania",5
 "Francia","Italia",4
-"Francia","Paesi Bassi",4
 "Francia","Spagna",4
 "Francia","UK",4
-"Francia","USA",6
-"Germania","Francia",4
+"Francia","USA",8
+"Germania","Cina",4
+"Germania","Francia",5
 "Germania","Paesi Bassi",4
+"Germania","Svezia",4
+"Germania","USA",4
 "Italia","Francia",4
-"Italia","N/A",4
+"Italia","N/A",5
 "Italia","UK",6
-"Italia","USA",9
-"N/A","Italia",4
+"Italia","USA",11
+"N/A","Italia",5
+"N/A","Svezia",4
 "Paesi Bassi","Cina",4
-"Paesi Bassi","Francia",4
 "Paesi Bassi","Germania",4
 "Paesi Bassi","UK",5
 "Spagna","Francia",4
+"Svezia","Germania",4
+"Svezia","N/A",4
 "UK","Australia",5
 "UK","Belgio",4
-"UK","Canada",6
+"UK","Canada",7
 "UK","Cina",9
 "UK","Francia",4
 "UK","Italia",6
 "UK","Paesi Bassi",5
-"UK","USA",15
+"UK","USA",17
 "USA","Arabia Saudita",4
 "USA","Australia",7
-"USA","Canada",10
+"USA","Canada",11
 "USA","Cina",25
-"USA","Francia",6
-"USA","Italia",9
-"USA","UK",15
+"USA","Francia",8
+"USA","Germania",4
+"USA","Italia",11
+"USA","UK",17
