@@ -1,0 +1,49 @@
+"From","To","Count"
+"ACE2","spike",3
+"Anxiety","Depression",5
+"Anxiety","Pandemic",3
+"Anxiety","Stress",5
+"Depression","Anxiety",5
+"Depression","Pandemic",3
+"Depression","Stress",5
+"Hydroxychloroquine","chloroquine",4
+"Infectious disease","Pandemic",7
+"Infectious disease","Public Health",7
+"Infectious disease","outbreak",6
+"Pandemic","Anxiety",3
+"Pandemic","Depression",3
+"Pandemic","Infectious disease",7
+"Pandemic","Prevention",3
+"Pandemic","Public Health",10
+"Pandemic","Social Media",3
+"Pandemic","Stress",3
+"Pandemic","Telehealth",3
+"Pandemic","Telemedicine",4
+"Pandemic","outbreak",10
+"Pneumonia","Tomography",3
+"Pneumonia","computed tomography",3
+"Prevention","Pandemic",3
+"Public Health","Infectious disease",7
+"Public Health","Pandemic",10
+"Public Health","Telemedicine",3
+"Public Health","outbreak",9
+"Social Media","Pandemic",3
+"Stress","Anxiety",5
+"Stress","Depression",5
+"Stress","Pandemic",3
+"Telehealth","Pandemic",3
+"Telehealth","Telemedicine",4
+"Telemedicine","Pandemic",4
+"Telemedicine","Public Health",3
+"Telemedicine","Telehealth",4
+"Tomography","Pneumonia",3
+"Transmission","Wuhan",3
+"Wuhan","Transmission",3
+"Wuhan","outbreak",3
+"chloroquine","Hydroxychloroquine",4
+"computed tomography","Pneumonia",3
+"outbreak","Infectious disease",6
+"outbreak","Pandemic",10
+"outbreak","Public Health",9
+"outbreak","Wuhan",3
+"spike","ACE2",3
