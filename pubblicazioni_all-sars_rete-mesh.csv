@@ -1,0 +1,39 @@
+"From","To","Count"
+"comprensione","diagnosi",673
+"comprensione","epidemiologia",844
+"comprensione","interventi non farmacologici",271
+"comprensione","organizzazione",75
+"comprensione","terapia",264
+"comprensione","terapia farmacologica",743
+"diagnosi","comprensione",673
+"diagnosi","epidemiologia",285
+"diagnosi","interventi non farmacologici",52
+"diagnosi","organizzazione",28
+"diagnosi","terapia",70
+"diagnosi","terapia farmacologica",26
+"epidemiologia","comprensione",844
+"epidemiologia","diagnosi",285
+"epidemiologia","interventi non farmacologici",243
+"epidemiologia","organizzazione",37
+"epidemiologia","terapia",77
+"epidemiologia","terapia farmacologica",58
+"interventi non farmacologici","comprensione",271
+"interventi non farmacologici","diagnosi",52
+"interventi non farmacologici","epidemiologia",243
+"interventi non farmacologici","organizzazione",30
+"interventi non farmacologici","terapia",72
+"interventi non farmacologici","terapia farmacologica",51
+"organizzazione","comprensione",75
+"organizzazione","diagnosi",28
+"organizzazione","epidemiologia",37
+"organizzazione","interventi non farmacologici",30
+"terapia","comprensione",264
+"terapia","diagnosi",70
+"terapia","epidemiologia",77
+"terapia","interventi non farmacologici",72
+"terapia","terapia farmacologica",104
+"terapia farmacologica","comprensione",743
+"terapia farmacologica","diagnosi",26
+"terapia farmacologica","epidemiologia",58
+"terapia farmacologica","interventi non farmacologici",51
+"terapia farmacologica","terapia",104
