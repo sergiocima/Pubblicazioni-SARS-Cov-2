@@ -1,39 +1,159 @@
 "From","To","Count"
-"comprensione","diagnosi",673
-"comprensione","epidemiologia",844
-"comprensione","interventi non farmacologici",271
-"comprensione","organizzazione",75
-"comprensione","terapia",264
-"comprensione","terapia farmacologica",743
-"diagnosi","comprensione",673
-"diagnosi","epidemiologia",285
-"diagnosi","interventi non farmacologici",52
-"diagnosi","organizzazione",28
-"diagnosi","terapia",70
-"diagnosi","terapia farmacologica",26
-"epidemiologia","comprensione",844
-"epidemiologia","diagnosi",285
-"epidemiologia","interventi non farmacologici",243
-"epidemiologia","organizzazione",37
-"epidemiologia","terapia",77
-"epidemiologia","terapia farmacologica",58
-"interventi non farmacologici","comprensione",271
-"interventi non farmacologici","diagnosi",52
-"interventi non farmacologici","epidemiologia",243
-"interventi non farmacologici","organizzazione",30
-"interventi non farmacologici","terapia",72
-"interventi non farmacologici","terapia farmacologica",51
-"organizzazione","comprensione",75
-"organizzazione","diagnosi",28
-"organizzazione","epidemiologia",37
-"organizzazione","interventi non farmacologici",30
-"terapia","comprensione",264
-"terapia","diagnosi",70
-"terapia","epidemiologia",77
-"terapia","interventi non farmacologici",72
-"terapia","terapia farmacologica",104
-"terapia farmacologica","comprensione",743
-"terapia farmacologica","diagnosi",26
-"terapia farmacologica","epidemiologia",58
-"terapia farmacologica","interventi non farmacologici",51
-"terapia farmacologica","terapia",104
+"analogs & derivatives","chemistry",40
+"analogs & derivatives","metabolism",40
+"antagonists & inhibitors","chemistry",27
+"antagonists & inhibitors","metabolism",30
+"chemistry","analogs & derivatives",40
+"chemistry","antagonists & inhibitors",27
+"chemistry","drug therapy",44
+"chemistry","enzymology",20
+"chemistry","genetics",46
+"chemistry","immunology",59
+"chemistry","metabolism",201
+"chemistry","methods",22
+"chemistry","pharmacology",29
+"chemistry","virology",42
+"complications","diagnosis",22
+"complications","diagnostic imaging",24
+"complications","drug therapy",20
+"complications","epidemiology",46
+"complications","etiology",32
+"diagnosis","complications",22
+"diagnosis","diagnostic imaging",31
+"diagnosis","epidemiology",214
+"diagnosis","etiology",21
+"diagnosis","genetics",68
+"diagnosis","isolation & purification",70
+"diagnosis","methods",37
+"diagnosis","pathogenicity",20
+"diagnosis","prevention & control",40
+"diagnosis","statistics & numerical data",20
+"diagnosis","therapeutic use",23
+"diagnosis","therapy",28
+"diagnosis","transmission",107
+"diagnosis","virology",106
+"diagnostic imaging","complications",24
+"diagnostic imaging","diagnosis",31
+"diagnostic imaging","epidemiology",31
+"diagnostic imaging","virology",43
+"drug therapy","chemistry",44
+"drug therapy","complications",20
+"drug therapy","epidemiology",28
+"drug therapy","genetics",23
+"drug therapy","metabolism",34
+"drug therapy","therapeutic use",25
+"drug therapy","virology",25
+"enzymology","chemistry",20
+"enzymology","metabolism",23
+"epidemiology","complications",46
+"epidemiology","diagnosis",214
+"epidemiology","diagnostic imaging",31
+"epidemiology","drug therapy",28
+"epidemiology","genetics",106
+"epidemiology","isolation & purification",66
+"epidemiology","methods",41
+"epidemiology","mortality",35
+"epidemiology","pathogenicity",35
+"epidemiology","prevention & control",159
+"epidemiology","psychology",58
+"epidemiology","statistics & numerical data",48
+"epidemiology","therapeutic use",23
+"epidemiology","therapy",43
+"epidemiology","transmission",214
+"epidemiology","virology",159
+"etiology","complications",32
+"etiology","diagnosis",21
+"genetics","chemistry",46
+"genetics","diagnosis",68
+"genetics","drug therapy",23
+"genetics","epidemiology",106
+"genetics","immunology",94
+"genetics","isolation & purification",44
+"genetics","metabolism",62
+"genetics","methods",28
+"genetics","transmission",50
+"genetics","virology",127
+"immunology","chemistry",59
+"immunology","genetics",94
+"immunology","metabolism",114
+"immunology","pharmacology",20
+"immunology","physiology",23
+"immunology","prevention & control",45
+"immunology","virology",23
+"isolation & purification","diagnosis",70
+"isolation & purification","epidemiology",66
+"isolation & purification","genetics",44
+"isolation & purification","transmission",37
+"isolation & purification","virology",49
+"metabolism","analogs & derivatives",40
+"metabolism","antagonists & inhibitors",30
+"metabolism","chemistry",201
+"metabolism","drug therapy",34
+"metabolism","enzymology",23
+"metabolism","genetics",62
+"metabolism","immunology",114
+"metabolism","methods",20
+"metabolism","pharmacology",28
+"metabolism","physiology",27
+"metabolism","virology",41
+"methods","chemistry",22
+"methods","diagnosis",37
+"methods","epidemiology",41
+"methods","genetics",28
+"methods","metabolism",20
+"methods","prevention & control",25
+"methods","virology",27
+"mortality","epidemiology",35
+"pathogenicity","diagnosis",20
+"pathogenicity","epidemiology",35
+"pathogenicity","transmission",35
+"pathogenicity","virology",25
+"pharmacology","chemistry",29
+"pharmacology","immunology",20
+"pharmacology","metabolism",28
+"physiology","immunology",23
+"physiology","metabolism",27
+"prevention & control","diagnosis",40
+"prevention & control","epidemiology",159
+"prevention & control","immunology",45
+"prevention & control","methods",25
+"prevention & control","therapeutic use",28
+"prevention & control","therapy",34
+"prevention & control","transmission",72
+"prevention & control","virology",38
+"psychology","epidemiology",58
+"statistics & numerical data","diagnosis",20
+"statistics & numerical data","epidemiology",48
+"statistics & numerical data","transmission",23
+"therapeutic use","diagnosis",23
+"therapeutic use","drug therapy",25
+"therapeutic use","epidemiology",23
+"therapeutic use","prevention & control",28
+"therapeutic use","therapy",27
+"therapy","diagnosis",28
+"therapy","epidemiology",43
+"therapy","prevention & control",34
+"therapy","therapeutic use",27
+"therapy","virology",37
+"transmission","diagnosis",107
+"transmission","epidemiology",214
+"transmission","genetics",50
+"transmission","isolation & purification",37
+"transmission","pathogenicity",35
+"transmission","prevention & control",72
+"transmission","statistics & numerical data",23
+"transmission","virology",66
+"virology","chemistry",42
+"virology","diagnosis",106
+"virology","diagnostic imaging",43
+"virology","drug therapy",25
+"virology","epidemiology",159
+"virology","genetics",127
+"virology","immunology",23
+"virology","isolation & purification",49
+"virology","metabolism",41
+"virology","methods",27
+"virology","pathogenicity",25
+"virology","prevention & control",38
+"virology","therapy",37
+"virology","transmission",66
