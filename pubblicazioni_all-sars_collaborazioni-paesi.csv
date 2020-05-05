@@ -1,61 +1,141 @@
 "From","To","Count"
-"Arabia Saudita","Cina",5
-"Arabia Saudita","USA",4
-"Australia","Canada",4
-"Australia","Cina",7
-"Australia","UK",5
-"Australia","USA",7
-"Belgio","Francia",5
-"Belgio","UK",4
-"Canada","Australia",4
-"Canada","Cina",12
-"Canada","UK",7
-"Canada","USA",11
-"Cina","Arabia Saudita",5
-"Cina","Australia",7
-"Cina","Canada",12
-"Cina","Francia",4
-"Cina","Germania",4
-"Cina","Paesi Bassi",4
-"Cina","UK",9
-"Cina","USA",25
-"Francia","Belgio",5
-"Francia","Cina",4
-"Francia","Germania",5
-"Francia","Italia",4
-"Francia","Spagna",4
-"Francia","UK",4
-"Francia","USA",8
-"Germania","Cina",4
-"Germania","Francia",5
-"Germania","Paesi Bassi",4
+"Arabia Saudita","Cina",6
+"Arabia Saudita","USA",5
+"Australia","Belgio",4
+"Australia","Canada",8
+"Australia","Cina",11
+"Australia","Danimarca",4
+"Australia","Italia",5
+"Australia","Paesi Bassi",4
+"Australia","Svizzera",6
+"Australia","UK",7
+"Australia","USA",10
+"Belgio","Australia",4
+"Belgio","Francia",9
+"Belgio","Germania",5
+"Belgio","Italia",6
+"Belgio","Paesi Bassi",4
+"Belgio","UK",6
+"Canada","Australia",8
+"Canada","Cina",17
+"Canada","Italia",5
+"Canada","Paesi Bassi",5
+"Canada","Singapore",6
+"Canada","UK",11
+"Canada","USA",22
+"Cina","Arabia Saudita",6
+"Cina","Australia",11
+"Cina","Canada",17
+"Cina","Francia",7
+"Cina","Germania",6
+"Cina","Hong Kong",9
+"Cina","India",5
+"Cina","Italia",5
+"Cina","Paesi Bassi",7
+"Cina","Singapore",6
+"Cina","Taiwan",4
+"Cina","UK",18
+"Cina","USA",52
+"Danimarca","Australia",4
+"Danimarca","Italia",5
+"Danimarca","Paesi Bassi",4
+"Danimarca","UK",4
+"Danimarca","USA",4
+"Francia","Belgio",9
+"Francia","Cina",7
+"Francia","Germania",8
+"Francia","Italia",8
+"Francia","Paesi Bassi",6
+"Francia","Spagna",6
+"Francia","UK",7
+"Francia","USA",11
+"Germania","Belgio",5
+"Germania","Cina",6
+"Germania","Francia",8
+"Germania","Italia",7
+"Germania","Paesi Bassi",7
+"Germania","Spagna",4
 "Germania","Svezia",4
-"Germania","USA",4
-"Italia","Francia",4
+"Germania","UK",5
+"Germania","USA",7
+"Hong Kong","Cina",9
+"Hong Kong","UK",5
+"Hong Kong","USA",7
+"India","Cina",5
+"India","Paesi Bassi",4
+"India","USA",4
+"Iran","USA",4
+"Italia","Australia",5
+"Italia","Belgio",6
+"Italia","Canada",5
+"Italia","Cina",5
+"Italia","Danimarca",5
+"Italia","Francia",8
+"Italia","Germania",7
 "Italia","N/A",5
-"Italia","UK",6
-"Italia","USA",11
+"Italia","Paesi Bassi",6
+"Italia","Spagna",6
+"Italia","Svizzera",4
+"Italia","UK",11
+"Italia","USA",17
+"Korea","UK",4
+"Korea","USA",4
 "N/A","Italia",5
 "N/A","Svezia",4
-"Paesi Bassi","Cina",4
-"Paesi Bassi","Germania",4
-"Paesi Bassi","UK",5
-"Spagna","Francia",4
+"Paesi Bassi","Australia",4
+"Paesi Bassi","Belgio",4
+"Paesi Bassi","Canada",5
+"Paesi Bassi","Cina",7
+"Paesi Bassi","Danimarca",4
+"Paesi Bassi","Francia",6
+"Paesi Bassi","Germania",7
+"Paesi Bassi","India",4
+"Paesi Bassi","Italia",6
+"Paesi Bassi","UK",9
+"Paesi Bassi","USA",5
+"Singapore","Canada",6
+"Singapore","Cina",6
+"Singapore","UK",4
+"Singapore","USA",7
+"Spagna","Francia",6
+"Spagna","Germania",4
+"Spagna","Italia",6
+"Spagna","UK",5
+"Spagna","USA",4
 "Svezia","Germania",4
 "Svezia","N/A",4
-"UK","Australia",5
-"UK","Belgio",4
-"UK","Canada",7
-"UK","Cina",9
-"UK","Francia",4
-"UK","Italia",6
-"UK","Paesi Bassi",5
-"UK","USA",17
-"USA","Arabia Saudita",4
-"USA","Australia",7
-"USA","Canada",11
-"USA","Cina",25
-"USA","Francia",8
-"USA","Germania",4
-"USA","Italia",11
-"USA","UK",17
+"Svizzera","Australia",6
+"Svizzera","Italia",4
+"Svizzera","UK",4
+"Taiwan","Cina",4
+"UK","Australia",7
+"UK","Belgio",6
+"UK","Canada",11
+"UK","Cina",18
+"UK","Danimarca",4
+"UK","Francia",7
+"UK","Germania",5
+"UK","Hong Kong",5
+"UK","Italia",11
+"UK","Korea",4
+"UK","Paesi Bassi",9
+"UK","Singapore",4
+"UK","Spagna",5
+"UK","Svizzera",4
+"UK","USA",23
+"USA","Arabia Saudita",5
+"USA","Australia",10
+"USA","Canada",22
+"USA","Cina",52
+"USA","Danimarca",4
+"USA","Francia",11
+"USA","Germania",7
+"USA","Hong Kong",7
+"USA","India",4
+"USA","Iran",4
+"USA","Italia",17
+"USA","Korea",4
+"USA","Paesi Bassi",5
+"USA","Singapore",7
+"USA","Spagna",4
+"USA","UK",23

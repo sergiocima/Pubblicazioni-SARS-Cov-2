@@ -1,49 +1,115 @@
 "From","To","Count"
-"ACE2","spike",3
-"Anxiety","Depression",5
-"Anxiety","Pandemic",3
-"Anxiety","Stress",5
-"Depression","Anxiety",5
-"Depression","Pandemic",3
-"Depression","Stress",5
-"Hydroxychloroquine","chloroquine",4
-"Infectious disease","Pandemic",7
-"Infectious disease","Public Health",7
-"Infectious disease","outbreak",6
-"Pandemic","Anxiety",3
-"Pandemic","Depression",3
-"Pandemic","Infectious disease",7
-"Pandemic","Prevention",3
-"Pandemic","Public Health",10
-"Pandemic","Social Media",3
-"Pandemic","Stress",3
-"Pandemic","Telehealth",3
-"Pandemic","Telemedicine",4
-"Pandemic","outbreak",10
-"Pneumonia","Tomography",3
-"Pneumonia","computed tomography",3
-"Prevention","Pandemic",3
-"Public Health","Infectious disease",7
-"Public Health","Pandemic",10
-"Public Health","Telemedicine",3
-"Public Health","outbreak",9
-"Social Media","Pandemic",3
-"Stress","Anxiety",5
-"Stress","Depression",5
-"Stress","Pandemic",3
-"Telehealth","Pandemic",3
-"Telehealth","Telemedicine",4
-"Telemedicine","Pandemic",4
-"Telemedicine","Public Health",3
-"Telemedicine","Telehealth",4
-"Tomography","Pneumonia",3
-"Transmission","Wuhan",3
-"Wuhan","Transmission",3
-"Wuhan","outbreak",3
-"chloroquine","Hydroxychloroquine",4
-"computed tomography","Pneumonia",3
-"outbreak","Infectious disease",6
-"outbreak","Pandemic",10
-"outbreak","Public Health",9
-"outbreak","Wuhan",3
-"spike","ACE2",3
+"ace2","spike",3
+"anxiety","depression",9
+"anxiety","epidemic",4
+"anxiety","pandemic",4
+"anxiety","stress",6
+"arima","forecasting",3
+"china","wuhan",3
+"chloroquine","hydroxychloroquine",4
+"cirugía","surgery",3
+"computed tomography","pneumonia",5
+"computed tomography","viral pneumonia",3
+"coronavirus infections","lung diseases",3
+"depression","anxiety",9
+"depression","epidemic",4
+"depression","pandemic",4
+"depression","stress",6
+"dual-use","engineering sars-cov-2 virus",4
+"dual-use","regulation",4
+"dual-use","risk",4
+"engineering sars-cov-2 virus","dual-use",4
+"engineering sars-cov-2 virus","regulation",4
+"engineering sars-cov-2 virus","risk",4
+"epidemic","anxiety",4
+"epidemic","depression",4
+"epidemic","pandemic",5
+"epidemic","stress",3
+"epidemiology","outbreak",4
+"forecasting","arima",3
+"humidity","temperature",3
+"hydroxychloroquine","chloroquine",4
+"infectious disease","outbreak",8
+"infectious disease","pandemic",8
+"infectious disease","prevention",3
+"infectious disease","public health",9
+"infectious disease","telemedicine",3
+"infodemiology","infoveillance",3
+"infoveillance","infodemiology",3
+"iran","outbreak",3
+"lung diseases","coronavirus infections",3
+"lung diseases","pneumonia",3
+"mers","sars",3
+"outbreak","epidemiology",4
+"outbreak","infectious disease",8
+"outbreak","iran",3
+"outbreak","pandemic",12
+"outbreak","prevention",4
+"outbreak","public health",12
+"outbreak","social media",3
+"outbreak","telemedicine",3
+"outbreak","wuhan",3
+"pandemic","anxiety",4
+"pandemic","depression",4
+"pandemic","epidemic",5
+"pandemic","infectious disease",8
+"pandemic","outbreak",12
+"pandemic","prevention",4
+"pandemic","public health",12
+"pandemic","screening",3
+"pandemic","social media",4
+"pandemic","stress",4
+"pandemic","telehealth",3
+"pandemic","telemedicine",7
+"pandemic","wuhan",3
+"pneumonia","computed tomography",5
+"pneumonia","lung diseases",3
+"pneumonia","tomography",3
+"prevention","infectious disease",3
+"prevention","outbreak",4
+"prevention","pandemic",4
+"prevention","public health",4
+"public health","infectious disease",9
+"public health","outbreak",12
+"public health","pandemic",12
+"public health","prevention",4
+"public health","social media",5
+"public health","telemedicine",4
+"public health","twitter",3
+"regulation","dual-use",4
+"regulation","engineering sars-cov-2 virus",4
+"regulation","risk",4
+"risk","dual-use",4
+"risk","engineering sars-cov-2 virus",4
+"risk","regulation",4
+"sars","mers",3
+"sars","wuhan",3
+"screening","pandemic",3
+"social media","outbreak",3
+"social media","pandemic",4
+"social media","public health",5
+"social media","twitter",3
+"spike","ace2",3
+"stress","anxiety",6
+"stress","depression",6
+"stress","epidemic",3
+"stress","pandemic",4
+"surgery","cirugía",3
+"telehealth","pandemic",3
+"telehealth","telemedicine",4
+"telemedicine","infectious disease",3
+"telemedicine","outbreak",3
+"telemedicine","pandemic",7
+"telemedicine","public health",4
+"telemedicine","telehealth",4
+"temperature","humidity",3
+"tomography","pneumonia",3
+"transmission","wuhan",3
+"twitter","public health",3
+"twitter","social media",3
+"viral pneumonia","computed tomography",3
+"wuhan","china",3
+"wuhan","outbreak",3
+"wuhan","pandemic",3
+"wuhan","sars",3
+"wuhan","transmission",3

@@ -1,7 +1,9 @@
 "Ente","Articoli pubblicati"
+"AOU - Ospedali Riuniti di Ancona",1
 "AOU di Bari",1
 "AOUI Verona",1
 "APSS Trento",1
+"ARPA Pavia",1
 "ARPA di Pavia",1
 "ASL 1 Abruzzo",1
 "ASL Brindisi",1
@@ -9,15 +11,16 @@
 "ASL Teramo",1
 "ASST Bergamo",1
 "ASST Crema",1
-"ASST Cremona",1
-"ASST Lodi",2
+"ASST Cremona",2
+"ASST Fatebenefratelli di Milano",2
+"ASST Lodi",3
 "ASST Melegnano",1
 "ASST Milano",1
 "ASST Monza",1
-"ASST Papa Giovanni XXIII",1
+"ASST Papa Giovanni XXIII",2
 "ASST Pavia",1
 "ASST Rhodense",1
-"ASST Spedali Civili di Brescia",1
+"ASST Spedali Civili di Brescia",3
 "ASST Valleolona di Gallarate",1
 "ASST Varese",1
 "ASST del garda",1
@@ -30,56 +33,72 @@
 "Città",2
 "Clinica San Carlo di Milano",1
 "ECJRC Ispra",1
-"FBK Trento",2
+"FBK Trento",3
 "Fondazione ISI Torino",1
-"Fondazione Poliambulanza Istituto Ospedaliero di Brescia",1
+"Fondazione Poliambulanza Istituto Ospedaliero di Brescia",3
 "Humanitas Gavazzeni di Bergamo",1
+"IRCCS Aviano",1
+"IRCCS Fondazione Bietti di Roma",1
 "IRCCS IEO Milano",2
+"IRCCS Istituto tumori di Milano",1
 "IRCCS Maugeri di Pavia",1
 "IRCCS Monzino",1
 "IRCCS Multimedica Milano",1
-"IRCCS Ospedale Maggiore Milano",2
+"IRCCS Ospedale Maggiore Milano",4
+"IRCCS Policlinico San Doanto di Milano",1
 "IRCCS San Donato di Milano",1
-"IRCCS San Matteo Pavia",3
-"IRCCS San Raffaele Milano",5
+"IRCCS San Matteo Pavia",6
+"IRCCS San Raffaele Milano",10
 "IRCCS Santa Lucia di Roma",1
-"IRCCS Spallanzani di Roma",7
+"IRCCS Spallanzani di Roma",6
 "Istituto Superiore di Sanità",2
 "Istituto Zooprofilattico Sperimentale dell'Abruzzo e Molise",1
 "Italian Army Medical Center di Roma",2
 "Ministero della Salute Roma",1
 "Ospedale Humanitas di Castellanza",1
-"Ospedale Humanitas di Rozzano",5
+"Ospedale Humanitas di Rozzano",8
 "Ospedale San Giovanni di Dio di Firenze",1
 "Ospedale Valduce Como",2
 "Ospedali riuniti Marche Nord di Pesaro",1
 "Policlinico San Marco di Zingonia",1
+"Policlinico San Martino di Genova",1
 "Policlinico San Pietro di Bergamo",1
-"Regione Lombardia",1
+"Policlinico Umberto I di Roma",1
+"Politecnico di Milano",1
+"Regione Lombardia",3
+"Regione Toscana",1
+"Società Italiana Embriologia Riproduzione e Ricerca",1
 "Telerehabilitation International di Roma",1
 "USL Pescara",1
+"USSL Rovigo",1
 "Ulisse Biomed",1
+"University della Campania “Luigi Vanvitelli”",1
 "Università Magna Græcia di Catanzaro",1
 "Università Campus Bio-Medico di Roma",4
-"Università Cattolica del Sacro Cuore Roma",2
-"Università Federico II di Napoli",3
-"Università La Sapienza di Roma",2
+"Università Cattolica del Sacro Cuore Roma",6
+"Università Federico II di Napoli",4
+"Università La Sapienza di Roma",8
 "Università Milano Bicocca",3
 "Università Politecnica delle Marche",2
+"Università Tor Vergata di Roma",1
 "Università del Piemonte Orientale",2
 "Università del Salento",2
 "Università dell'Aquila",1
-"Università della Basilicata",3
+"Università dell'Insubria",2
+"Università della Basilicata",2
 "Università di Bari",1
 "Università di Bologna",2
+"Università di Brescia",1
 "Università di Cagliari",1
 "Università di Camerino",1
+"Università di Catanzaro",1
+"Università di Ferrara",2
 "Università di Firenze",1
 "Università di Milano",7
-"Università di Padova",2
-"Università di Pavia",1
-"Università di Roma",1
-"Università di Salerno",1
-"Università di Sassari",1
+"Università di Padova",4
+"Università di Parma",1
+"Università di Pavia",2
+"Università di Siena",1
 "Università di Trento",1
-"Università di Trieste",2
+"Università di Trieste",1
+"Università di Udine",1

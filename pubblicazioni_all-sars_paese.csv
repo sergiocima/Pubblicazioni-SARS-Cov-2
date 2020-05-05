@@ -1,20 +1,25 @@
 "Country","Codice","Articoli pubblicati"
-"Arabia Saudita","SAU",11
-"Australia","AUS",20
-"Canada","CAN",31
-"Cina","CHN",262
-"Francia","FRA",42
-"Germania","DEU",31
-"Giappone","JPN",11
-"India","IND",24
-"Iran","IRN",14
-"Italia","ITA",54
-"Korea","KOR",17
-"N/A","N/A",17
-"Paesi Bassi","NLD",13
-"Singapore","SGP",14
-"Spagna","ESP",21
-"Svezia","SWE",10
-"UK","GBR",53
-"USA","USA",163
-"Altro",,117
+"Arabia Saudita","SAU",15
+"Australia","AUS",34
+"Belgio","BEL",15
+"Brasile","BRA",17
+"Canada","CAN",48
+"Cina","CHN",392
+"Francia","FRA",57
+"Germania","DEU",43
+"Giappone","JPN",18
+"Grecia","GRC",10
+"Hong Kong","HKG",16
+"India","IND",50
+"Iran","IRN",23
+"Italia","ITA",85
+"Korea","KOR",20
+"N/A","N/A",18
+"Paesi Bassi","NLD",24
+"Singapore","SGP",25
+"Spagna","ESP",39
+"Svezia","SWE",12
+"Svizzera","CHE",15
+"UK","GBR",79
+"USA","USA",284
+"Altro",,148
