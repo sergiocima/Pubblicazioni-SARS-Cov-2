@@ -9,13 +9,13 @@
 "AORN Ospedali dei Colli Monaldi di Napoli",1
 "AORN Sant'Anna e San Sebastiano di Caserta",2
 "AOU - Ospedali Riuniti di Ancona",1
-"AOU Careggi di Firenze",11
+"AOU Careggi di Firenze",12
 "AOU Città della Salute e della Scienza di Torino",7
 "AOU Giuliano Isontina di Trieste",1
 "AOU Meyer Firenze",1
 "AOU Riuniti di Ancona",1
-"AOU SMM Udine",3
-"AOU San Giovanni di Dio e Ruggero d'Aragona di Salerno",1
+"AOU SMM Udine",1
+"AOU San Giovanni di Dio e Ruggero d'Aragona di Salerno",2
 "AOU San Luigi Gonzaga di Orbassano",8
 "AOU Sant'Andrea di Roma",1
 "AOU Sassari",3
@@ -25,7 +25,7 @@
 "AOU di Bari",1
 "AOU di Gorizia",1
 "AOU di Padova",11
-"AOU di Parma",4
+"AOU di Parma",5
 "AOU di Pisa",6
 "AOU di Sassari",1
 "AOU di Siena",1
@@ -40,6 +40,7 @@
 "ASL 3 di Genova",3
 "ASL BAT Andria",1
 "ASL Brindisi",1
+"ASL N2 Marca Trevigiana ",1
 "ASL Roma 1",5
 "ASL Roma 4",1
 "ASL Salerno",1
@@ -49,7 +50,7 @@
 "ASP Reggio Calabria",1
 "ASSL Oristano",1
 "ASST Bergamo",1
-"ASST Bergamo Est",7
+"ASST Bergamo Est",8
 "ASST Bergamo Papa Giovanni XXIII",2
 "ASST Cagliari",1
 "ASST Crema",1
@@ -57,20 +58,20 @@
 "ASST Fatebenefratelli Sacco di Milano",16
 "ASST Franciacorta",1
 "ASST Gaetano Pini",3
-"ASST Grande Ospedale Metropolitano Niguarda",15
+"ASST Grande Ospedale Metropolitano Niguarda",16
 "ASST Lariana di Como",1
 "ASST Lecco",3
 "ASST Lodi",9
 "ASST Mantova",3
 "ASST Melegnano",2
-"ASST Monza",6
+"ASST Monza",7
 "ASST Ovest Milanese",2
-"ASST Papa Giovanni XIII di Bergamo",14
+"ASST Papa Giovanni XIII di Bergamo",15
 "ASST Pavia",1
 "ASST Rhodense",1
 "ASST Santi Paolo e Carlo di Milano",7
 "ASST Sette Laghi",8
-"ASST Spedali Civili di Brescia",13
+"ASST Spedali Civili di Brescia",15
 "ASST Valleolona di Gallarate",1
 "ASST Valtellina e Alto Lario",1
 "ASST Varese",1
@@ -79,7 +80,7 @@
 "ASUFC Ospedale di Latisana",1
 "ASUR Marche",3
 "AULSS 2 Marca Trevigiana Treviso",1
-"AUSL Bologna",6
+"AUSL Bologna",7
 "AUSL Modena",2
 "AUSL Romagna",1
 "AUSL Toscana nord ovest",4
@@ -97,21 +98,25 @@
 "Bresciamed",1
 "CAST Policlinico Ospedale Catania",1
 "CESMAV Firenze",1
-"CNR",8
+"CNR",9
 "Casa di Cura S Michele Maddaloni",1
 "Casa di Cura Villa Serena Piossasco",1
 "Centro Gestione Rischio Clinico Toscana",1
 "Centro Nazionale Sangue",2
 "Clinica Montevergine di Mercogliano",1
 "Clinica San Carlo di Milano",1
+"EBTNA-Lab Rovereto",1
 "ECJRC Ispra",1
-"EURAC di Bolzano",2
+"EURAC di Bolzano",3
+"European Reference Network for Rare e Low Prevalence Complex Diseases",1
 "FAO",1
+"FASTeR Italiano Federation di Scientific Radiographers Societies Italy",1
 "Flow Cytometry Clinical di Brescia",1
 "Fondazione Arianna di Bologna",1
 "Fondazione Bruno Kessler di Trento",4
 "Fondazione ISI Torino",2
-"Fondazione Poliambulanza di Brescia",8
+"Fondazione NIBIT Onlus di Siena",1
+"Fondazione Poliambulanza di Brescia",9
 "Fondazione ReS Casalecchio di Reno",1
 "Fondazione Toscana G Monasterio",2
 "GISED Bergamo",1
@@ -121,26 +126,26 @@
 "IRCCS Aviano",1
 "IRCCS Bambino Gesù di Roma",5
 "IRCCS Besta di Milano",4
-"IRCCS Ca' Granda Ospedale Maggiore di Milano",25
+"IRCCS Burlo Garofolo di Trieste",1
+"IRCCS Ca' Granda Ospedale Maggiore di Milano",26
 "IRCCS Candiolo",2
 "IRCCS Fatebenefratelli di Brescia.",1
 "IRCCS Fondazione Bietti di Roma",1
 "IRCCS Fondazione Don Carlo Gnocchi di Milano",2
 "IRCCS Gaslini di Genova",3
-"IRCCS Gemelli di Roma",32
-"IRCCS Humanitas Pieve Emanuele",2
-"IRCCS Humanitas di Rozzano",33
+"IRCCS Gemelli di Roma",39
+"IRCCS Humanitas Pieve Emanuele",4
+"IRCCS Humanitas di Rozzano",38
 "IRCCS IEO Milano",2
-"IRCCS IEO di Milano",2
+"IRCCS IEO di Milano",4
 "IRCCS INRCA Ancona",1
 "IRCCS IOV di Treviso",2
 "IRCCS Istituto Ortopedico Galeazzi di Milano",5
 "IRCCS Istituto Tumori Giovanni Paolo II di Bari",1
 "IRCCS Istituto Tumori di Milano",9
 "IRCCS Mario Negri",2
-"IRCCS Maugeri Pavia",2
+"IRCCS Maugeri Pavia",4
 "IRCCS Medea di Bosisio Parini",1
-"IRCCS Medea di Brindisi",1
 "IRCCS Monzino di Milano",7
 "IRCCS MultiMedica di Milano",5
 "IRCCS NEUROMED di Pozzilli",2
@@ -151,15 +156,17 @@
 "IRCCS Rizzoli di Bologna",1
 "IRCCS Sacro Cuore Don Calabria di Negrar",1
 "IRCCS San Martino di Genova",3
-"IRCCS San Matteo di Pavia",24
-"IRCCS San Raffaele Milano",35
+"IRCCS San Matteo di Pavia",25
+"IRCCS San Raffaele Milano",36
 "IRCCS Santa Lucia di Roma",1
 "IRCCS Spallanzani di Roma",15
 "IRCCS Tumori di Aviano",1
 "IRCCS di Reggio Emilia",5
 "ISBEM di Mesagne",1
 "Instituto Italiano di Telemedicina Varese",1
+"Intensive Care Unit",1
 "International Federation for Medical e Biological Engineering Florence",1
+"International Medical Radio Center Foundation (CIRM) di Roma",1
 "Istituto Clinico Sant'Ambrogio di Milano",3
 "Istituto Montecatone di Imola",4
 "Istituto Sant'Anna Institute di Crotone",1
@@ -168,10 +175,10 @@
 "Italian Army Medical Center di Roma",2
 "MAGI-Euregio Bolzano",1
 "Madonna del Ponte di Lanciano",1
-"Mediterranea Cardiocentro Napoli",1
+"Mediterranea Cardiocentro Napoli",3
 "Mensana srls Brescia",1
 "Ministero della Salute",1
-"N/A",6
+"N/A",16
 "Nuovo Ospedale Regina Margherita di Roma",1
 "Ospedale  Circolo e Fondazione Macchi Varese",1
 "Ospedale Bufalini di Cesena",1
@@ -187,7 +194,7 @@
 "Ospedale Maggiore di Bologna",5
 "Ospedale Maggiore di Crema",1
 "Ospedale Maggiore di Parma",2
-"Ospedale Maria Cecilia di Cotignola",1
+"Ospedale Maria Cecilia di Cotignola",2
 "Ospedale Mater Olbia",1
 "Ospedale Meyer di Florence",1
 "Ospedale Morgagni di Forlì",1
@@ -229,7 +236,7 @@
 "Ospedale di Civitavecchia",1
 "Ospedale di Corigliano-Rossano",1
 "Ospedale di Cosenza",1
-"Ospedale di Cotignola",2
+"Ospedale di Cotignola",3
 "Ospedale di Cremona",4
 "Ospedale di Cuneo",1
 "Ospedale di Feltre",1
@@ -238,6 +245,7 @@
 "Ospedale di Manerbio",2
 "Ospedale di Mantova",1
 "Ospedale di Matera",1
+"Ospedale di Merano",1
 "Ospedale di Nola",1
 "Ospedale di Pozzuoli",1
 "Ospedale di Sanremo",1
@@ -260,6 +268,7 @@
 "Policlinico San Pietro di Bergamo",1
 "Policlinico Sant'Orsola di Bologna",4
 "Policlinico Umberto I di Roma",1
+"Policlinico di Milano",1
 "Politecnico di Milano",3
 "Presidenza del Consiglio dei Ministri",1
 "Presidio Ospedaliero di Eboli",1
@@ -275,6 +284,7 @@
 "Telerehabilitation International di Roma",1
 "The Medical Center Practice Office di Torino",1
 "ULSS 20 di Verona",1
+"UNESCO",1
 "USL Pescara",1
 "USL Reggio Emilia",1
 "USL Umbria 1 di Perugia",3
@@ -286,44 +296,44 @@
 "Università Bocconi di Milano",1
 "Università Ca' Foscari Venezia",1
 "Università Campus Bio Medico di Roma",16
-"Università Cattolica di Roma",12
+"Università Cattolica di Roma",19
 "Università D'Annunzio di Chieti",4
-"Università Federico II di Napoli",31
-"Università La Sapienza di Roma",48
+"Università Federico II di Napoli",32
+"Università La Sapienza di Roma",50
 "Università Marconi di Roma",1
 "Università Politecnica delle Marche",5
 "Università Roma Tre",1
 "Università Tor Vergata di Roma",11
 "Università degl Studi della Campania",16
 "Università degli Studi dell'Insubria Como",1
-"Università degli studi di Milano",41
+"Università degli Studi dell'Insubria Varese",1
+"Università degli studi di Milano",48
 "Università del Molise",1
-"Università del Piemonte Orientale di Novara",7
+"Università del Piemonte Orientale di Novara",6
 "Università del Salento",3
 "Università dell'Aquila",3
-"Università dell'Insubria di Varese",7
+"Università dell'Insubria di Varese",8
 "Università della Basilicata",2
 "Università della Calabria",1
-"Università di Ancona",2
 "Università di Bari",10
 "Università di Benevento",1
 "Università di Bergamo",1
 "Università di Bologna",10
-"Università di Brescia",14
+"Università di Brescia",15
 "Università di Cagliari",6
 "Università di Camerino",2
 "Università di Catania",5
-"Università di Ferrara",11
-"Università di Firenze",17
+"Università di Ferrara",12
+"Università di Firenze",18
 "Università di Foggia",4
-"Università di Genova",7
-"Università di Messina",6
-"Università di Milano Bicocca",15
+"Università di Genova",9
+"Università di Messina",4
+"Università di Milano Bicocca",18
 "Università di Modena e Reggio Emilia",9
-"Università di Padova",30
+"Università di Padova",31
 "Università di Palermo",7
-"Università di Parma",8
-"Università di Pavia",8
+"Università di Parma",9
+"Università di Pavia",12
 "Università di Perugia",9
 "Università di Pisa",8
 "Università di Salerno",2
@@ -334,6 +344,5 @@
 "Università di Trieste",9
 "Università di Udine",7
 "Università di Verona",1
-"Università statale di Milano",4
 "Velleja Research Milano",1
-"consulente",15
+"consulente",17
