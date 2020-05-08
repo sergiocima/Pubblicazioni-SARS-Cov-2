@@ -1,25 +1,53 @@
 "Country","Codice","Articoli pubblicati"
-"Arabia Saudita","SAU",15
-"Australia","AUS",34
-"Belgio","BEL",15
-"Brasile","BRA",17
-"Canada","CAN",48
-"Cina","CHN",392
-"Francia","FRA",57
-"Germania","DEU",43
-"Giappone","JPN",18
-"Grecia","GRC",10
-"Hong Kong","HKG",16
-"India","IND",50
-"Iran","IRN",23
-"Italia","ITA",85
-"Korea","KOR",20
-"N/A","N/A",18
-"Paesi Bassi","NLD",24
-"Singapore","SGP",25
-"Spagna","ESP",39
-"Svezia","SWE",12
-"Svizzera","CHE",15
-"UK","GBR",79
-"USA","USA",284
-"Altro",,148
+"Arabia Saudita","SAU",47
+"Argentina","ARG",14
+"Australia","AUS",155
+"Austria","AUT",38
+"Bangladesh","BGD",12
+"Belgio","BEL",68
+"Brasile","BRA",88
+"Canada","CAN",241
+"Cile","CHL",16
+"Cina","CHN",1265
+"Colombia","COL",21
+"Croazia","HRV",15
+"Danimarca","DNK",28
+"Egitto","EGY",22
+"Emirati Arabi Uniti","ARE",15
+"Francia","FRA",231
+"Germania","DEU",216
+"Giappone","JPN",77
+"Giordania","JOR",10
+"Grecia","GRC",36
+"Hong Kong","HKG",73
+"India","IND",197
+"Iran","IRN",116
+"Irlanda","IRL",31
+"Israele","ISR",38
+"Italia","ITA",587
+"Korea","KOR",83
+"Libano","LBN",14
+"Malesia","MYS",21
+"Messico","MEX",27
+"N/A","N/A",263
+"Nepal","NPL",18
+"Nigeria","NGA",15
+"Norvegia","NOR",21
+"Nuova Zelanda","NZL",12
+"Paesi Bassi","NLD",84
+"Pakistan","PAK",10
+"Polonia","POL",28
+"Portogallo","PRT",27
+"Russia","RUS",10
+"Singapore","SGP",133
+"Spagna","ESP",158
+"Sud Africa","ZAF",23
+"Svezia","SWE",46
+"Svizzera","CHE",113
+"Tailandia","THA",29
+"Taiwan","TWN",70
+"Turchia","TUR",59
+"UK","GBR",511
+"USA","USA",1594
+"Ungheria","HUN",20
+"Altro",,172

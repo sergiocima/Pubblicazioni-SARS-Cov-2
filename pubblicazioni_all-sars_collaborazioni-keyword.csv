@@ -1,115 +1,1695 @@
 "From","To","Count"
+,"dialysis",4
+,"epidemiology",4
+,"health information exchange",4
+,"hospital mortality",4
+,"pandemics",5
+,"severe acute respiratory syndrome coronavirus 2",7
+,"treatment",3
+"2019 novel coronavirus disease","china",9
+"2019 novel coronavirus disease","respiratory infections",8
+"2019 novel coronavirus disease","severe acute respiratory syndrome coronavirus 2",11
+"2019 novel coronavirus disease","viruses",11
+"2019 novel coronavirus disease","wuhan",3
+"2019 novel coronavirus disease","zoonoses",10
+"5-hydroxymethylfurfural","nutritional supplement",4
+"aans","aasns",4
+"aans","caans",4
+"aans","eans",4
+"aans","flanc",4
+"aans","neurosurgery",4
+"aans","wfns",4
+"aasns","aans",4
+"aasns","caans",4
+"aasns","eans",4
+"aasns","flanc",4
+"aasns","neurosurgery",4
+"aasns","wfns",4
+"ace inhibitor","angiotensin receptor blocker",3
+"ace2","cardiovascular disease",5
+"ace2","sars",3
 "ace2","spike",3
-"anxiety","depression",9
+"ace2","tmprss2",6
+"ace2, angiotensin-converting enzyme 2","ards, acute respiratory distress syndrome",3
+"ace2, angiotensin-converting enzyme 2","covid-19, coronavirus disease 2019",3
+"ace2, angiotensin-converting enzyme 2","sars-cov-2, severe acute respiratory syndrome coronavirus 2",3
+"acei","arb",3
+"acute cardiac care","acute coronary syndrome",4
+"acute cardiac care","heart failure",4
+"acute cardiac care","intensive care unit",4
+"acute coronary syndrome","acute cardiac care",4
+"acute coronary syndrome","heart failure",4
+"acute coronary syndrome","intensive care unit",4
+"acute lung injury","acute respiratory distress syndrome",4
+"acute lung injury","ards",4
+"acute lung injury","hydroxychloroquine",4
+"acute lung injury","lopinavir",4
+"acute lung injury","multiorgan dysfunction",4
+"acute lung injury","ritonavir",4
+"acute lung injury","severe pneumonia",4
+"acute respiratory disease","australia",11
+"acute respiratory disease","case definition",8
+"acute respiratory disease","epidemiology",11
+"acute respiratory distress syndrome","acute lung injury",4
+"acute respiratory distress syndrome","ards",11
+"acute respiratory distress syndrome","hydroxychloroquine",4
+"acute respiratory distress syndrome","lopinavir",4
+"acute respiratory distress syndrome","multiorgan dysfunction",4
+"acute respiratory distress syndrome","pneumonia",9
+"acute respiratory distress syndrome","pregnancy",6
+"acute respiratory distress syndrome","risk factors",4
+"acute respiratory distress syndrome","ritonavir",4
+"acute respiratory distress syndrome","sars",3
+"acute respiratory distress syndrome","severe pneumonia",4
+"acute respiratory distress syndrome","virus",3
+"admet","dft",4
+"admet","docking",4
+"admet","main protease",4
+"admet","phytochemicals",4
+"aerosol","hvac",4
+"aerosol","ventilation",4
+"africa","covid-19 attributable deaths",4
+"africa","covid-19 confirmed cases",4
+"africa","spatial variation",4
+"africa","system gmm",4
+"ageusia","anosmia",3
+"airway","tracheostomy",4
+"amantadine","docking",4
+"amantadine","viroporin",4
+"amygdalin (pubchem cid: 656516)","baicalin (pubchem cid: 64982)",4
+"amygdalin (pubchem cid: 656516)","ephedrine (pubchem cid: 9294)",4
+"amygdalin (pubchem cid: 656516)","glycyrrhizic acid (pubchem cid: 14982)",4
+"amygdalin (pubchem cid: 656516)","hesperidin (pubchem cid: 10621)",4
+"amygdalin (pubchem cid: 656516)","narirutin (pubchem cid: 442431)",4
+"amygdalin (pubchem cid: 656516)","neohesperidin (pubchem cid: 442439)",4
+"anesthesiology","intensive care",3
+"angiotensin","cardiovascular",3
+"angiotensin","hypertension",3
+"angiotensin receptor blocker","ace inhibitor",3
+"anosmia","ageusia",3
+"anosmia","dysgeusia",4
+"anosmia","encephalitis",4
+"anosmia","hyposmia",3
+"anosmia","neurodegenerative diseases",4
+"anosmia","neurological alterations",4
+"anosmia","olfactory function",3
+"anosmia","parkinson’s disease",4
+"anosmia","smell",4
+"anti-viral responses","asthma",4
+"anti-viral responses","basigin",4
+"anti-viral responses","cellular therapy",4
+"anti-viral responses","diabetes mellitus",4
+"anti-viral responses","emmprin",4
+"anti-viral responses","invasion",4
+"anti-viral responses","lung stem cells",4
+"antibody-dependent enhancement (ade)","fc receptors (fcr)",4
+"antibody-dependent enhancement (ade)","inflammatory response",4
+"antiviral","immunization",4
+"antiviral","pandemic",3
+"antiviral","therapy",4
+"antiviral targeting site","crystal structure",4
+"antiviral targeting site","nucleocapsid protein",4
+"antiviral targeting site","rna binding domain",4
+"antiviral therapy","innate immune",4
+"antiviral therapy","interferon",4
+"anxiety","depression",13
 "anxiety","epidemic",4
-"anxiety","pandemic",4
+"anxiety","mental health",3
+"anxiety","pandemic",5
+"anxiety","psychological impact",3
 "anxiety","stress",6
-"arima","forecasting",3
-"china","wuhan",3
-"chloroquine","hydroxychloroquine",4
-"cirugía","surgery",3
-"computed tomography","pneumonia",5
+"arb","acei",3
+"arbidol","camostat",4
+"arbidol","chloroquine",4
+"arbidol","drugs",4
+"arbidol","favipiravir",4
+"arbidol","lopinavir",5
+"arbidol","phytochemicals",4
+"arbidol","remdesivir",4
+"arbidol","ritonavir",5
+"ards","acute lung injury",4
+"ards","acute respiratory distress syndrome",11
+"ards","hydroxychloroquine",4
+"ards","lopinavir",4
+"ards","multiorgan dysfunction",4
+"ards","pandemic",3
+"ards","pneumonia",5
+"ards","pregnancy",5
+"ards","ritonavir",4
+"ards","sars",4
+"ards","severe pneumonia",4
+"ards, acute respiratory distress syndrome","ace2, angiotensin-converting enzyme 2",3
+"arima","forecasting",6
+"arima","infection disease",4
+"arima","pandemic",4
+"arima","time series",4
+"asistencia neurologica","consenso",4
+"asistencia neurologica","covid 19",4
+"asistencia neurologica","departamento de neurologia",4
+"asistencia neurologica","gestion sanitaria",4
+"asistencia neurologica","informadores clave",4
+"asthma","anti-viral responses",4
+"asthma","basigin",4
+"asthma","cellular therapy",4
+"asthma","diabetes mellitus",4
+"asthma","emmprin",4
+"asthma","invasion",4
+"asthma","lung stem cells",4
+"asymptomatic","severe acute respiratory syndrome coronavirus 2",4
+"attitude","knowledge",3
+"australia","acute respiratory disease",11
+"australia","case definition",9
+"australia","epidemiology",12
+"autoimmune diseases","hydroxychloroquine",3
+"azithromycin","hydroxychloroquine",5
+"azithromycin","interferons",4
+"azithromycin","nitazoxanide",4
+"azithromycin","sars cov-2",4
+"baicalin (pubchem cid: 64982)","amygdalin (pubchem cid: 656516)",4
+"baicalin (pubchem cid: 64982)","ephedrine (pubchem cid: 9294)",4
+"baicalin (pubchem cid: 64982)","glycyrrhizic acid (pubchem cid: 14982)",4
+"baicalin (pubchem cid: 64982)","hesperidin (pubchem cid: 10621)",4
+"baicalin (pubchem cid: 64982)","narirutin (pubchem cid: 442431)",4
+"baicalin (pubchem cid: 64982)","neohesperidin (pubchem cid: 442439)",4
+"basigin","anti-viral responses",4
+"basigin","asthma",4
+"basigin","cellular therapy",4
+"basigin","diabetes mellitus",4
+"basigin","emmprin",4
+"basigin","invasion",4
+"basigin","lung stem cells",4
+"billing","coding",4
+"billing","pandemic",4
+"billing","telemedicine",4
+"biologic therapy","immunosuppressants",4
+"biologic therapy","inflammatory bowel disease",4
+"biomarkers","diagnosis",4
+"biomarkers","disease progression",4
+"biomarkers","lung ultrasound",4
+"biomarkers","pleural effusion",4
+"biomarkers","prediction",4
+"biomarkers","pregnancy",4
+"biomarkers","respiratory failure",4
+"biomarkers","viral infection",4
+"bisphosphonate","bone mineral density",4
+"bisphosphonate","denosumab",4
+"bisphosphonate","fracture",4
+"bisphosphonate","osteoporosis",4
+"bone mineral density","bisphosphonate",4
+"bone mineral density","denosumab",4
+"bone mineral density","fracture",4
+"bone mineral density","osteoporosis",4
+"brazil","generalized additive model",4
+"brazil","transmission",4
+"brazil","tropical temperature",4
+"broncoscopia","consenso",4
+"caans","aans",4
+"caans","aasns",4
+"caans","eans",4
+"caans","flanc",4
+"caans","neurosurgery",4
+"caans","wfns",4
+"camostat","arbidol",4
+"camostat","chloroquine",4
+"camostat","drugs",4
+"camostat","favipiravir",4
+"camostat","lopinavir",4
+"camostat","phytochemicals",4
+"camostat","remdesivir",4
+"camostat","ritonavir",4
+"cancer","pandemic",3
+"carbon monoxide","lockdown",4
+"carbon monoxide","nitrogen dioxide",4
+"carbon monoxide","ozone",4
+"cardiogenic shock","extracorporeal membrane oxygenation",4
+"cardiogenic shock","mechanical circulatory support",4
+"cardiogenic shock","myocarditis",5
+"cardiovascular","angiotensin",3
+"cardiovascular disease","ace2",5
+"cardiovascular disease","mechanisms of myocardial injury",4
+"cardiovascular disease","myocardial injury",4
+"cardiovascular disease","myocarditis",4
+"cardiovascular disease","severe acute respiratory syndrome coronavirus-2",4
+"care","immunity",4
+"care","older adults",4
+"care","pathogenesis",4
+"cares act","coronavirus aid",4
+"cares act","coronavirus economic stabilization act",4
+"cares act","covid-19 outbreak",4
+"cares act","pandemic",4
+"cares act","relief and economic security act",4
+"cares act","virus",4
+"case definition","acute respiratory disease",8
+"case definition","australia",9
+"case definition","epidemiology",9
+"ce marking","face-shields",4
+"ce marking","international standards",4
+"ce marking","masks",4
+"ce marking","personal protective equipment",4
+"ce marking","visors",4
+"cellular therapy","anti-viral responses",4
+"cellular therapy","asthma",4
+"cellular therapy","basigin",4
+"cellular therapy","diabetes mellitus",4
+"cellular therapy","emmprin",4
+"cellular therapy","invasion",4
+"cellular therapy","lung stem cells",4
+"central nervous system","circulatory system",4
+"central nervous system","digestive system",4
+"central nervous system","urogenital system",4
+"chest ct","convolutional neural networks",4
+"chest ct","differential evolution",4
+"chest ct","multi-objective",4
+"chest physiotherapy","health care workers",4
+"chest physiotherapy","high flow nasal cannula",4
+"chest physiotherapy","non invasive ventilation",4
+"chest physiotherapy","pronation",4
+"chest x-ray","scoring system",5
+"child","computed tomography",4
+"child","pneumonia",4
+"child","viral",4
+"children","clinical characteristics",3
+"children","pediatric",3
+"china","2019 novel coronavirus disease",9
+"china","epidemic",3
+"china","hospital environmental contamination",4
+"china","pandemic",3
+"china","respiratory infections",7
+"china","severe acute respiratory syndrome coronavirus 2",9
+"china","viruses",9
+"china","wuhan",10
+"china","zoonoses",8
+"chloroquine","arbidol",4
+"chloroquine","camostat",4
+"chloroquine","clinical trials",4
+"chloroquine","drugs",5
+"chloroquine","electrocardiogram",4
+"chloroquine","favipiravir",5
+"chloroquine","hydroxychloroquine",18
+"chloroquine","lopinavir",4
+"chloroquine","pandemic",3
+"chloroquine","phytochemicals",4
+"chloroquine","qt prolongation",4
+"chloroquine","remdesivir",9
+"chloroquine","ritonavir",4
+"chloroquine","sars-cov‑2",4
+"chronic","dialysis",3
+"chronic","kidney failure",3
+"chronic","severe acute respiratory syndrome coronavirus 2",3
+"circulatory system","central nervous system",4
+"circulatory system","digestive system",4
+"circulatory system","urogenital system",4
+"cirugía","surgery",4
+"ck","clearance ratio",4
+"ck","ldh",4
+"clearance ratio","ck",4
+"clearance ratio","ldh",4
+"climate","iran",4
+"climate","outbreak",4
+"climate","sensitivity analysis",4
+"clinical characteristics","children",3
+"clinical characteristics","corona virus disease 2019",4
+"clinical characteristics","epidemiology",9
+"clinical characteristics","meta-analysis",3
+"clinical characteristics","novel coronavirus pneumonia",4
+"clinical characteristics","outcomes",4
+"clinical characteristics","treatment",5
+"clinical features","immune",4
+"clinical features","paediatrics",4
+"clinical manifestation","immunity",4
+"clinical manifestation","laboratory characteristics",4
+"clinical manifestation","pregnant women",4
+"clinical trials","chloroquine",4
+"clinical trials","hydroxychloroquine",4
+"coagulation parameter","d-dimer",3
+"coding","billing",4
+"coding","pandemic",4
+"coding","telemedicine",4
+"colonoscopy","endoscopy",4
+"colonoscopy","pandemic",4
+"community health","equity",4
+"community health","global health",4
+"community health","informal settlements",4
+"community health","slums",4
+"community pharmacy","pharmacist",3
+"computed tomography","child",4
+"computed tomography","imaging features",3
+"computed tomography","pneumonia",10
+"computed tomography","viral",4
 "computed tomography","viral pneumonia",3
-"coronavirus infections","lung diseases",3
-"depression","anxiety",9
+"consenso","asistencia neurologica",4
+"consenso","broncoscopia",4
+"consenso","consensus",4
+"consenso","covid 19",4
+"consenso","departamento de neurologia",4
+"consenso","gestion sanitaria",4
+"consenso","informadores clave",4
+"consensus","consenso",4
+"control","epidemiology",3
+"convalescent plasma","pandemic",4
+"convalescent plasma","passive antibody transfer",4
+"convalescent plasma","sarscov-2",4
+"convolutional neural networks","chest ct",4
+"convolutional neural networks","differential evolution",4
+"convolutional neural networks","multi-objective",4
+"corona","ehealth",4
+"corona","pandemic",3
+"corona virus disease 2019","clinical characteristics",4
+"corona virus disease 2019","epidemiology",4
+"corona virus disease 2019","nosocomial infection",4
+"corona virus disease 2019","outcomes",4
+"corona virus disease 2019","treatment",4
+"coronavirus aid","cares act",4
+"coronavirus aid","coronavirus economic stabilization act",4
+"coronavirus aid","covid-19 outbreak",4
+"coronavirus aid","pandemic",4
+"coronavirus aid","relief and economic security act",4
+"coronavirus aid","virus",4
+"coronavirus economic stabilization act","cares act",4
+"coronavirus economic stabilization act","coronavirus aid",4
+"coronavirus economic stabilization act","covid-19 outbreak",4
+"coronavirus economic stabilization act","pandemic",4
+"coronavirus economic stabilization act","relief and economic security act",4
+"coronavirus economic stabilization act","virus",4
+"coronavirus infection","pandemic",3
+"coronavirus infections","lung diseases",6
+"coronavirus infections","pneumonia",8
+"coronavirus infections","portugal",3
+"coronavirus infections","tomography",4
+"coronavirus infections","tomography, x-ray computed",4
+"coronavirus infections","x-ray computed",4
+"covid 19","asistencia neurologica",4
+"covid 19","consenso",4
+"covid 19","departamento de neurologia",4
+"covid 19","gestion sanitaria",4
+"covid 19","informadores clave",4
+"covid-19 attributable deaths","africa",4
+"covid-19 attributable deaths","covid-19 confirmed cases",4
+"covid-19 attributable deaths","spatial variation",4
+"covid-19 attributable deaths","system gmm",4
+"covid-19 confirmed cases","africa",4
+"covid-19 confirmed cases","covid-19 attributable deaths",4
+"covid-19 confirmed cases","spatial variation",4
+"covid-19 confirmed cases","system gmm",4
+"covid-19 outbreak","cares act",4
+"covid-19 outbreak","coronavirus aid",4
+"covid-19 outbreak","coronavirus economic stabilization act",4
+"covid-19 outbreak","pandemic",4
+"covid-19 outbreak","relief and economic security act",4
+"covid-19 outbreak","virus",4
+"covid-19, coronavirus disease 2019","ace2, angiotensin-converting enzyme 2",3
+"covid-19, coronavirus disease 2019","sars-cov-2, severe acute respiratory syndrome coronavirus 2",5
+"covid-19, coronavirus disease 2019","who, world health organization",3
+"cox","cox-2",4
+"cox","literature review",4
+"cox","nsaids",4
+"cox","viral infections",4
+"cox-2","cox",4
+"cox-2","literature review",4
+"cox-2","nsaids",4
+"cox-2","viral infections",4
+"crisis","pandemic",3
+"critical patient","intensive care unit",4
+"critical patient","recommendations",4
+"crystal structure","antiviral targeting site",4
+"crystal structure","nucleocapsid protein",4
+"crystal structure","rna binding domain",4
+"ct","pneumonia",8
+"cutaneous","skin",3
+"cutaneous manifestations","skin",4
+"cytokine storm","inflammation",5
+"cytokine storm","tocilizumab",3
+"cytokines","inflammation",4
+"d-dimer","coagulation parameter",3
+"denosumab","bisphosphonate",4
+"denosumab","bone mineral density",4
+"denosumab","fracture",4
+"denosumab","osteoporosis",4
+"dental public health","infection control",3
+"departamento de neurologia","asistencia neurologica",4
+"departamento de neurologia","consenso",4
+"departamento de neurologia","covid 19",4
+"departamento de neurologia","gestion sanitaria",4
+"departamento de neurologia","informadores clave",4
+"depression","anxiety",13
 "depression","epidemic",4
-"depression","pandemic",4
+"depression","pandemic",7
+"depression","psychological impact",3
 "depression","stress",6
+"depression","suicide",4
+"depressive symptoms","mental health",3
+"dft","admet",4
+"dft","docking",4
+"dft","main protease",4
+"dft","phytochemicals",4
+"diabetes mellitus","anti-viral responses",4
+"diabetes mellitus","asthma",4
+"diabetes mellitus","basigin",4
+"diabetes mellitus","cellular therapy",4
+"diabetes mellitus","emmprin",4
+"diabetes mellitus","invasion",4
+"diabetes mellitus","lung stem cells",4
+"diagnosis","biomarkers",4
+"diagnosis","epidemiology",3
+"diagnosis","lung ultrasound",4
+"diagnosis","pleural effusion",4
+"diagnosis","pneumonia",4
+"diagnosis","pregnancy",4
+"diagnosis","respiratory failure",4
+"diagnosis","transmission",4
+"diagnosis","treatment",4
+"diagnosis","viral infection",4
+"diagnostic","loop mediated isothermal amplification (lamp)",4
+"diagnostic","polymerase chain reaction (pcr)",4
+"diagnostics","igg",4
+"diagnostics","igm",4
+"diagnostics","rapid test",4
+"dialysis",,4
+"dialysis","chronic",3
+"dialysis","kidney failure",3
+"dialysis","severe acute respiratory syndrome coronavirus 2",3
+"diarrhea","digestive disorders",5
+"differential evolution","chest ct",4
+"differential evolution","convolutional neural networks",4
+"differential evolution","multi-objective",4
+"digestive disorders","diarrhea",5
+"digestive system","central nervous system",4
+"digestive system","circulatory system",4
+"digestive system","urogenital system",4
+"disease progression","biomarkers",4
+"disease progression","prediction",4
+"disruption","health care",4
+"disruption","orthopaedic surgery",4
+"disruption","pandemic",4
+"disruption","severe acute respiratory syndrome coronavirus 2",4
+"disruption","total joint arthroplasty",4
+"docking","admet",4
+"docking","amantadine",4
+"docking","dft",4
+"docking","main protease",4
+"docking","phytochemicals",4
+"docking","viroporin",4
+"droplet-based transmission","infectious disease",4
+"droplet-based transmission","personal protective equipment (ppe)",4
+"drug discovery","niclosamide",4
+"drug discovery","repurposing",4
+"drug repurposing","molecular docking",3
+"drug screening","epitope",4
+"drug screening","genomic",4
+"drug screening","homology",4
+"drug screening","mirna",4
+"drug screening","orf",4
+"drugs","arbidol",4
+"drugs","camostat",4
+"drugs","chloroquine",5
+"drugs","favipiravir",4
+"drugs","lopinavir",4
+"drugs","phytochemicals",4
+"drugs","remdesivir",4
+"drugs","ritonavir",4
 "dual-use","engineering sars-cov-2 virus",4
 "dual-use","regulation",4
 "dual-use","risk",4
+"dynamic profile","rt-pcr",4
+"dysgeusia","anosmia",4
+"e-health","telemedicine",3
+"e-learning","pandemic",3
+"eans","aans",4
+"eans","aasns",4
+"eans","caans",4
+"eans","flanc",4
+"eans","neurosurgery",4
+"eans","wfns",4
+"early warning","models",4
+"early warning","rapid assessment",4
+"efficacy","mers",4
+"efficacy","safety",4
+"efficacy","sars",4
+"efficacy","therapeutic options",4
+"ehealth","corona",4
+"ehealth","pandemic",3
+"elderly","older adults",4
+"electrocardiogram","chloroquine",4
+"electrocardiogram","qt prolongation",4
+"electrocardiogram","sars-cov‑2",4
+"emergency response","hospital management",4
+"emergency response","infection prevention and control",4
+"emergency surgery","hospital preparation",4
+"emergency surgery","severe acute respiratory syndrome coronavirus 2 (sars-cov-2)",4
+"emergency surgery","trauma",4
+"emmprin","anti-viral responses",4
+"emmprin","asthma",4
+"emmprin","basigin",4
+"emmprin","cellular therapy",4
+"emmprin","diabetes mellitus",4
+"emmprin","invasion",4
+"emmprin","lung stem cells",4
+"encephalitis","anosmia",4
+"encephalitis","neurodegenerative diseases",4
+"encephalitis","neurological alterations",4
+"encephalitis","parkinson’s disease",4
+"end of life","palliative care",3
+"endoscopy","colonoscopy",4
+"endoscopy","guidance",4
+"endoscopy","india",4
+"endoscopy","liver",5
+"endoscopy","pandemic",4
 "engineering sars-cov-2 virus","dual-use",4
 "engineering sars-cov-2 virus","regulation",4
 "engineering sars-cov-2 virus","risk",4
+"ephedrine (pubchem cid: 9294)","amygdalin (pubchem cid: 656516)",4
+"ephedrine (pubchem cid: 9294)","baicalin (pubchem cid: 64982)",4
+"ephedrine (pubchem cid: 9294)","glycyrrhizic acid (pubchem cid: 14982)",4
+"ephedrine (pubchem cid: 9294)","hesperidin (pubchem cid: 10621)",4
+"ephedrine (pubchem cid: 9294)","narirutin (pubchem cid: 442431)",4
+"ephedrine (pubchem cid: 9294)","neohesperidin (pubchem cid: 442439)",4
 "epidemic","anxiety",4
+"epidemic","china",3
 "epidemic","depression",4
-"epidemic","pandemic",5
+"epidemic","outbreak",3
+"epidemic","pandemic",13
+"epidemic","public health",7
 "epidemic","stress",3
-"epidemiology","outbreak",4
-"forecasting","arima",3
-"humidity","temperature",3
-"hydroxychloroquine","chloroquine",4
-"infectious disease","outbreak",8
-"infectious disease","pandemic",8
-"infectious disease","prevention",3
-"infectious disease","public health",9
+"epidemic","treatment",4
+"epidemiology",,4
+"epidemiology","acute respiratory disease",11
+"epidemiology","australia",12
+"epidemiology","case definition",9
+"epidemiology","clinical characteristics",9
+"epidemiology","control",3
+"epidemiology","corona virus disease 2019",4
+"epidemiology","diagnosis",3
+"epidemiology","infection",4
+"epidemiology","infection control",4
+"epidemiology","infectious disease",4
+"epidemiology","korea",3
+"epidemiology","ncov",3
+"epidemiology","novel coronavirus pneumonia",5
+"epidemiology","outbreak",9
+"epidemiology","outcomes",4
+"epidemiology","pandemic",4
+"epidemiology","pneumonia",4
+"epidemiology","public health",5
+"epidemiology","review",3
+"epidemiology","treatment",8
+"epidemiology","viruses",3
+"epitope","drug screening",4
+"epitope","genomic",4
+"epitope","homology",4
+"epitope","mirna",4
+"epitope","orf",4
+"equity","community health",4
+"equity","global health",4
+"equity","informal settlements",4
+"equity","slums",4
+"ethics","pandemic",4
+"extracorporeal membrane oxygenation","cardiogenic shock",4
+"extracorporeal membrane oxygenation","mechanical circulatory support",5
+"extracorporeal membrane oxygenation","myocarditis",4
+"face-shields","ce marking",4
+"face-shields","international standards",4
+"face-shields","masks",4
+"face-shields","personal protective equipment",4
+"face-shields","visors",4
+"favipiravir","arbidol",4
+"favipiravir","camostat",4
+"favipiravir","chloroquine",5
+"favipiravir","drugs",4
+"favipiravir","lopinavir",5
+"favipiravir","phytochemicals",4
+"favipiravir","remdesivir",7
+"favipiravir","ritonavir",4
+"fc receptors (fcr)","antibody-dependent enhancement (ade)",4
+"fc receptors (fcr)","inflammatory response",4
+"flanc","aans",4
+"flanc","aasns",4
+"flanc","caans",4
+"flanc","eans",4
+"flanc","neurosurgery",4
+"flanc","wfns",4
+"food safety","wildlife",4
+"forecasting","arima",6
+"forecasting","infection disease",4
+"forecasting","pandemic",4
+"forecasting","time series",4
+"fracture","bisphosphonate",4
+"fracture","bone mineral density",4
+"fracture","denosumab",4
+"fracture","osteoporosis",4
+"gay","hiv",4
+"gay","msm",4
+"generalized additive model","brazil",4
+"generalized additive model","transmission",4
+"generalized additive model","tropical temperature",4
+"genomic","drug screening",4
+"genomic","epitope",4
+"genomic","homology",4
+"genomic","mirna",4
+"genomic","orf",4
+"genomic epidemiology","phylogenetics",4
+"genomic epidemiology","real-time disease surveillance",4
+"genomic epidemiology","virus evolution",4
+"gestion sanitaria","asistencia neurologica",4
+"gestion sanitaria","consenso",4
+"gestion sanitaria","covid 19",4
+"gestion sanitaria","departamento de neurologia",4
+"gestion sanitaria","informadores clave",4
+"global health","community health",4
+"global health","equity",4
+"global health","informal settlements",4
+"global health","pandemic",3
+"global health","slums",4
+"glycyrrhizic acid (pubchem cid: 14982)","amygdalin (pubchem cid: 656516)",4
+"glycyrrhizic acid (pubchem cid: 14982)","baicalin (pubchem cid: 64982)",4
+"glycyrrhizic acid (pubchem cid: 14982)","ephedrine (pubchem cid: 9294)",4
+"glycyrrhizic acid (pubchem cid: 14982)","hesperidin (pubchem cid: 10621)",4
+"glycyrrhizic acid (pubchem cid: 14982)","narirutin (pubchem cid: 442431)",4
+"glycyrrhizic acid (pubchem cid: 14982)","neohesperidin (pubchem cid: 442439)",4
+"guidance","endoscopy",4
+"guidance","india",4
+"guidance","liver",4
+"guidelines","pandemic",6
+"health care","disruption",4
+"health care","orthopaedic surgery",4
+"health care","pandemic",5
+"health care","severe acute respiratory syndrome coronavirus 2",4
+"health care","total joint arthroplasty",4
+"health care workers","chest physiotherapy",4
+"health care workers","high flow nasal cannula",4
+"health care workers","non invasive ventilation",4
+"health care workers","pronation",4
+"health policy","public health",3
+"healthcare management","neurological care",3
+"healthcare management","neurology department",3
+"health information exchange",,4
+"heart failure","acute cardiac care",4
+"heart failure","acute coronary syndrome",4
+"heart failure","intensive care unit",4
+"hesperidin (pubchem cid: 10621)","amygdalin (pubchem cid: 656516)",4
+"hesperidin (pubchem cid: 10621)","baicalin (pubchem cid: 64982)",4
+"hesperidin (pubchem cid: 10621)","ephedrine (pubchem cid: 9294)",4
+"hesperidin (pubchem cid: 10621)","glycyrrhizic acid (pubchem cid: 14982)",4
+"hesperidin (pubchem cid: 10621)","narirutin (pubchem cid: 442431)",4
+"hesperidin (pubchem cid: 10621)","neohesperidin (pubchem cid: 442439)",4
+"high flow nasal cannula","chest physiotherapy",4
+"high flow nasal cannula","health care workers",4
+"high flow nasal cannula","non invasive ventilation",4
+"high flow nasal cannula","pronation",4
+"hiv","gay",4
+"hiv","msm",4
+"homology","drug screening",4
+"homology","epitope",4
+"homology","genomic",4
+"homology","mirna",4
+"homology","orf",4
+"hospital environmental contamination","china",4
+"hospital environmental contamination","wuhan",4
+"hospital management","emergency response",4
+"hospital management","infection prevention and control",4
+"hospital mortality",,4
+"hospital preparation","emergency surgery",4
+"hospital preparation","severe acute respiratory syndrome coronavirus 2 (sars-cov-2)",4
+"hospital preparation","trauma",4
+"human coronaviruses","mers-cov",4
+"human coronaviruses","neutralizing antibodies",4
+"humidity","temperature",4
+"hvac","aerosol",4
+"hvac","ventilation",4
+"hydroxychloroquine","acute lung injury",4
+"hydroxychloroquine","acute respiratory distress syndrome",4
+"hydroxychloroquine","ards",4
+"hydroxychloroquine","autoimmune diseases",3
+"hydroxychloroquine","azithromycin",5
+"hydroxychloroquine","chloroquine",18
+"hydroxychloroquine","clinical trials",4
+"hydroxychloroquine","lopinavir",5
+"hydroxychloroquine","lupus erythematosus, systemic",3
+"hydroxychloroquine","multiorgan dysfunction",4
+"hydroxychloroquine","pandemic",3
+"hydroxychloroquine","remdesivir",4
+"hydroxychloroquine","ritonavir",4
+"hydroxychloroquine","severe pneumonia",4
+"hypertension","angiotensin",3
+"hyposmia","anosmia",3
+"hyposmia","smell",3
+"ibex","short-term forecast",4
+"ibex","suttearima",4
+"igg","diagnostics",4
+"igg","igm",7
+"igg","rapid test",4
+"igm","diagnostics",4
+"igm","igg",7
+"igm","rapid test",4
+"imaging features","computed tomography",3
+"immune","clinical features",4
+"immune","paediatrics",4
+"immunity","care",4
+"immunity","clinical manifestation",4
+"immunity","laboratory characteristics",4
+"immunity","older adults",4
+"immunity","pathogenesis",5
+"immunity","pregnant women",4
+"immunization","antiviral",4
+"immunization","therapy",4
+"immunosuppressants","biologic therapy",4
+"immunosuppressants","inflammatory bowel disease",4
+"india","endoscopy",4
+"india","guidance",4
+"india","liver",4
+"indonesia","recovery",4
+"indonesia","sunlight",4
+"infection","epidemiology",4
+"infection","pandemic",5
+"infection","pneumonia",3
+"infection","transmission",3
+"infection","treatment",3
+"infection","virus",3
+"infection control","dental public health",3
+"infection control","epidemiology",4
+"infection control","pandemic",3
+"infection disease","arima",4
+"infection disease","forecasting",4
+"infection disease","pandemic",4
+"infection disease","time series",4
+"infection prevention","pandemic",3
+"infection prevention and control","emergency response",4
+"infection prevention and control","hospital management",4
+"infectious disease","droplet-based transmission",4
+"infectious disease","epidemiology",4
+"infectious disease","mers",4
+"infectious disease","other",3
+"infectious disease","outbreak",10
+"infectious disease","pandemic",11
+"infectious disease","personal protective equipment (ppe)",4
+"infectious disease","pneumonia",4
+"infectious disease","public health",19
+"infectious disease","sars",4
 "infectious disease","telemedicine",3
+"inflammation","cytokine storm",5
+"inflammation","cytokines",4
+"inflammatory bowel disease","biologic therapy",4
+"inflammatory bowel disease","immunosuppressants",4
+"inflammatory cytokine","lymphopenia",4
+"inflammatory response","antibody-dependent enhancement (ade)",4
+"inflammatory response","fc receptors (fcr)",4
+"influenza","pneumonia",3
 "infodemiology","infoveillance",3
+"informadores clave","asistencia neurologica",4
+"informadores clave","consenso",4
+"informadores clave","covid 19",4
+"informadores clave","departamento de neurologia",4
+"informadores clave","gestion sanitaria",4
+"informal settlements","community health",4
+"informal settlements","equity",4
+"informal settlements","global health",4
+"informal settlements","slums",4
 "infoveillance","infodemiology",3
-"iran","outbreak",3
-"lung diseases","coronavirus infections",3
-"lung diseases","pneumonia",3
-"mers","sars",3
-"outbreak","epidemiology",4
-"outbreak","infectious disease",8
-"outbreak","iran",3
-"outbreak","pandemic",12
-"outbreak","prevention",4
-"outbreak","public health",12
+"innate immune","antiviral therapy",4
+"innate immune","interferon",4
+"intensive care","anesthesiology",3
+"intensive care unit","acute cardiac care",4
+"intensive care unit","acute coronary syndrome",4
+"intensive care unit","critical patient",4
+"intensive care unit","heart failure",4
+"intensive care unit","recommendations",4
+"interferon","antiviral therapy",4
+"interferon","innate immune",4
+"interferons","azithromycin",4
+"interferons","nitazoxanide",4
+"interferons","sars cov-2",4
+"interleukin-6","tocilizumab",3
+"international standards","ce marking",4
+"international standards","face-shields",4
+"international standards","masks",4
+"international standards","personal protective equipment",4
+"international standards","visors",4
+"invasion","anti-viral responses",4
+"invasion","asthma",4
+"invasion","basigin",4
+"invasion","cellular therapy",4
+"invasion","diabetes mellitus",4
+"invasion","emmprin",4
+"invasion","lung stem cells",4
+"iran","climate",4
+"iran","outbreak",6
+"iran","sensitivity analysis",4
+"isolation","quarantine",4
+"kidney failure","chronic",3
+"kidney failure","dialysis",3
+"kidney failure","severe acute respiratory syndrome coronavirus 2",3
+"knowledge","attitude",3
+"knowledge","outbreak",3
+"knowledge","practice",3
+"korea","epidemiology",3
+"korea","outbreak",3
+"laboratory characteristics","clinical manifestation",4
+"laboratory characteristics","immunity",4
+"laboratory characteristics","pregnant women",4
+"ldh","ck",4
+"ldh","clearance ratio",4
+"literature review","cox",4
+"literature review","cox-2",4
+"literature review","nsaids",4
+"literature review","viral infections",4
+"liver","endoscopy",5
+"liver","guidance",4
+"liver","india",4
+"locally advanced","non-small cell lung cancer",4
+"lockdown","carbon monoxide",4
+"lockdown","nitrogen dioxide",4
+"lockdown","ozone",5
+"loop mediated isothermal amplification (lamp)","diagnostic",4
+"loop mediated isothermal amplification (lamp)","polymerase chain reaction (pcr)",4
+"lopinavir","acute lung injury",4
+"lopinavir","acute respiratory distress syndrome",4
+"lopinavir","arbidol",5
+"lopinavir","ards",4
+"lopinavir","camostat",4
+"lopinavir","chloroquine",4
+"lopinavir","drugs",4
+"lopinavir","favipiravir",5
+"lopinavir","hydroxychloroquine",5
+"lopinavir","multiorgan dysfunction",4
+"lopinavir","phytochemicals",4
+"lopinavir","remdesivir",6
+"lopinavir","ritonavir",10
+"lopinavir","severe pneumonia",4
+"lung","ultrasound",4
+"lung","virus",5
+"lung diseases","coronavirus infections",6
+"lung diseases","pneumonia",6
+"lung diseases","tomography",4
+"lung diseases","x-ray computed",4
+"lung stem cells","anti-viral responses",4
+"lung stem cells","asthma",4
+"lung stem cells","basigin",4
+"lung stem cells","cellular therapy",4
+"lung stem cells","diabetes mellitus",4
+"lung stem cells","emmprin",4
+"lung stem cells","invasion",4
+"lung ultrasound","biomarkers",4
+"lung ultrasound","diagnosis",4
+"lung ultrasound","pleural effusion",4
+"lung ultrasound","pregnancy",5
+"lung ultrasound","respiratory failure",4
+"lung ultrasound","viral infection",4
+"lupus erythematosus, systemic","hydroxychloroquine",3
+"lymphopenia","inflammatory cytokine",4
+"main protease","admet",4
+"main protease","dft",4
+"main protease","docking",4
+"main protease","phytochemicals",4
+"masks","ce marking",4
+"masks","face-shields",4
+"masks","international standards",4
+"masks","personal protective equipment",5
+"masks","visors",4
+"maternal death","pregnancy",3
+"maternal morbidity","pregnancy",3
+"maternal mortality","pregnancy",3
+"mechanical circulatory support","cardiogenic shock",4
+"mechanical circulatory support","extracorporeal membrane oxygenation",5
+"mechanical circulatory support","myocarditis",4
+"mechanisms of myocardial injury","cardiovascular disease",4
+"mechanisms of myocardial injury","myocardial injury",4
+"mechanisms of myocardial injury","myocarditis",4
+"mechanisms of myocardial injury","severe acute respiratory syndrome coronavirus-2",4
+"mental health","anxiety",3
+"mental health","depressive symptoms",3
+"mental health","pandemic",6
+"mers","efficacy",4
+"mers","infectious disease",4
+"mers","pandemic",4
+"mers","pneumonia",5
+"mers","public health",4
+"mers","safety",4
+"mers","sars",33
+"mers","therapeutic options",4
+"mers","vaccine",4
+"mers-cov","human coronaviruses",4
+"mers-cov","neutralizing antibodies",4
+"meta-analysis","clinical characteristics",3
+"meta-analysis","pneumonia",3
+"meta-analysis","systematic review",3
+"middle east respiratory syndrome","ncovid",4
+"middle east respiratory syndrome","pandemic",4
+"middle east respiratory syndrome","severe acute respiratory syndrome",8
+"middle east respiratory syndrome","systematic review",4
+"mirna","drug screening",4
+"mirna","epitope",4
+"mirna","genomic",4
+"mirna","homology",4
+"mirna","orf",4
+"models","early warning",4
+"models","rapid assessment",4
+"molecular docking","drug repurposing",3
+"molecular docking","traditional chinese medicine",3
+"mortality","risk factors",3
+"mortality","severity",3
+"msm","gay",4
+"msm","hiv",4
+"multi-objective","chest ct",4
+"multi-objective","convolutional neural networks",4
+"multi-objective","differential evolution",4
+"multiorgan dysfunction","acute lung injury",4
+"multiorgan dysfunction","acute respiratory distress syndrome",4
+"multiorgan dysfunction","ards",4
+"multiorgan dysfunction","hydroxychloroquine",4
+"multiorgan dysfunction","lopinavir",4
+"multiorgan dysfunction","ritonavir",4
+"multiorgan dysfunction","severe pneumonia",4
+"myocardial injury","cardiovascular disease",4
+"myocardial injury","mechanisms of myocardial injury",4
+"myocardial injury","myocarditis",5
+"myocardial injury","severe acute respiratory syndrome coronavirus-2",4
+"myocarditis","cardiogenic shock",5
+"myocarditis","cardiovascular disease",4
+"myocarditis","extracorporeal membrane oxygenation",4
+"myocarditis","mechanical circulatory support",4
+"myocarditis","mechanisms of myocardial injury",4
+"myocarditis","myocardial injury",5
+"myocarditis","severe acute respiratory syndrome coronavirus-2",4
+"narirutin (pubchem cid: 442431)","amygdalin (pubchem cid: 656516)",4
+"narirutin (pubchem cid: 442431)","baicalin (pubchem cid: 64982)",4
+"narirutin (pubchem cid: 442431)","ephedrine (pubchem cid: 9294)",4
+"narirutin (pubchem cid: 442431)","glycyrrhizic acid (pubchem cid: 14982)",4
+"narirutin (pubchem cid: 442431)","hesperidin (pubchem cid: 10621)",4
+"narirutin (pubchem cid: 442431)","neohesperidin (pubchem cid: 442439)",4
+"ncov","epidemiology",3
+"ncovid","middle east respiratory syndrome",4
+"ncovid","pandemic",4
+"ncovid","severe acute respiratory syndrome",4
+"ncovid","systematic review",4
+"neohesperidin (pubchem cid: 442439)","amygdalin (pubchem cid: 656516)",4
+"neohesperidin (pubchem cid: 442439)","baicalin (pubchem cid: 64982)",4
+"neohesperidin (pubchem cid: 442439)","ephedrine (pubchem cid: 9294)",4
+"neohesperidin (pubchem cid: 442439)","glycyrrhizic acid (pubchem cid: 14982)",4
+"neohesperidin (pubchem cid: 442439)","hesperidin (pubchem cid: 10621)",4
+"neohesperidin (pubchem cid: 442439)","narirutin (pubchem cid: 442431)",4
+"neurodegenerative diseases","anosmia",4
+"neurodegenerative diseases","encephalitis",4
+"neurodegenerative diseases","neurological alterations",4
+"neurodegenerative diseases","parkinson’s disease",5
+"neurological alterations","anosmia",4
+"neurological alterations","encephalitis",4
+"neurological alterations","neurodegenerative diseases",4
+"neurological alterations","parkinson’s disease",4
+"neurological care","healthcare management",3
+"neurological care","neurology department",3
+"neurology department","healthcare management",3
+"neurology department","neurological care",3
+"neurosurgery","aans",4
+"neurosurgery","aasns",4
+"neurosurgery","caans",4
+"neurosurgery","eans",4
+"neurosurgery","flanc",4
+"neurosurgery","wfns",4
+"neutralizing antibodies","human coronaviruses",4
+"neutralizing antibodies","mers-cov",4
+"niclosamide","drug discovery",4
+"niclosamide","repurposing",4
+"nitazoxanide","azithromycin",4
+"nitazoxanide","interferons",4
+"nitazoxanide","sars cov-2",4
+"nitrogen dioxide","carbon monoxide",4
+"nitrogen dioxide","lockdown",4
+"nitrogen dioxide","ozone",4
+"non invasive ventilation","chest physiotherapy",4
+"non invasive ventilation","health care workers",4
+"non invasive ventilation","high flow nasal cannula",4
+"non invasive ventilation","pronation",4
+"non-meteorological factors","spatio-temporal model",4
+"non-meteorological factors","temperature",4
+"non-meteorological factors","weather conditions",4
+"non-small cell lung cancer","locally advanced",4
+"nosocomial infection","corona virus disease 2019",4
+"novel coronavirus pneumonia","clinical characteristics",4
+"novel coronavirus pneumonia","epidemiology",5
+"nsaids","cox",4
+"nsaids","cox-2",4
+"nsaids","literature review",4
+"nsaids","viral infections",4
+"nucleocapsid protein","antiviral targeting site",4
+"nucleocapsid protein","crystal structure",4
+"nucleocapsid protein","rna binding domain",4
+"nutritional supplement","5-hydroxymethylfurfural",4
+"older adults","care",4
+"older adults","elderly",4
+"older adults","immunity",4
+"older adults","pathogenesis",4
+"olfactory function","anosmia",3
+"orf","drug screening",4
+"orf","epitope",4
+"orf","genomic",4
+"orf","homology",4
+"orf","mirna",4
+"orthopaedic surgery","disruption",4
+"orthopaedic surgery","health care",4
+"orthopaedic surgery","pandemic",4
+"orthopaedic surgery","severe acute respiratory syndrome coronavirus 2",4
+"orthopaedic surgery","total joint arthroplasty",4
+"osteoporosis","bisphosphonate",4
+"osteoporosis","bone mineral density",4
+"osteoporosis","denosumab",4
+"osteoporosis","fracture",4
+"other","infectious disease",3
+"outbreak","climate",4
+"outbreak","epidemic",3
+"outbreak","epidemiology",9
+"outbreak","infectious disease",10
+"outbreak","iran",6
+"outbreak","knowledge",3
+"outbreak","korea",3
+"outbreak","pandemic",15
+"outbreak","pneumonia",7
+"outbreak","prevention",3
+"outbreak","public health",14
+"outbreak","quarantine",4
+"outbreak","sars",3
+"outbreak","screening",3
+"outbreak","sensitivity analysis",4
+"outbreak","social distancing",3
 "outbreak","social media",3
 "outbreak","telemedicine",3
-"outbreak","wuhan",3
-"pandemic","anxiety",4
-"pandemic","depression",4
-"pandemic","epidemic",5
-"pandemic","infectious disease",8
-"pandemic","outbreak",12
+"outbreak","wuhan",4
+"outcome research","sars-cov-2 virus",4
+"outcome research","screening",4
+"outcomes","clinical characteristics",4
+"outcomes","corona virus disease 2019",4
+"outcomes","epidemiology",4
+"outcomes","treatment",4
+"outpatients","severe acute respiratory syndrome coronavirus 2",3
+"ozone","carbon monoxide",4
+"ozone","lockdown",5
+"ozone","nitrogen dioxide",4
+"paediatrics","clinical features",4
+"paediatrics","immune",4
+"palliative care","end of life",3
+"palliative care","pandemic",5
+"pandemic","antiviral",3
+"pandemic","anxiety",5
+"pandemic","ards",3
+"pandemic","arima",4
+"pandemic","billing",4
+"pandemic","cancer",3
+"pandemic","cares act",4
+"pandemic","china",3
+"pandemic","chloroquine",3
+"pandemic","coding",4
+"pandemic","colonoscopy",4
+"pandemic","convalescent plasma",4
+"pandemic","corona",3
+"pandemic","coronavirus aid",4
+"pandemic","coronavirus economic stabilization act",4
+"pandemic","coronavirus infection",3
+"pandemic","covid-19 outbreak",4
+"pandemic","crisis",3
+"pandemic","depression",7
+"pandemic","disruption",4
+"pandemic","e-learning",3
+"pandemic","ehealth",3
+"pandemic","endoscopy",4
+"pandemic","epidemic",13
+"pandemic","epidemiology",4
+"pandemic","ethics",4
+"pandemic","forecasting",4
+"pandemic","global health",3
+"pandemic","guidelines",6
+"pandemic","health care",5
+"pandemic","hydroxychloroquine",3
+"pandemic","infection",5
+"pandemic","infection control",3
+"pandemic","infection disease",4
+"pandemic","infection prevention",3
+"pandemic","infectious disease",11
+"pandemic","mental health",6
+"pandemic","mers",4
+"pandemic","middle east respiratory syndrome",4
+"pandemic","ncovid",4
+"pandemic","orthopaedic surgery",4
+"pandemic","outbreak",15
+"pandemic","palliative care",5
+"pandemic","passive antibody transfer",4
+"pandemic","personal protective equipment",5
+"pandemic","pneumonia",7
+"pandemic","pregnancy",4
+"pandemic","preparedness",3
 "pandemic","prevention",4
-"pandemic","public health",12
-"pandemic","screening",3
+"pandemic","ptsd",4
+"pandemic","public health",21
+"pandemic","public health emergency",3
+"pandemic","quarantine",4
+"pandemic","recommendations",3
+"pandemic","relief and economic security act",4
+"pandemic","sars",6
+"pandemic","sarscov-2",4
+"pandemic","screening",4
+"pandemic","severe acute respiratory syndrome",6
+"pandemic","severe acute respiratory syndrome coronavirus 2",9
+"pandemic","social distancing",6
 "pandemic","social media",4
-"pandemic","stress",4
-"pandemic","telehealth",3
-"pandemic","telemedicine",7
-"pandemic","wuhan",3
-"pneumonia","computed tomography",5
-"pneumonia","lung diseases",3
-"pneumonia","tomography",3
-"prevention","infectious disease",3
-"prevention","outbreak",4
+"pandemic","spread",3
+"pandemic","stress",5
+"pandemic","suicide",3
+"pandemic","systematic review",5
+"pandemic","telemedicine",12
+"pandemic","therapeutic",4
+"pandemic","time series",4
+"pandemic","total joint arthroplasty",4
+"pandemic","toxicity",4
+"pandemic","transmission",4
+"pandemic","treatment",3
+"pandemic","twitter",3
+"pandemic","virus",10
+"pandemic","viruses",3
+"pandemic","who",4
+"pandemic","wuhan",6
+"pandemics",,5
+"pandemics","public health",3
+"parkinson’s disease","anosmia",4
+"parkinson’s disease","encephalitis",4
+"parkinson’s disease","neurodegenerative diseases",5
+"parkinson’s disease","neurological alterations",4
+"passive antibody transfer","convalescent plasma",4
+"passive antibody transfer","pandemic",4
+"passive antibody transfer","sarscov-2",4
+"pathogenesis","care",4
+"pathogenesis","immunity",5
+"pathogenesis","older adults",4
+"pathogenesis","vaccines",3
+"pediatric","children",3
+"personal protective equipment","ce marking",4
+"personal protective equipment","face-shields",4
+"personal protective equipment","international standards",4
+"personal protective equipment","masks",5
+"personal protective equipment","pandemic",5
+"personal protective equipment","visors",4
+"personal protective equipment (ppe)","droplet-based transmission",4
+"personal protective equipment (ppe)","infectious disease",4
+"pharmacist","community pharmacy",3
+"phylogenetics","genomic epidemiology",4
+"phylogenetics","real-time disease surveillance",4
+"phylogenetics","virus evolution",4
+"phytochemicals","admet",4
+"phytochemicals","arbidol",4
+"phytochemicals","camostat",4
+"phytochemicals","chloroquine",4
+"phytochemicals","dft",4
+"phytochemicals","docking",4
+"phytochemicals","drugs",4
+"phytochemicals","favipiravir",4
+"phytochemicals","lopinavir",4
+"phytochemicals","main protease",4
+"phytochemicals","remdesivir",4
+"phytochemicals","ritonavir",4
+"platelet","severe acute respiratory syndrome coronavirus 2",4
+"platelet","thrombocytopenia",4
+"pleural effusion","biomarkers",4
+"pleural effusion","diagnosis",4
+"pleural effusion","lung ultrasound",4
+"pleural effusion","pregnancy",4
+"pleural effusion","respiratory failure",4
+"pleural effusion","viral infection",4
+"pneumonia","acute respiratory distress syndrome",9
+"pneumonia","ards",5
+"pneumonia","child",4
+"pneumonia","computed tomography",10
+"pneumonia","coronavirus infections",8
+"pneumonia","ct",8
+"pneumonia","diagnosis",4
+"pneumonia","epidemiology",4
+"pneumonia","infection",3
+"pneumonia","infectious disease",4
+"pneumonia","influenza",3
+"pneumonia","lung diseases",6
+"pneumonia","mers",5
+"pneumonia","meta-analysis",3
+"pneumonia","outbreak",7
+"pneumonia","pandemic",7
+"pneumonia","pregnancy",8
+"pneumonia","public health",6
+"pneumonia","radiology",3
+"pneumonia","review",5
+"pneumonia","risk factors",4
+"pneumonia","sars",4
+"pneumonia","severe acute respiratory syndrome",3
+"pneumonia","severe acute respiratory syndrome coronavirus 2",4
+"pneumonia","therapy",4
+"pneumonia","tomography",8
+"pneumonia","tomography, x-ray computed",4
+"pneumonia","treatment",3
+"pneumonia","viral",5
+"pneumonia","wuhan",4
+"pneumonia","x-ray computed",7
+"pneumonia, viral","tomography, x-ray computed",3
+"polyclonal hyperimmune globulin","vaccines",4
+"polymerase chain reaction (pcr)","diagnostic",4
+"polymerase chain reaction (pcr)","loop mediated isothermal amplification (lamp)",4
+"portugal","coronavirus infections",3
+"practice","knowledge",3
+"prediction","biomarkers",4
+"prediction","disease progression",4
+"pregnancy","acute respiratory distress syndrome",6
+"pregnancy","ards",5
+"pregnancy","biomarkers",4
+"pregnancy","diagnosis",4
+"pregnancy","lung ultrasound",5
+"pregnancy","maternal death",3
+"pregnancy","maternal morbidity",3
+"pregnancy","maternal mortality",3
+"pregnancy","pandemic",4
+"pregnancy","pleural effusion",4
+"pregnancy","pneumonia",8
+"pregnancy","respiratory failure",5
+"pregnancy","severe acute respiratory syndrome",3
+"pregnancy","severe acute respiratory syndrome coronavirus 2",3
+"pregnancy","vertical transmission",4
+"pregnancy","viral infection",4
+"pregnancy","virus",3
+"pregnant women","clinical manifestation",4
+"pregnant women","immunity",4
+"pregnant women","laboratory characteristics",4
+"preparedness","pandemic",3
+"prevention","outbreak",3
 "prevention","pandemic",4
-"prevention","public health",4
-"public health","infectious disease",9
-"public health","outbreak",12
-"public health","pandemic",12
-"public health","prevention",4
+"prevention","public health",3
+"prevention","transmission",3
+"pronation","chest physiotherapy",4
+"pronation","health care workers",4
+"pronation","high flow nasal cannula",4
+"pronation","non invasive ventilation",4
+"prophylaxis","therapy",4
+"psychological impact","anxiety",3
+"psychological impact","depression",3
+"psychotropics","recommendations",4
+"ptsd","pandemic",4
+"public health","epidemic",7
+"public health","epidemiology",5
+"public health","health policy",3
+"public health","infectious disease",19
+"public health","mers",4
+"public health","outbreak",14
+"public health","pandemic",21
+"public health","pandemics",3
+"public health","pneumonia",6
+"public health","prevention",3
+"public health","sars",4
+"public health","social distancing",4
 "public health","social media",5
-"public health","telemedicine",4
-"public health","twitter",3
+"public health","telemedicine",5
+"public health","twitter",4
+"public health","virology",3
+"public health emergency","pandemic",3
+"public health emergency of international concern","wuhan",3
+"qt prolongation","chloroquine",4
+"qt prolongation","electrocardiogram",4
+"qt prolongation","sars-cov‑2",4
+"quarantine","isolation",4
+"quarantine","outbreak",4
+"quarantine","pandemic",4
+"quarantine","transmission",3
+"radiology","pneumonia",3
+"rapid assessment","early warning",4
+"rapid assessment","models",4
+"rapid test","diagnostics",4
+"rapid test","igg",4
+"rapid test","igm",4
+"real-time disease surveillance","genomic epidemiology",4
+"real-time disease surveillance","phylogenetics",4
+"real-time disease surveillance","virus evolution",4
+"recommendations","critical patient",4
+"recommendations","intensive care unit",4
+"recommendations","pandemic",3
+"recommendations","psychotropics",4
+"recovery","indonesia",4
+"recovery","sunlight",4
 "regulation","dual-use",4
 "regulation","engineering sars-cov-2 virus",4
 "regulation","risk",4
+"relative humidity","temperature",4
+"relief and economic security act","cares act",4
+"relief and economic security act","coronavirus aid",4
+"relief and economic security act","coronavirus economic stabilization act",4
+"relief and economic security act","covid-19 outbreak",4
+"relief and economic security act","pandemic",4
+"relief and economic security act","virus",4
+"remdesivir","arbidol",4
+"remdesivir","camostat",4
+"remdesivir","chloroquine",9
+"remdesivir","drugs",4
+"remdesivir","favipiravir",7
+"remdesivir","hydroxychloroquine",4
+"remdesivir","lopinavir",6
+"remdesivir","phytochemicals",4
+"remdesivir","ritonavir",5
+"repurposing","drug discovery",4
+"repurposing","niclosamide",4
+"respiratory failure","biomarkers",4
+"respiratory failure","diagnosis",4
+"respiratory failure","lung ultrasound",4
+"respiratory failure","pleural effusion",4
+"respiratory failure","pregnancy",5
+"respiratory failure","viral infection",4
+"respiratory infections","2019 novel coronavirus disease",8
+"respiratory infections","china",7
+"respiratory infections","severe acute respiratory syndrome coronavirus 2",12
+"respiratory infections","viruses",12
+"respiratory infections","zoonoses",9
+"review","epidemiology",3
+"review","pneumonia",5
+"review","wuhan",4
 "risk","dual-use",4
 "risk","engineering sars-cov-2 virus",4
 "risk","regulation",4
-"sars","mers",3
-"sars","wuhan",3
-"screening","pandemic",3
+"risk factors","acute respiratory distress syndrome",4
+"risk factors","mortality",3
+"risk factors","pneumonia",4
+"ritonavir","acute lung injury",4
+"ritonavir","acute respiratory distress syndrome",4
+"ritonavir","arbidol",5
+"ritonavir","ards",4
+"ritonavir","camostat",4
+"ritonavir","chloroquine",4
+"ritonavir","drugs",4
+"ritonavir","favipiravir",4
+"ritonavir","hydroxychloroquine",4
+"ritonavir","lopinavir",10
+"ritonavir","multiorgan dysfunction",4
+"ritonavir","phytochemicals",4
+"ritonavir","remdesivir",5
+"ritonavir","severe pneumonia",4
+"rna binding domain","antiviral targeting site",4
+"rna binding domain","crystal structure",4
+"rna binding domain","nucleocapsid protein",4
+"rt-pcr","dynamic profile",4
+"safety","efficacy",4
+"safety","mers",4
+"safety","sars",4
+"safety","therapeutic options",4
+"sars","ace2",3
+"sars","acute respiratory distress syndrome",3
+"sars","ards",4
+"sars","efficacy",4
+"sars","infectious disease",4
+"sars","mers",33
+"sars","outbreak",3
+"sars","pandemic",6
+"sars","pneumonia",4
+"sars","public health",4
+"sars","safety",4
+"sars","therapeutic options",4
+"sars","therapy",3
+"sars","vaccine",4
+"sars","virus",5
+"sars","wuhan",6
+"sars cov-2","azithromycin",4
+"sars cov-2","interferons",4
+"sars cov-2","nitazoxanide",4
+"sars-cov, severe acute respiratory syndrome coronavirus","sars-cov-2, severe acute respiratory syndrome coronavirus 2",3
+"sars-cov-2 virus","outcome research",4
+"sars-cov-2 virus","screening",4
+"sars-cov-2, severe acute respiratory syndrome coronavirus 2","ace2, angiotensin-converting enzyme 2",3
+"sars-cov-2, severe acute respiratory syndrome coronavirus 2","covid-19, coronavirus disease 2019",5
+"sars-cov-2, severe acute respiratory syndrome coronavirus 2","sars-cov, severe acute respiratory syndrome coronavirus",3
+"sars-cov‑2","chloroquine",4
+"sars-cov‑2","electrocardiogram",4
+"sars-cov‑2","qt prolongation",4
+"sarscov-2","convalescent plasma",4
+"sarscov-2","pandemic",4
+"sarscov-2","passive antibody transfer",4
+"scoring system","chest x-ray",5
+"screening","outbreak",3
+"screening","outcome research",4
+"screening","pandemic",4
+"screening","sars-cov-2 virus",4
+"sensitivity analysis","climate",4
+"sensitivity analysis","iran",4
+"sensitivity analysis","outbreak",4
+"severe acute respiratory syndrome","middle east respiratory syndrome",8
+"severe acute respiratory syndrome","ncovid",4
+"severe acute respiratory syndrome","pandemic",6
+"severe acute respiratory syndrome","pneumonia",3
+"severe acute respiratory syndrome","pregnancy",3
+"severe acute respiratory syndrome","systematic review",4
+"severe acute respiratory syndrome coronavirus 2",,7
+"severe acute respiratory syndrome coronavirus 2","2019 novel coronavirus disease",11
+"severe acute respiratory syndrome coronavirus 2","asymptomatic",4
+"severe acute respiratory syndrome coronavirus 2","china",9
+"severe acute respiratory syndrome coronavirus 2","chronic",3
+"severe acute respiratory syndrome coronavirus 2","dialysis",3
+"severe acute respiratory syndrome coronavirus 2","disruption",4
+"severe acute respiratory syndrome coronavirus 2","health care",4
+"severe acute respiratory syndrome coronavirus 2","kidney failure",3
+"severe acute respiratory syndrome coronavirus 2","orthopaedic surgery",4
+"severe acute respiratory syndrome coronavirus 2","outpatients",3
+"severe acute respiratory syndrome coronavirus 2","pandemic",9
+"severe acute respiratory syndrome coronavirus 2","platelet",4
+"severe acute respiratory syndrome coronavirus 2","pneumonia",4
+"severe acute respiratory syndrome coronavirus 2","pregnancy",3
+"severe acute respiratory syndrome coronavirus 2","respiratory infections",12
+"severe acute respiratory syndrome coronavirus 2","thrombocytopenia",4
+"severe acute respiratory syndrome coronavirus 2","total joint arthroplasty",4
+"severe acute respiratory syndrome coronavirus 2","viruses",16
+"severe acute respiratory syndrome coronavirus 2","wuhan",3
+"severe acute respiratory syndrome coronavirus 2","zoonoses",12
+"severe acute respiratory syndrome coronavirus 2 (sars-cov-2)","emergency surgery",4
+"severe acute respiratory syndrome coronavirus 2 (sars-cov-2)","hospital preparation",4
+"severe acute respiratory syndrome coronavirus 2 (sars-cov-2)","trauma",4
+"severe acute respiratory syndrome coronavirus-2","cardiovascular disease",4
+"severe acute respiratory syndrome coronavirus-2","mechanisms of myocardial injury",4
+"severe acute respiratory syndrome coronavirus-2","myocardial injury",4
+"severe acute respiratory syndrome coronavirus-2","myocarditis",4
+"severe pneumonia","acute lung injury",4
+"severe pneumonia","acute respiratory distress syndrome",4
+"severe pneumonia","ards",4
+"severe pneumonia","hydroxychloroquine",4
+"severe pneumonia","lopinavir",4
+"severe pneumonia","multiorgan dysfunction",4
+"severe pneumonia","ritonavir",4
+"severity","mortality",3
+"short-term forecast","ibex",4
+"short-term forecast","suttearima",4
+"skin","cutaneous",3
+"skin","cutaneous manifestations",4
+"slums","community health",4
+"slums","equity",4
+"slums","global health",4
+"slums","informal settlements",4
+"smell","anosmia",4
+"smell","hyposmia",3
+"smell","taste",4
+"social distancing","outbreak",3
+"social distancing","pandemic",6
+"social distancing","public health",4
 "social media","outbreak",3
 "social media","pandemic",4
 "social media","public health",5
-"social media","twitter",3
+"social media","twitter",4
+"spatial variation","africa",4
+"spatial variation","covid-19 attributable deaths",4
+"spatial variation","covid-19 confirmed cases",4
+"spatial variation","system gmm",4
+"spatio-temporal model","non-meteorological factors",4
+"spatio-temporal model","temperature",4
+"spatio-temporal model","weather conditions",4
 "spike","ace2",3
+"spread","pandemic",3
 "stress","anxiety",6
 "stress","depression",6
 "stress","epidemic",3
-"stress","pandemic",4
-"surgery","cirugía",3
-"telehealth","pandemic",3
-"telehealth","telemedicine",4
+"stress","pandemic",5
+"suicide","depression",4
+"suicide","pandemic",3
+"sunlight","indonesia",4
+"sunlight","recovery",4
+"surgery","cirugía",4
+"suttearima","ibex",4
+"suttearima","short-term forecast",4
+"system gmm","africa",4
+"system gmm","covid-19 attributable deaths",4
+"system gmm","covid-19 confirmed cases",4
+"system gmm","spatial variation",4
+"systematic review","meta-analysis",3
+"systematic review","middle east respiratory syndrome",4
+"systematic review","ncovid",4
+"systematic review","pandemic",5
+"systematic review","severe acute respiratory syndrome",4
+"taste","smell",4
+"tele-ophthalmology","telemedicine",4
+"tele-ophthalmology","virtual ophthalmology",4
+"telehealth","telemedicine",9
+"telemedicine","billing",4
+"telemedicine","coding",4
+"telemedicine","e-health",3
 "telemedicine","infectious disease",3
 "telemedicine","outbreak",3
-"telemedicine","pandemic",7
-"telemedicine","public health",4
-"telemedicine","telehealth",4
-"temperature","humidity",3
-"tomography","pneumonia",3
+"telemedicine","pandemic",12
+"telemedicine","public health",5
+"telemedicine","tele-ophthalmology",4
+"telemedicine","telehealth",9
+"telemedicine","virtual ophthalmology",4
+"temperature","humidity",4
+"temperature","non-meteorological factors",4
+"temperature","relative humidity",4
+"temperature","spatio-temporal model",4
+"temperature","weather conditions",4
+"therapeutic","pandemic",4
+"therapeutic","toxicity",4
+"therapeutic options","efficacy",4
+"therapeutic options","mers",4
+"therapeutic options","safety",4
+"therapeutic options","sars",4
+"therapy","antiviral",4
+"therapy","immunization",4
+"therapy","pneumonia",4
+"therapy","prophylaxis",4
+"therapy","sars",3
+"thrombocytopenia","platelet",4
+"thrombocytopenia","severe acute respiratory syndrome coronavirus 2",4
+"time series","arima",4
+"time series","forecasting",4
+"time series","infection disease",4
+"time series","pandemic",4
+"tmprss2","ace2",6
+"tocilizumab","cytokine storm",3
+"tocilizumab","interleukin-6",3
+"tomography","coronavirus infections",4
+"tomography","lung diseases",4
+"tomography","pneumonia",8
+"tomography","x-ray computed",7
+"tomography, x-ray computed","coronavirus infections",4
+"tomography, x-ray computed","pneumonia",4
+"tomography, x-ray computed","pneumonia, viral",3
+"total joint arthroplasty","disruption",4
+"total joint arthroplasty","health care",4
+"total joint arthroplasty","orthopaedic surgery",4
+"total joint arthroplasty","pandemic",4
+"total joint arthroplasty","severe acute respiratory syndrome coronavirus 2",4
+"toxicity","pandemic",4
+"toxicity","therapeutic",4
+"tracheostomy","airway",4
+"tracheostomy","tracheotomy",3
+"tracheotomy","tracheostomy",3
+"traditional chinese medicine","molecular docking",3
+"transmission","brazil",4
+"transmission","diagnosis",4
+"transmission","generalized additive model",4
+"transmission","infection",3
+"transmission","pandemic",4
+"transmission","prevention",3
+"transmission","quarantine",3
+"transmission","tropical temperature",4
 "transmission","wuhan",3
-"twitter","public health",3
-"twitter","social media",3
+"trauma","emergency surgery",4
+"trauma","hospital preparation",4
+"trauma","severe acute respiratory syndrome coronavirus 2 (sars-cov-2)",4
+"treatment",,3
+"treatment","clinical characteristics",5
+"treatment","corona virus disease 2019",4
+"treatment","diagnosis",4
+"treatment","epidemic",4
+"treatment","epidemiology",8
+"treatment","infection",3
+"treatment","outcomes",4
+"treatment","pandemic",3
+"treatment","pneumonia",3
+"tropical temperature","brazil",4
+"tropical temperature","generalized additive model",4
+"tropical temperature","transmission",4
+"twitter","pandemic",3
+"twitter","public health",4
+"twitter","social media",4
+"ultrasound","lung",4
+"ultrasound","virus",4
+"urogenital system","central nervous system",4
+"urogenital system","circulatory system",4
+"urogenital system","digestive system",4
+"vaccine","mers",4
+"vaccine","sars",4
+"vaccines","pathogenesis",3
+"vaccines","polyclonal hyperimmune globulin",4
+"ventilation","aerosol",4
+"ventilation","hvac",4
+"vertical transmission","pregnancy",4
+"viral","child",4
+"viral","computed tomography",4
+"viral","pneumonia",5
+"viral infection","biomarkers",4
+"viral infection","diagnosis",4
+"viral infection","lung ultrasound",4
+"viral infection","pleural effusion",4
+"viral infection","pregnancy",4
+"viral infection","respiratory failure",4
+"viral infections","cox",4
+"viral infections","cox-2",4
+"viral infections","literature review",4
+"viral infections","nsaids",4
 "viral pneumonia","computed tomography",3
-"wuhan","china",3
-"wuhan","outbreak",3
-"wuhan","pandemic",3
-"wuhan","sars",3
+"virology","public health",3
+"viroporin","amantadine",4
+"viroporin","docking",4
+"virtual ophthalmology","tele-ophthalmology",4
+"virtual ophthalmology","telemedicine",4
+"virus","acute respiratory distress syndrome",3
+"virus","cares act",4
+"virus","coronavirus aid",4
+"virus","coronavirus economic stabilization act",4
+"virus","covid-19 outbreak",4
+"virus","infection",3
+"virus","lung",5
+"virus","pandemic",10
+"virus","pregnancy",3
+"virus","relief and economic security act",4
+"virus","sars",5
+"virus","ultrasound",4
+"virus evolution","genomic epidemiology",4
+"virus evolution","phylogenetics",4
+"virus evolution","real-time disease surveillance",4
+"viruses","2019 novel coronavirus disease",11
+"viruses","china",9
+"viruses","epidemiology",3
+"viruses","pandemic",3
+"viruses","respiratory infections",12
+"viruses","severe acute respiratory syndrome coronavirus 2",16
+"viruses","wuhan",3
+"viruses","zoonoses",13
+"visors","ce marking",4
+"visors","face-shields",4
+"visors","international standards",4
+"visors","masks",4
+"visors","personal protective equipment",4
+"weather conditions","non-meteorological factors",4
+"weather conditions","spatio-temporal model",4
+"weather conditions","temperature",4
+"wfns","aans",4
+"wfns","aasns",4
+"wfns","caans",4
+"wfns","eans",4
+"wfns","flanc",4
+"wfns","neurosurgery",4
+"who","pandemic",4
+"who, world health organization","covid-19, coronavirus disease 2019",3
+"wildlife","food safety",4
+"wuhan","2019 novel coronavirus disease",3
+"wuhan","china",10
+"wuhan","hospital environmental contamination",4
+"wuhan","outbreak",4
+"wuhan","pandemic",6
+"wuhan","pneumonia",4
+"wuhan","public health emergency of international concern",3
+"wuhan","review",4
+"wuhan","sars",6
+"wuhan","severe acute respiratory syndrome coronavirus 2",3
 "wuhan","transmission",3
+"wuhan","viruses",3
+"wuhan","zoonoses",3
+"x-ray computed","coronavirus infections",4
+"x-ray computed","lung diseases",4
+"x-ray computed","pneumonia",7
+"x-ray computed","tomography",7
+"zoonoses","2019 novel coronavirus disease",10
+"zoonoses","china",8
+"zoonoses","respiratory infections",9
+"zoonoses","severe acute respiratory syndrome coronavirus 2",12
+"zoonoses","viruses",13
+"zoonoses","wuhan",3

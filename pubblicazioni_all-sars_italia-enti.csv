@@ -1,104 +1,336 @@
 "Ente","Articoli pubblicati"
+"AIAS Afragola Napoli",1
+"ANMCO Firenze",1
+"AO Ordine Mauriziano di Torino",3
+"AO San Camillo-Forlanini Roma",1
+"AO Santa Croce di Cuneo",1
+"AO Santa Maria Terni",1
+"AORN Cardarelli di Napoli",2
+"AORN Ospedali dei Colli Monaldi di Napoli",1
+"AORN Sant'Anna e San Sebastiano di Caserta",2
 "AOU - Ospedali Riuniti di Ancona",1
+"AOU Careggi di Firenze",11
+"AOU Città della Salute e della Scienza di Torino",7
+"AOU Giuliano Isontina di Trieste",1
+"AOU Meyer Firenze",1
+"AOU Riuniti di Ancona",1
+"AOU SMM Udine",1
+"AOU San Giovanni di Dio e Ruggero d'Aragona di Salerno",1
+"AOU San Luigi Gonzaga di Orbassano",8
+"AOU Sant'Andrea di Roma",1
+"AOU Sassari",3
+"AOU Senese",1
+"AOU Senese Ospedale di Santa Maria alle Scotte Siena",3
+"AOU degli Infermi di Biella",2
 "AOU di Bari",1
-"AOUI Verona",1
-"APSS Trento",1
-"ARPA Pavia",1
-"ARPA di Pavia",1
+"AOU di Gorizia",1
+"AOU di Padova",11
+"AOU di Parma",4
+"AOU di Pisa",6
+"AOU di Sassari",1
+"AOU di Siena",1
+"AOU di Terni",1
+"AOUI Verona",24
+"AOUI di Verona",3
+"APSS Trento",2
+"AREU Lombardia",1
+"ARPA di Pavia",2
+"ARS Toscana",1
 "ASL 1 Abruzzo",1
+"ASL 3 di Genova",3
+"ASL BAT Andria",1
 "ASL Brindisi",1
-"ASL Roma 1",1
+"ASL Roma 1",5
+"ASL Roma 4",1
+"ASL Salerno",1
 "ASL Teramo",1
+"ASL di Frosinone",1
+"ASL3 Genova",1
+"ASP Reggio Calabria",1
+"ASSL Oristano",1
 "ASST Bergamo",1
+"ASST Bergamo Est",7
+"ASST Bergamo Papa Giovanni XXIII",2
+"ASST Cagliari",1
 "ASST Crema",1
-"ASST Cremona",2
-"ASST Fatebenefratelli di Milano",2
-"ASST Lodi",3
-"ASST Melegnano",1
-"ASST Milano",1
-"ASST Monza",1
-"ASST Papa Giovanni XXIII",2
+"ASST Cremona",5
+"ASST Fatebenefratelli Sacco di Milano",16
+"ASST Franciacorta",1
+"ASST Gaetano Pini",3
+"ASST Grande Ospedale Metropolitano Niguarda",15
+"ASST Lariana di Como",1
+"ASST Lecco",3
+"ASST Lodi",9
+"ASST Mantova",3
+"ASST Melegnano",2
+"ASST Monza",6
+"ASST Ovest Milanese",2
+"ASST Papa Giovanni XIII di Bergamo",14
 "ASST Pavia",1
 "ASST Rhodense",1
-"ASST Spedali Civili di Brescia",3
+"ASST Santi Paolo e Carlo di Milano",7
+"ASST Sette Laghi",8
+"ASST Spedali Civili di Brescia",13
 "ASST Valleolona di Gallarate",1
+"ASST Valtellina e Alto Lario",1
 "ASST Varese",1
-"ASST del garda",1
-"AUSL Bologna",2
+"ASST del Garda",2
+"ASU Integrata di Trieste",3
+"ASUFC Ospedale di Latisana",1
+"ASUR Marche",3
+"AULSS 2 Marca Trevigiana Treviso",1
+"AUSL Bologna",6
+"AUSL Modena",2
 "AUSL Romagna",1
+"AUSL Toscana nord ovest",4
+"AUSL della Romagna",1
 "AUSL di Piacenza",2
-"Associazione Tumori Toscana",1
-"CNR",1
-"CNR Napoli",1
-"Città",2
+"Apulian Cancer Network di Bari",1
+"Arcispedale Santa Maria Nuova di Reggio Emilia",1
+"Associatione italiana di psicogeriatria",1
+"Associazione Tumori Toscana di Firenze",2
+"Aulss 5 Polesana e 6 Euganea",1
+"Azienda Ospedaliera Bianchi-Melacrino-Morelli di Reggio Calabria",1
+"Azienda Toscana Nord Ovest Lucca",1
+"Azienda ULSS 8 Berica",1
+"Azienda USL Toscana Sud-est",1
+"Bresciamed",1
+"CAST Policlinico Ospedale Catania",1
+"CESMAV Firenze",1
+"CNR",8
+"Casa di Cura S Michele Maddaloni",1
+"Casa di Cura Villa Serena Piossasco",1
+"Centro Gestione Rischio Clinico Toscana",1
+"Centro Nazionale Sangue",2
+"Clinica Montevergine di Mercogliano",1
 "Clinica San Carlo di Milano",1
 "ECJRC Ispra",1
-"FBK Trento",3
-"Fondazione ISI Torino",1
-"Fondazione Poliambulanza Istituto Ospedaliero di Brescia",3
-"Humanitas Gavazzeni di Bergamo",1
+"EURAC di Bolzano",2
+"FAO",1
+"Flow Cytometry Clinical di Brescia",1
+"Fondazione Arianna di Bologna",1
+"Fondazione Bruno Kessler di Trento",4
+"Fondazione ISI Torino",2
+"Fondazione Poliambulanza di Brescia",8
+"Fondazione ReS Casalecchio di Reno",1
+"Fondazione Toscana G Monasterio",2
+"GISED Bergamo",1
+"Humanitas Castellanza",2
+"Humanitas Gavazzeni di Bergamo",6
+"ICS Maugeri Lumezzane",1
 "IRCCS Aviano",1
+"IRCCS Bambino Gesù di Roma",5
+"IRCCS Besta di Milano",4
+"IRCCS Ca' Granda Ospedale Maggiore di Milano",25
+"IRCCS Candiolo",2
+"IRCCS Fatebenefratelli di Brescia.",1
 "IRCCS Fondazione Bietti di Roma",1
+"IRCCS Fondazione Don Carlo Gnocchi di Milano",2
+"IRCCS Gaslini di Genova",3
+"IRCCS Gemelli di Roma",32
+"IRCCS Humanitas Pieve Emanuele",2
+"IRCCS Humanitas di Rozzano",33
 "IRCCS IEO Milano",2
-"IRCCS Istituto tumori di Milano",1
-"IRCCS Maugeri di Pavia",1
-"IRCCS Monzino",1
-"IRCCS Multimedica Milano",1
-"IRCCS Ospedale Maggiore Milano",4
-"IRCCS Policlinico San Doanto di Milano",1
-"IRCCS San Donato di Milano",1
-"IRCCS San Matteo Pavia",6
-"IRCCS San Raffaele Milano",10
+"IRCCS IEO di Milano",2
+"IRCCS INRCA Ancona",1
+"IRCCS IOV di Treviso",2
+"IRCCS Istituto Ortopedico Galeazzi di Milano",5
+"IRCCS Istituto Tumori Giovanni Paolo II di Bari",1
+"IRCCS Istituto Tumori di Milano",9
+"IRCCS Mario Negri",2
+"IRCCS Maugeri Pavia",2
+"IRCCS Medea di Bosisio Parini",1
+"IRCCS Monzino di Milano",7
+"IRCCS MultiMedica di Milano",5
+"IRCCS NEUROMED di Pozzilli",2
+"IRCCS Ospedale Casa Sollievo della Sofferenza di San Giovanni Rotondo",2
+"IRCCS Pascale di Napoli",1
+"IRCCS Policlinico San Doanto di Milano",7
+"IRCCS Regina Elena di Roma",2
+"IRCCS Rizzoli di Bologna",1
+"IRCCS Sacro Cuore Don Calabria di Negrar",1
+"IRCCS San Martino di Genova",3
+"IRCCS San Matteo di Pavia",24
+"IRCCS San Raffaele Milano",35
 "IRCCS Santa Lucia di Roma",1
-"IRCCS Spallanzani di Roma",6
-"Istituto Superiore di Sanità",2
+"IRCCS Spallanzani di Roma",15
+"IRCCS Tumori di Aviano",1
+"IRCCS di Reggio Emilia",5
+"ISBEM di Mesagne",1
+"Instituto Italiano di Telemedicina Varese",1
+"International Federation for Medical e Biological Engineering Florence",1
+"Istituto Clinico Sant'Ambrogio di Milano",3
+"Istituto Montecatone di Imola",4
+"Istituto Sant'Anna Institute di Crotone",1
+"Istituto Superiore di Sanità",5
 "Istituto Zooprofilattico Sperimentale dell'Abruzzo e Molise",1
 "Italian Army Medical Center di Roma",2
-"Ministero della Salute Roma",1
+"MAGI-Euregio Bolzano",1
+"Madonna del Ponte di Lanciano",1
+"Mediterranea Cardiocentro Napoli",1
+"Mensana srls Brescia",1
+"Ministero della Salute",1
+"N/A",6
+"Nuovo Ospedale Regina Margherita di Roma",1
+"Ospedale  Circolo e Fondazione Macchi Varese",1
+"Ospedale Bufalini di Cesena",1
+"Ospedale Cannizzaro di Catania",1
+"Ospedale Civile Augusto Murri Fermo",1
+"Ospedale Civile SS Annunziata Cosenza",1
+"Ospedale Civile San Martino Belluno",1
+"Ospedale Fatebenefratelli Roma",1
+"Ospedale Galliera di Genova",1
+"Ospedale Garibaldi-Nesima Azienda di Rilievo Nazionale e Alta Specializzazione Garibaldi Catania",3
+"Ospedale Grimaldi di San Giorgio a Cremano",1
 "Ospedale Humanitas di Castellanza",1
-"Ospedale Humanitas di Rozzano",8
-"Ospedale San Giovanni di Dio di Firenze",1
-"Ospedale Valduce Como",2
+"Ospedale Maggiore di Bologna",5
+"Ospedale Maggiore di Crema",1
+"Ospedale Maggiore di Parma",2
+"Ospedale Maria Cecilia di Cotignola",1
+"Ospedale Mater Olbia",1
+"Ospedale Meyer di Florence",1
+"Ospedale Morgagni di Forlì",1
+"Ospedale SS Annunziata di Chieti",1
+"Ospedale San Bortolo di Vicenza",2
+"Ospedale San Giovanni Battista di Roma",1
+"Ospedale San Giovanni Bosco Napoli",1
+"Ospedale San Giovanni Bosco di Torino",2
+"Ospedale San Giovanni di Dio di Firenze",3
+"Ospedale San Giuseppe Moscati Aversa",1
+"Ospedale San Paolo di Bari",3
+"Ospedale San Paolo di Milano",2
+"Ospedale San Salvatore dell'Aquila",1
+"Ospedale Sandro Pertini di Roma",1
+"Ospedale Sant'Andrea di Vercelli",1
+"Ospedale Santa Chiara di Trento",2
+"Ospedale Santa Maria Annunziata di Firenze",1
+"Ospedale Santa Maria della Misericordia Rovigo",3
+"Ospedale Santa Maria della Misericordia di Perugia",1
+"Ospedale Santa Maria delle Grazie Pozzuoli",1
+"Ospedale Santa Maria di Bari",1
+"Ospedale Santa Maria di Ca Foncello di Treviso",1
+"Ospedale Santo Spirito di Roma",1
+"Ospedale Umberto I di Nocera Inferiore",1
+"Ospedale Valduce di Como",4
+"Ospedale Vecchiazzano-Forlì",1
+"Ospedale Villa dei Fiori di Acerra",1
+"Ospedale degli Infermi Rimini",1
+"Ospedale degli Infermi di Rimini",1
+"Ospedale del Sacro Cuore di Gesù Benevento",1
+"Ospedale del mare di Napoli",4
+"Ospedale della Valle D'Aosta",1
+"Ospedale di Acquaviva delle Fonti",1
+"Ospedale di Asti",1
+"Ospedale di Avellino",2
+"Ospedale di Bolzano",1
+"Ospedale di Cesena",1
+"Ospedale di Civita Castellana",1
+"Ospedale di Civitavecchia",1
+"Ospedale di Corigliano-Rossano",1
+"Ospedale di Cosenza",1
+"Ospedale di Cotignola",2
+"Ospedale di Cremona",4
+"Ospedale di Cuneo",1
+"Ospedale di Feltre",1
+"Ospedale di Lucca",2
+"Ospedale di Macerata",3
+"Ospedale di Manerbio",2
+"Ospedale di Mantova",1
+"Ospedale di Matera",1
+"Ospedale di Nola",1
+"Ospedale di Pozzuoli",1
+"Ospedale di Sanremo",1
+"Ospedale di Santa Chiara Trento",1
+"Ospedale di Sassuolo",1
+"Ospedale di Siena",1
+"Ospedale di Torino",1
+"Ospedale di Treviglio-Caravaggio Bergamo",1
+"Ospedale di Udine",1
+"Ospedale di Valtiberina",1
+"Ospedale di Vibo Valentia",1
+"Ospedale di Voghera",1
 "Ospedali riuniti Marche Nord di Pesaro",1
+"Ospedlae Don Calabria Negrar",1
+"Ospedle Guglielmo da Saliceto di Piacenza",2
+"PA Trento",1
+"Policlinico Abano Terme",1
 "Policlinico San Marco di Zingonia",1
 "Policlinico San Martino di Genova",1
 "Policlinico San Pietro di Bergamo",1
+"Policlinico Sant'Orsola di Bologna",4
 "Policlinico Umberto I di Roma",1
-"Politecnico di Milano",1
-"Regione Lombardia",3
+"Politecnico di Milano",3
+"Presidenza del Consiglio dei Ministri",1
+"Presidio Ospedaliero di Eboli",1
+"Presidio Ospedaliero di Vallo della Lucania",1
+"Regione Lombardia",6
 "Regione Toscana",1
-"Società Italiana Embriologia Riproduzione e Ricerca",1
+"Rummo Ospedale Benevento",1
+"SOC Laboratorio Patologia Clinica e Immunoallergologia Firenze-Prato",1
+"Scuola Superiore Sant'Anna Pisa",1
+"Società Italiana Fertilità e Sterilità-Medicina della Riproduzione",2
+"Società di medicina ambientale",2
+"Società italiana di cure palliative",1
 "Telerehabilitation International di Roma",1
+"The Medical Center Practice Office di Torino",1
+"ULSS 20 di Verona",1
 "USL Pescara",1
+"USL Reggio Emilia",1
+"USL Umbria 1 di Perugia",3
+"USL Umbria 2 di Foligno",2
 "USSL Rovigo",1
-"Ulisse Biomed",1
-"University della Campania “Luigi Vanvitelli”",1
-"Università Magna Græcia di Catanzaro",1
-"Università Campus Bio-Medico di Roma",4
-"Università Cattolica del Sacro Cuore Roma",6
-"Università Federico II di Napoli",4
-"Università La Sapienza di Roma",8
-"Università Milano Bicocca",3
-"Università Politecnica delle Marche",2
-"Università Tor Vergata di Roma",1
-"Università del Piemonte Orientale",2
-"Università del Salento",2
-"Università dell'Aquila",1
-"Università dell'Insubria",2
+"UTIC Ospedale di Santa Maria degli Ungheresi Polistena",3
+"Ulisse Biomed di Trieste",1
+"Università Magna Græcia di Catanzaro",10
+"Università Bocconi di Milano",1
+"Università Ca' Foscari Venezia",1
+"Università Campus Bio Medico di Roma",16
+"Università Cattolica di Roma",12
+"Università D'Annunzio di Chieti",4
+"Università Federico II di Napoli",31
+"Università La Sapienza di Roma",48
+"Università Marconi di Roma",1
+"Università Politecnica delle Marche",5
+"Università Roma Tre",1
+"Università Tor Vergata di Roma",11
+"Università degl Studi della Campania",16
+"Università degli Studi dell'Insubria Como",1
+"Università degli studi di Milano",41
+"Università del Molise",1
+"Università del Piemonte Orientale di Novara",6
+"Università del Salento",3
+"Università dell'Aquila",3
+"Università dell'Insubria di Varese",7
 "Università della Basilicata",2
-"Università di Bari",1
-"Università di Bologna",2
-"Università di Brescia",1
-"Università di Cagliari",1
-"Università di Camerino",1
-"Università di Catanzaro",1
-"Università di Ferrara",2
-"Università di Firenze",1
-"Università di Milano",7
-"Università di Padova",4
-"Università di Parma",1
-"Università di Pavia",2
-"Università di Siena",1
-"Università di Trento",1
-"Università di Trieste",1
-"Università di Udine",1
+"Università della Calabria",1
+"Università di Bari",10
+"Università di Benevento",1
+"Università di Bergamo",1
+"Università di Bologna",10
+"Università di Brescia",14
+"Università di Cagliari",6
+"Università di Camerino",2
+"Università di Catania",5
+"Università di Ferrara",11
+"Università di Firenze",17
+"Università di Foggia",4
+"Università di Genova",7
+"Università di Messina",4
+"Università di Milano Bicocca",15
+"Università di Modena e Reggio Emilia",9
+"Università di Padova",30
+"Università di Palermo",7
+"Università di Parma",8
+"Università di Pavia",8
+"Università di Perugia",9
+"Università di Pisa",8
+"Università di Salerno",2
+"Università di Sassari",8
+"Università di Siena",7
+"Università di Torino",13
+"Università di Trento",6
+"Università di Trieste",9
+"Università di Udine",7
+"Università di Verona",1
+"Velleja Research Milano",1
+"consulente",15
