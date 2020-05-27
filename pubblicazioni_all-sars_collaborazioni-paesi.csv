@@ -1,665 +1,975 @@
 "From","To","Count"
-"Arabia Saudita","Australia",5
-"Arabia Saudita","Canada",9
-"Arabia Saudita","Cina",10
-"Arabia Saudita","Egitto",4
-"Arabia Saudita","Giappone",4
-"Arabia Saudita","India",5
-"Arabia Saudita","Italia",5
+"Arabia Saudita","Australia",4
+"Arabia Saudita","Canada",12
+"Arabia Saudita","Cina",11
+"Arabia Saudita","Egitto",5
+"Arabia Saudita","Emirati Arabi Uniti",4
+"Arabia Saudita","India",7
+"Arabia Saudita","Italia",4
 "Arabia Saudita","Korea",5
-"Arabia Saudita","UK",6
+"Arabia Saudita","UK",8
 "Arabia Saudita","USA",15
-"Argentina","Canada",4
-"Argentina","Francia",4
-"Argentina","USA",6
-"Australia","Arabia Saudita",5
-"Australia","Austria",4
+"Argentina","Brasile",9
+"Argentina","Canada",7
+"Argentina","Cile",4
+"Argentina","Cina",4
+"Argentina","Colombia",6
+"Argentina","Francia",5
+"Argentina","Germania",8
+"Argentina","Italia",7
+"Argentina","Messico",7
+"Argentina","Spagna",6
+"Argentina","UK",6
+"Argentina","USA",10
+"Australia","Arabia Saudita",4
+"Australia","Austria",6
+"Australia","Bangladesh",5
 "Australia","Belgio",14
-"Australia","Brasile",8
-"Australia","Canada",23
-"Australia","Cina",36
-"Australia","Danimarca",10
-"Australia","Francia",15
-"Australia","Germania",15
-"Australia","Giappone",4
-"Australia","Hong Kong",8
-"Australia","India",8
-"Australia","Iran",7
-"Australia","Irlanda",4
-"Australia","Italia",28
-"Australia","Korea",5
+"Australia","Brasile",9
+"Australia","Canada",38
+"Australia","Cina",48
+"Australia","Danimarca",12
+"Australia","Emirati Arabi Uniti",6
+"Australia","Francia",21
+"Australia","Germania",29
+"Australia","Giappone",8
+"Australia","Hong Kong",6
+"Australia","India",12
+"Australia","Iran",12
+"Australia","Irlanda",8
+"Australia","Israele",5
+"Australia","Italia",39
+"Australia","Korea",6
 "Australia","Norvegia",5
-"Australia","Nuova Zelanda",7
-"Australia","Paesi Bassi",12
-"Australia","Portogallo",5
-"Australia","Singapore",10
-"Australia","Spagna",15
-"Australia","Svezia",8
-"Australia","Svizzera",12
-"Australia","UK",41
-"Australia","USA",66
-"Austria","Australia",4
-"Austria","Belgio",7
-"Austria","Francia",12
-"Austria","Germania",13
-"Austria","Italia",18
-"Austria","Norvegia",4
-"Austria","Paesi Bassi",9
-"Austria","Spagna",6
-"Austria","Svezia",6
-"Austria","Svizzera",12
-"Austria","Turchia",5
-"Austria","UK",19
-"Austria","USA",12
-"Bangladesh","USA",5
+"Australia","Nuova Zelanda",11
+"Australia","Paesi Bassi",23
+"Australia","Polonia",4
+"Australia","Portogallo",7
+"Australia","Russia",4
+"Australia","Singapore",13
+"Australia","Spagna",19
+"Australia","Sud Africa",6
+"Australia","Svezia",12
+"Australia","Svizzera",23
+"Australia","Taiwan",4
+"Australia","UK",62
+"Australia","USA",92
+"Austria","Australia",6
+"Austria","Belgio",14
+"Austria","Canada",4
+"Austria","Cina",4
+"Austria","Croazia",4
+"Austria","Francia",25
+"Austria","Germania",28
+"Austria","Grecia",6
+"Austria","Irlanda",4
+"Austria","Italia",30
+"Austria","Norvegia",5
+"Austria","Paesi Bassi",16
+"Austria","Polonia",6
+"Austria","Portogallo",6
+"Austria","Repubblica Ceca",5
+"Austria","Spagna",14
+"Austria","Svezia",9
+"Austria","Svizzera",19
+"Austria","Turchia",7
+"Austria","UK",33
+"Austria","USA",20
+"Austria","Ungheria",6
+"Bangladesh","Australia",5
+"Bangladesh","UK",6
+"Bangladesh","USA",7
 "Belgio","Australia",14
-"Belgio","Austria",7
-"Belgio","Brasile",5
-"Belgio","Canada",6
-"Belgio","Cina",12
-"Belgio","Danimarca",4
-"Belgio","Francia",26
-"Belgio","Germania",18
-"Belgio","Giappone",4
-"Belgio","Italia",27
-"Belgio","Paesi Bassi",13
-"Belgio","Polonia",5
-"Belgio","Portogallo",5
-"Belgio","Spagna",10
-"Belgio","Svezia",6
-"Belgio","Svizzera",10
-"Belgio","UK",28
-"Belgio","USA",21
-"Brasile","Australia",8
-"Brasile","Belgio",5
-"Brasile","Canada",11
-"Brasile","Cina",10
-"Brasile","Colombia",5
-"Brasile","Francia",10
-"Brasile","Germania",8
-"Brasile","Giappone",4
-"Brasile","India",6
-"Brasile","Iran",4
-"Brasile","Italia",17
-"Brasile","Messico",5
-"Brasile","Paesi Bassi",5
-"Brasile","Spagna",8
-"Brasile","Svezia",6
+"Belgio","Austria",14
+"Belgio","Brasile",8
+"Belgio","Canada",12
+"Belgio","Cina",15
+"Belgio","Danimarca",6
+"Belgio","Francia",37
+"Belgio","Germania",28
+"Belgio","Giappone",6
+"Belgio","India",6
+"Belgio","Italia",36
+"Belgio","N/A",4
+"Belgio","Norvegia",6
+"Belgio","Paesi Bassi",20
+"Belgio","Polonia",7
+"Belgio","Portogallo",9
+"Belgio","Singapore",5
+"Belgio","Spagna",18
+"Belgio","Svezia",10
+"Belgio","Svizzera",14
+"Belgio","Turchia",5
+"Belgio","UK",40
+"Belgio","USA",31
+"Bolivia","Colombia",4
+"Brasile","Argentina",9
+"Brasile","Australia",9
+"Brasile","Belgio",8
+"Brasile","Canada",15
+"Brasile","Cile",4
+"Brasile","Cina",17
+"Brasile","Colombia",11
+"Brasile","Francia",13
+"Brasile","Germania",13
+"Brasile","Giappone",7
+"Brasile","India",9
+"Brasile","Iran",6
+"Brasile","Italia",23
+"Brasile","Messico",10
+"Brasile","Paesi Bassi",6
+"Brasile","Portogallo",8
+"Brasile","Singapore",4
+"Brasile","Spagna",13
+"Brasile","Sud Africa",4
+"Brasile","Svezia",4
+"Brasile","Svizzera",4
+"Brasile","Tunisia",4
 "Brasile","Turchia",4
-"Brasile","UK",15
-"Brasile","USA",22
-"Camerun","UK",4
-"Canada","Arabia Saudita",9
-"Canada","Argentina",4
-"Canada","Australia",23
-"Canada","Belgio",6
-"Canada","Brasile",11
-"Canada","Cina",40
+"Brasile","UK",21
+"Brasile","USA",38
+"Brasile","Uruguay",4
+"Camerun","UK",6
+"Camerun","USA",4
+"Canada","Arabia Saudita",12
+"Canada","Argentina",7
+"Canada","Australia",38
+"Canada","Austria",4
+"Canada","Belgio",12
+"Canada","Brasile",15
+"Canada","Cina",49
 "Canada","Colombia",4
-"Canada","Danimarca",8
-"Canada","Emirati Arabi Uniti",4
-"Canada","Francia",18
-"Canada","Germania",15
+"Canada","Danimarca",13
+"Canada","Emirati Arabi Uniti",5
+"Canada","Francia",25
+"Canada","Germania",28
+"Canada","Giappone",8
+"Canada","Grecia",4
 "Canada","Hong Kong",5
-"Canada","India",6
-"Canada","Iran",8
-"Canada","Israele",11
-"Canada","Italia",30
-"Canada","Korea",5
+"Canada","India",9
+"Canada","Iran",11
+"Canada","Israele",16
+"Canada","Italia",52
+"Canada","Korea",8
+"Canada","Libano",4
+"Canada","Messico",6
 "Canada","N/A",5
-"Canada","Nuova Zelanda",4
-"Canada","Paesi Bassi",9
-"Canada","Portogallo",4
-"Canada","Singapore",9
-"Canada","Spagna",19
+"Canada","Norvegia",5
+"Canada","Nuova Zelanda",8
+"Canada","Paesi Bassi",16
+"Canada","Polonia",4
+"Canada","Portogallo",8
+"Canada","Russia",4
+"Canada","Singapore",11
+"Canada","Spagna",29
+"Canada","Sud Africa",6
 "Canada","Svezia",7
-"Canada","Svizzera",11
-"Canada","UK",46
-"Canada","USA",101
-"Cile","USA",5
-"Cina","Arabia Saudita",10
-"Cina","Australia",36
-"Cina","Belgio",12
-"Cina","Brasile",10
-"Cina","Canada",40
-"Cina","Colombia",6
+"Canada","Svizzera",15
+"Canada","Turchia",5
+"Canada","UK",61
+"Canada","USA",165
+"Cile","Argentina",4
+"Cile","Brasile",4
+"Cile","USA",6
+"Cina","Arabia Saudita",11
+"Cina","Argentina",4
+"Cina","Australia",48
+"Cina","Austria",4
+"Cina","Belgio",15
+"Cina","Brasile",17
+"Cina","Canada",49
+"Cina","Colombia",5
 "Cina","Danimarca",8
 "Cina","Emirati Arabi Uniti",6
-"Cina","Francia",21
-"Cina","Germania",27
-"Cina","Giappone",23
-"Cina","Hong Kong",28
-"Cina","India",14
-"Cina","Iran",5
-"Cina","Israele",5
-"Cina","Italia",36
-"Cina","Korea",14
-"Cina","Malesia",5
-"Cina","N/A",13
-"Cina","Norvegia",5
-"Cina","Paesi Bassi",14
-"Cina","Pakistan",4
-"Cina","Polonia",4
-"Cina","Portogallo",4
-"Cina","Singapore",23
-"Cina","Spagna",12
+"Cina","Francia",26
+"Cina","Germania",33
+"Cina","Giappone",31
+"Cina","Hong Kong",26
+"Cina","India",23
+"Cina","Iran",6
+"Cina","Irlanda",5
+"Cina","Israele",7
+"Cina","Italia",54
+"Cina","Korea",18
+"Cina","Malesia",6
+"Cina","N/A",11
+"Cina","Paesi Bassi",17
+"Cina","Pakistan",5
+"Cina","Polonia",5
+"Cina","Portogallo",5
+"Cina","Singapore",30
+"Cina","Spagna",18
 "Cina","Sud Africa",4
-"Cina","Svezia",8
-"Cina","Svizzera",13
+"Cina","Svezia",10
+"Cina","Svizzera",18
 "Cina","Tailandia",6
-"Cina","Taiwan",14
-"Cina","Turchia",4
-"Cina","UK",73
-"Cina","USA",163
-"Colombia","Brasile",5
+"Cina","Taiwan",19
+"Cina","Turchia",7
+"Cina","UK",88
+"Cina","USA",215
+"Colombia","Argentina",6
+"Colombia","Bolivia",4
+"Colombia","Brasile",11
 "Colombia","Canada",4
-"Colombia","Cina",6
-"Colombia","Francia",4
-"Colombia","Germania",4
+"Colombia","Cina",5
+"Colombia","Francia",5
+"Colombia","Germania",5
 "Colombia","Giappone",5
-"Colombia","India",4
-"Colombia","Italia",5
-"Colombia","UK",7
-"Colombia","USA",7
-"Croazia","Italia",4
-"Croazia","USA",4
-"Danimarca","Australia",10
-"Danimarca","Belgio",4
-"Danimarca","Canada",8
+"Colombia","India",7
+"Colombia","Israele",4
+"Colombia","Italia",6
+"Colombia","Messico",7
+"Colombia","Nepal",4
+"Colombia","Spagna",6
+"Colombia","Svizzera",4
+"Colombia","UK",8
+"Colombia","USA",14
+"Croazia","Austria",4
+"Croazia","Germania",6
+"Croazia","Iran",4
+"Croazia","Italia",9
+"Croazia","Polonia",5
+"Croazia","Slovenia",4
+"Croazia","UK",8
+"Croazia","USA",5
+"Danimarca","Australia",12
+"Danimarca","Belgio",6
+"Danimarca","Canada",13
 "Danimarca","Cina",8
-"Danimarca","Francia",5
-"Danimarca","Germania",6
-"Danimarca","Italia",12
-"Danimarca","Paesi Bassi",7
-"Danimarca","Spagna",5
-"Danimarca","Svizzera",6
-"Danimarca","UK",10
-"Danimarca","USA",15
-"Egitto","Arabia Saudita",4
-"Egitto","USA",8
-"Emirati Arabi Uniti","Canada",4
+"Danimarca","Francia",7
+"Danimarca","Germania",12
+"Danimarca","Grecia",4
+"Danimarca","Italia",19
+"Danimarca","Paesi Bassi",12
+"Danimarca","Portogallo",4
+"Danimarca","Spagna",8
+"Danimarca","Svezia",4
+"Danimarca","Svizzera",7
+"Danimarca","UK",15
+"Danimarca","USA",21
+"Egitto","Arabia Saudita",5
+"Egitto","Francia",4
+"Egitto","India",4
+"Egitto","Italia",9
+"Egitto","Spagna",5
+"Egitto","Turchia",4
+"Egitto","UK",6
+"Egitto","USA",11
+"Emirati Arabi Uniti","Arabia Saudita",4
+"Emirati Arabi Uniti","Australia",6
+"Emirati Arabi Uniti","Canada",5
 "Emirati Arabi Uniti","Cina",6
-"Emirati Arabi Uniti","Italia",7
-"Emirati Arabi Uniti","UK",5
-"Emirati Arabi Uniti","USA",9
-"Francia","Argentina",4
-"Francia","Australia",15
-"Francia","Austria",12
-"Francia","Belgio",26
-"Francia","Brasile",10
-"Francia","Canada",18
-"Francia","Cina",21
-"Francia","Colombia",4
-"Francia","Danimarca",5
-"Francia","Germania",38
-"Francia","Giappone",6
-"Francia","Grecia",8
+"Emirati Arabi Uniti","Iran",5
+"Emirati Arabi Uniti","Italia",8
+"Emirati Arabi Uniti","UK",7
+"Emirati Arabi Uniti","USA",11
+"Francia","Argentina",5
+"Francia","Australia",21
+"Francia","Austria",25
+"Francia","Belgio",37
+"Francia","Brasile",13
+"Francia","Canada",25
+"Francia","Cina",26
+"Francia","Colombia",5
+"Francia","Danimarca",7
+"Francia","Egitto",4
+"Francia","Germania",58
+"Francia","Giappone",10
+"Francia","Grecia",11
 "Francia","Hong Kong",6
-"Francia","India",5
-"Francia","Irlanda",4
-"Francia","Israele",9
-"Francia","Italia",54
-"Francia","Korea",4
-"Francia","Messico",4
+"Francia","India",6
+"Francia","Iran",4
+"Francia","Irlanda",10
+"Francia","Israele",11
+"Francia","Italia",80
+"Francia","Korea",5
+"Francia","Messico",6
 "Francia","N/A",4
-"Francia","Norvegia",8
-"Francia","Nuova Zelanda",4
-"Francia","Paesi Bassi",24
-"Francia","Polonia",5
-"Francia","Portogallo",6
-"Francia","Singapore",4
-"Francia","Spagna",23
-"Francia","Svezia",12
-"Francia","Svizzera",21
-"Francia","Turchia",6
-"Francia","UK",47
-"Francia","USA",52
-"Germania","Australia",15
-"Germania","Austria",13
-"Germania","Belgio",18
-"Germania","Brasile",8
-"Germania","Canada",15
-"Germania","Cina",27
-"Germania","Colombia",4
-"Germania","Danimarca",6
-"Germania","Francia",38
-"Germania","Giappone",9
-"Germania","Grecia",9
-"Germania","India",7
-"Germania","Iran",5
-"Germania","Irlanda",4
-"Germania","Israele",8
-"Germania","Italia",39
-"Germania","Korea",4
-"Germania","Messico",4
-"Germania","N/A",11
-"Germania","Norvegia",4
-"Germania","Nuova Zelanda",4
-"Germania","Paesi Bassi",21
-"Germania","Polonia",6
-"Germania","Portogallo",6
-"Germania","Singapore",10
-"Germania","Spagna",21
-"Germania","Svezia",13
-"Germania","Svizzera",21
-"Germania","Turchia",6
-"Germania","UK",45
-"Germania","USA",57
-"Giappone","Arabia Saudita",4
-"Giappone","Australia",4
-"Giappone","Belgio",4
-"Giappone","Brasile",4
-"Giappone","Cina",23
+"Francia","Norvegia",10
+"Francia","Nuova Zelanda",6
+"Francia","Paesi Bassi",34
+"Francia","Polonia",9
+"Francia","Portogallo",14
+"Francia","Repubblica Ceca",4
+"Francia","Romania",5
+"Francia","Singapore",7
+"Francia","Spagna",44
+"Francia","Svezia",19
+"Francia","Svizzera",32
+"Francia","Turchia",9
+"Francia","UK",69
+"Francia","USA",71
+"Germania","Argentina",8
+"Germania","Australia",29
+"Germania","Austria",28
+"Germania","Belgio",28
+"Germania","Brasile",13
+"Germania","Canada",28
+"Germania","Cina",33
+"Germania","Colombia",5
+"Germania","Croazia",6
+"Germania","Danimarca",12
+"Germania","Francia",58
+"Germania","Giappone",19
+"Germania","Grecia",15
+"Germania","Hong Kong",4
+"Germania","India",11
+"Germania","Iran",7
+"Germania","Irlanda",9
+"Germania","Israele",12
+"Germania","Italia",80
+"Germania","Korea",6
+"Germania","Messico",7
+"Germania","N/A",12
+"Germania","Norvegia",8
+"Germania","Nuova Zelanda",6
+"Germania","Paesi Bassi",33
+"Germania","Polonia",15
+"Germania","Portogallo",16
+"Germania","Repubblica Ceca",5
+"Germania","Romania",5
+"Germania","Russia",4
+"Germania","Singapore",12
+"Germania","Spagna",44
+"Germania","Sud Africa",4
+"Germania","Svezia",24
+"Germania","Svizzera",32
+"Germania","Turchia",10
+"Germania","UK",74
+"Germania","USA",88
+"Germania","Ungheria",8
+"Giappone","Australia",8
+"Giappone","Belgio",6
+"Giappone","Brasile",7
+"Giappone","Canada",8
+"Giappone","Cina",31
 "Giappone","Colombia",5
-"Giappone","Francia",6
-"Giappone","Germania",9
-"Giappone","India",7
-"Giappone","Italia",12
-"Giappone","Korea",7
-"Giappone","N/A",7
-"Giappone","Nepal",4
-"Giappone","Singapore",6
-"Giappone","Spagna",7
-"Giappone","Svizzera",5
-"Giappone","Turchia",4
-"Giappone","UK",11
-"Giappone","USA",17
-"Grecia","Francia",8
-"Grecia","Germania",9
-"Grecia","Italia",12
-"Grecia","Paesi Bassi",5
-"Grecia","Spagna",4
-"Grecia","UK",6
-"Grecia","USA",10
-"Hong Kong","Australia",8
+"Giappone","Francia",10
+"Giappone","Germania",19
+"Giappone","India",12
+"Giappone","Iran",5
+"Giappone","Israele",4
+"Giappone","Italia",22
+"Giappone","Korea",10
+"Giappone","N/A",4
+"Giappone","Paesi Bassi",7
+"Giappone","Portogallo",5
+"Giappone","Singapore",8
+"Giappone","Spagna",12
+"Giappone","Sud Africa",4
+"Giappone","Svezia",6
+"Giappone","Svizzera",8
+"Giappone","Tailandia",4
+"Giappone","Taiwan",4
+"Giappone","Turchia",5
+"Giappone","UK",19
+"Giappone","USA",35
+"Grecia","Austria",6
+"Grecia","Canada",4
+"Grecia","Danimarca",4
+"Grecia","Francia",11
+"Grecia","Germania",15
+"Grecia","Israele",4
+"Grecia","Italia",19
+"Grecia","Paesi Bassi",7
+"Grecia","Polonia",7
+"Grecia","Repubblica Ceca",4
+"Grecia","Spagna",10
+"Grecia","Svizzera",5
+"Grecia","UK",12
+"Grecia","USA",17
+"Honduras","USA",4
+"Hong Kong","Australia",6
 "Hong Kong","Canada",5
-"Hong Kong","Cina",28
+"Hong Kong","Cina",26
 "Hong Kong","Francia",6
+"Hong Kong","Germania",4
 "Hong Kong","India",5
-"Hong Kong","Italia",7
-"Hong Kong","Singapore",5
-"Hong Kong","UK",12
-"Hong Kong","USA",27
-"India","Arabia Saudita",5
-"India","Australia",8
-"India","Brasile",6
-"India","Canada",6
-"India","Cina",14
-"India","Colombia",4
-"India","Francia",5
-"India","Germania",7
-"India","Giappone",7
+"Hong Kong","Italia",8
+"Hong Kong","Spagna",4
+"Hong Kong","Taiwan",4
+"Hong Kong","UK",10
+"Hong Kong","USA",24
+"India","Arabia Saudita",7
+"India","Australia",12
+"India","Belgio",6
+"India","Brasile",9
+"India","Canada",9
+"India","Cina",23
+"India","Colombia",7
+"India","Egitto",4
+"India","Francia",6
+"India","Germania",11
+"India","Giappone",12
 "India","Hong Kong",5
-"India","Iran",7
-"India","Italia",8
-"India","Korea",9
+"India","Iran",10
+"India","Italia",14
+"India","Korea",12
 "India","N/A",4
-"India","Nepal",4
-"India","Paesi Bassi",5
-"India","Qatar",4
-"India","Singapore",6
-"India","Spagna",6
-"India","Svizzera",4
-"India","Tailandia",12
-"India","UK",12
-"India","USA",22
-"Iran","Australia",7
-"Iran","Brasile",4
-"Iran","Canada",8
-"Iran","Cina",5
-"Iran","Germania",5
-"Iran","India",7
-"Iran","Italia",4
-"Iran","Turchia",4
-"Iran","UK",6
-"Iran","USA",22
-"Irlanda","Australia",4
-"Irlanda","Francia",4
-"Irlanda","Germania",4
-"Irlanda","Italia",5
-"Irlanda","Spagna",4
-"Irlanda","UK",11
-"Irlanda","USA",10
-"Israele","Canada",11
-"Israele","Cina",5
-"Israele","Francia",9
-"Israele","Germania",8
-"Israele","Italia",9
-"Israele","Spagna",5
-"Israele","UK",9
-"Israele","USA",17
-"Italia","Arabia Saudita",5
-"Italia","Australia",28
-"Italia","Austria",18
-"Italia","Belgio",27
-"Italia","Brasile",17
-"Italia","Canada",30
-"Italia","Cina",36
-"Italia","Colombia",5
-"Italia","Croazia",4
-"Italia","Danimarca",12
-"Italia","Emirati Arabi Uniti",7
-"Italia","Francia",54
-"Italia","Germania",39
-"Italia","Giappone",12
-"Italia","Grecia",12
-"Italia","Hong Kong",7
-"Italia","India",8
-"Italia","Iran",4
-"Italia","Irlanda",5
-"Italia","Israele",9
-"Italia","Korea",8
-"Italia","Messico",4
-"Italia","N/A",12
-"Italia","Norvegia",11
-"Italia","Paesi Bassi",23
-"Italia","Polonia",8
-"Italia","Portogallo",9
-"Italia","Romania",4
-"Italia","Russia",5
-"Italia","Singapore",8
-"Italia","Slovenia",4
-"Italia","Spagna",41
-"Italia","Sud Africa",4
-"Italia","Svezia",12
-"Italia","Svizzera",33
-"Italia","Turchia",10
-"Italia","UK",78
-"Italia","USA",114
+"India","Nepal",6
+"India","Norvegia",4
+"India","Paesi Bassi",10
+"India","Polonia",5
+"India","Portogallo",4
+"India","Singapore",9
+"India","Spagna",10
+"India","Svizzera",9
+"India","Tailandia",22
+"India","UK",24
+"India","USA",58
+"Indonesia","USA",5
+"Iran","Australia",12
+"Iran","Brasile",6
+"Iran","Canada",11
+"Iran","Cina",6
+"Iran","Croazia",4
+"Iran","Emirati Arabi Uniti",5
+"Iran","Francia",4
+"Iran","Germania",7
+"Iran","Giappone",5
+"Iran","India",10
+"Iran","Italia",15
+"Iran","Korea",4
+"Iran","Polonia",6
+"Iran","Russia",4
+"Iran","Spagna",4
+"Iran","Svizzera",4
+"Iran","Tunisia",4
+"Iran","Turchia",8
+"Iran","UK",12
+"Iran","USA",33
+"Iran","Ungheria",6
+"Irlanda","Australia",8
+"Irlanda","Austria",4
+"Irlanda","Cina",5
+"Irlanda","Francia",10
+"Irlanda","Germania",9
+"Irlanda","Italia",12
+"Irlanda","Paesi Bassi",10
+"Irlanda","Spagna",8
+"Irlanda","Svezia",4
+"Irlanda","Svizzera",4
+"Irlanda","UK",18
+"Irlanda","USA",21
+"Israele","Australia",5
+"Israele","Canada",16
+"Israele","Cina",7
+"Israele","Colombia",4
+"Israele","Francia",11
+"Israele","Germania",12
+"Israele","Giappone",4
+"Israele","Grecia",4
+"Israele","Italia",17
+"Israele","Paesi Bassi",5
+"Israele","Portogallo",8
+"Israele","Spagna",10
+"Israele","Sud Africa",4
+"Israele","Svezia",4
+"Israele","Svizzera",5
+"Israele","UK",13
+"Israele","USA",30
+"Italia","Arabia Saudita",4
+"Italia","Argentina",7
+"Italia","Australia",39
+"Italia","Austria",30
+"Italia","Belgio",36
+"Italia","Brasile",23
+"Italia","Canada",52
+"Italia","Cina",54
+"Italia","Colombia",6
+"Italia","Croazia",9
+"Italia","Danimarca",19
+"Italia","Egitto",9
+"Italia","Emirati Arabi Uniti",8
+"Italia","Francia",80
+"Italia","Germania",80
+"Italia","Giappone",22
+"Italia","Grecia",19
+"Italia","Hong Kong",8
+"Italia","India",14
+"Italia","Iran",15
+"Italia","Irlanda",12
+"Italia","Israele",17
+"Italia","Korea",11
+"Italia","Libano",5
+"Italia","Messico",8
+"Italia","N/A",9
+"Italia","Norvegia",15
+"Italia","Nuova Zelanda",4
+"Italia","Paesi Bassi",45
+"Italia","Polonia",19
+"Italia","Portogallo",24
+"Italia","Repubblica Ceca",5
+"Italia","Romania",7
+"Italia","Russia",6
+"Italia","Singapore",12
+"Italia","Slovenia",5
+"Italia","Spagna",75
+"Italia","Sud Africa",7
+"Italia","Svezia",24
+"Italia","Svizzera",48
+"Italia","Taiwan",4
+"Italia","Tunisia",4
+"Italia","Turchia",17
+"Italia","UK",121
+"Italia","USA",166
+"Italia","Ungheria",6
+"Kenya","Sud Africa",4
+"Kenya","UK",6
+"Kenya","USA",6
 "Korea","Arabia Saudita",5
-"Korea","Australia",5
-"Korea","Canada",5
-"Korea","Cina",14
-"Korea","Francia",4
-"Korea","Germania",4
-"Korea","Giappone",7
-"Korea","India",9
-"Korea","Italia",8
-"Korea","Singapore",5
-"Korea","Spagna",5
-"Korea","Svizzera",5
-"Korea","Tailandia",4
-"Korea","UK",10
-"Korea","USA",17
-"Libano","USA",7
-"Malesia","Cina",5
+"Korea","Australia",6
+"Korea","Canada",8
+"Korea","Cina",18
+"Korea","Francia",5
+"Korea","Germania",6
+"Korea","Giappone",10
+"Korea","India",12
+"Korea","Iran",4
+"Korea","Italia",11
+"Korea","Paesi Bassi",4
+"Korea","Singapore",8
+"Korea","Spagna",7
+"Korea","Sud Africa",4
+"Korea","Svizzera",6
+"Korea","Tailandia",5
+"Korea","Taiwan",4
+"Korea","UK",12
+"Korea","USA",20
+"Libano","Canada",4
+"Libano","Italia",5
+"Libano","USA",11
+"Malesia","Cina",6
 "Malesia","UK",5
-"Malesia","USA",6
-"Messico","Brasile",5
-"Messico","Francia",4
-"Messico","Germania",4
-"Messico","Italia",4
-"Messico","USA",5
+"Malesia","USA",7
+"Messico","Argentina",7
+"Messico","Brasile",10
+"Messico","Canada",6
+"Messico","Colombia",7
+"Messico","Francia",6
+"Messico","Germania",7
+"Messico","Italia",8
+"Messico","Paesi Bassi",4
+"Messico","Portogallo",4
+"Messico","Spagna",7
+"Messico","UK",5
+"Messico","USA",18
+"N/A","Belgio",4
 "N/A","Canada",5
-"N/A","Cina",13
+"N/A","Cina",11
 "N/A","Francia",4
-"N/A","Germania",11
-"N/A","Giappone",7
+"N/A","Germania",12
+"N/A","Giappone",4
 "N/A","India",4
-"N/A","Italia",12
+"N/A","Italia",9
 "N/A","Spagna",4
 "N/A","Svezia",4
-"N/A","UK",14
-"N/A","USA",37
-"Nepal","Giappone",4
-"Nepal","India",4
-"Nepal","USA",5
-"Nigeria","USA",5
+"N/A","UK",13
+"N/A","USA",34
+"Nepal","Colombia",4
+"Nepal","India",6
+"Nepal","USA",8
+"Nigeria","UK",4
+"Nigeria","USA",10
 "Norvegia","Australia",5
-"Norvegia","Austria",4
-"Norvegia","Cina",5
-"Norvegia","Francia",8
-"Norvegia","Germania",4
-"Norvegia","Italia",11
-"Norvegia","Spagna",4
-"Norvegia","UK",8
-"Norvegia","USA",11
-"Nuova Zelanda","Australia",7
-"Nuova Zelanda","Canada",4
-"Nuova Zelanda","Francia",4
-"Nuova Zelanda","Germania",4
-"Nuova Zelanda","USA",6
-"Paesi Bassi","Australia",12
-"Paesi Bassi","Austria",9
-"Paesi Bassi","Belgio",13
-"Paesi Bassi","Brasile",5
-"Paesi Bassi","Canada",9
-"Paesi Bassi","Cina",14
-"Paesi Bassi","Danimarca",7
-"Paesi Bassi","Francia",24
-"Paesi Bassi","Germania",21
-"Paesi Bassi","Grecia",5
-"Paesi Bassi","India",5
-"Paesi Bassi","Italia",23
-"Paesi Bassi","Spagna",9
-"Paesi Bassi","Svezia",5
-"Paesi Bassi","Svizzera",12
-"Paesi Bassi","Turchia",4
-"Paesi Bassi","UK",33
-"Paesi Bassi","USA",29
-"Pakistan","Cina",4
-"Pakistan","USA",5
-"Perù","USA",5
-"Polonia","Belgio",5
-"Polonia","Cina",4
-"Polonia","Francia",5
-"Polonia","Germania",6
-"Polonia","Italia",8
-"Polonia","Svizzera",6
-"Polonia","UK",6
-"Polonia","USA",11
-"Portogallo","Australia",5
-"Portogallo","Belgio",5
-"Portogallo","Canada",4
-"Portogallo","Cina",4
-"Portogallo","Francia",6
-"Portogallo","Germania",6
-"Portogallo","Italia",9
-"Portogallo","Spagna",6
-"Portogallo","Svizzera",4
-"Portogallo","UK",9
-"Portogallo","USA",8
-"Qatar","India",4
-"Romania","Italia",4
-"Romania","UK",4
-"Russia","Italia",5
+"Norvegia","Austria",5
+"Norvegia","Belgio",6
+"Norvegia","Canada",5
+"Norvegia","Francia",10
+"Norvegia","Germania",8
+"Norvegia","India",4
+"Norvegia","Italia",15
+"Norvegia","Paesi Bassi",5
+"Norvegia","Spagna",8
+"Norvegia","Svezia",9
+"Norvegia","UK",13
+"Norvegia","USA",14
+"Nuova Zelanda","Australia",11
+"Nuova Zelanda","Canada",8
+"Nuova Zelanda","Francia",6
+"Nuova Zelanda","Germania",6
+"Nuova Zelanda","Italia",4
+"Nuova Zelanda","Spagna",5
+"Nuova Zelanda","UK",6
+"Nuova Zelanda","USA",11
+"Oman","UK",4
+"Oman","USA",4
+"Paesi Bassi","Australia",23
+"Paesi Bassi","Austria",16
+"Paesi Bassi","Belgio",20
+"Paesi Bassi","Brasile",6
+"Paesi Bassi","Canada",16
+"Paesi Bassi","Cina",17
+"Paesi Bassi","Danimarca",12
+"Paesi Bassi","Francia",34
+"Paesi Bassi","Germania",33
+"Paesi Bassi","Giappone",7
+"Paesi Bassi","Grecia",7
+"Paesi Bassi","India",10
+"Paesi Bassi","Irlanda",10
+"Paesi Bassi","Israele",5
+"Paesi Bassi","Italia",45
+"Paesi Bassi","Korea",4
+"Paesi Bassi","Messico",4
+"Paesi Bassi","Norvegia",5
+"Paesi Bassi","Polonia",5
+"Paesi Bassi","Portogallo",8
+"Paesi Bassi","Singapore",5
+"Paesi Bassi","Spagna",26
+"Paesi Bassi","Svezia",14
+"Paesi Bassi","Svizzera",15
+"Paesi Bassi","Turchia",5
+"Paesi Bassi","UK",54
+"Paesi Bassi","USA",49
+"Pakistan","Cina",5
+"Pakistan","USA",9
+"Perù","USA",8
+"Polonia","Australia",4
+"Polonia","Austria",6
+"Polonia","Belgio",7
+"Polonia","Canada",4
+"Polonia","Cina",5
+"Polonia","Croazia",5
+"Polonia","Francia",9
+"Polonia","Germania",15
+"Polonia","Grecia",7
+"Polonia","India",5
+"Polonia","Iran",6
+"Polonia","Italia",19
+"Polonia","Paesi Bassi",5
+"Polonia","Portogallo",5
+"Polonia","Repubblica Ceca",4
+"Polonia","Spagna",8
+"Polonia","Svizzera",7
+"Polonia","UK",17
+"Polonia","USA",23
+"Portogallo","Australia",7
+"Portogallo","Austria",6
+"Portogallo","Belgio",9
+"Portogallo","Brasile",8
+"Portogallo","Canada",8
+"Portogallo","Cina",5
+"Portogallo","Danimarca",4
+"Portogallo","Francia",14
+"Portogallo","Germania",16
+"Portogallo","Giappone",5
+"Portogallo","India",4
+"Portogallo","Israele",8
+"Portogallo","Italia",24
+"Portogallo","Messico",4
+"Portogallo","Paesi Bassi",8
+"Portogallo","Polonia",5
+"Portogallo","Spagna",15
+"Portogallo","Svezia",5
+"Portogallo","Svizzera",8
+"Portogallo","Turchia",5
+"Portogallo","UK",19
+"Portogallo","USA",18
+"Portogallo","Ungheria",6
+"Repubblica Ceca","Austria",5
+"Repubblica Ceca","Francia",4
+"Repubblica Ceca","Germania",5
+"Repubblica Ceca","Grecia",4
+"Repubblica Ceca","Italia",5
+"Repubblica Ceca","Polonia",4
+"Repubblica Ceca","Spagna",4
+"Repubblica Ceca","UK",7
+"Repubblica del Congo","UK",5
+"Romania","Francia",5
+"Romania","Germania",5
+"Romania","Italia",7
+"Romania","UK",5
+"Romania","USA",6
+"Russia","Australia",4
+"Russia","Canada",4
+"Russia","Germania",4
+"Russia","Iran",4
+"Russia","Italia",6
 "Russia","Spagna",5
-"Russia","Svizzera",4
-"Russia","UK",4
+"Russia","Svizzera",5
+"Russia","UK",6
+"Russia","USA",6
 "Senegal","UK",4
 "Senegal","USA",4
-"Singapore","Australia",10
-"Singapore","Canada",9
-"Singapore","Cina",23
-"Singapore","Francia",4
-"Singapore","Germania",10
-"Singapore","Giappone",6
-"Singapore","Hong Kong",5
-"Singapore","India",6
-"Singapore","Italia",8
-"Singapore","Korea",5
-"Singapore","Spagna",4
-"Singapore","Svizzera",8
-"Singapore","Tailandia",4
-"Singapore","UK",17
-"Singapore","USA",25
-"Slovenia","Italia",4
-"Spagna","Australia",15
-"Spagna","Austria",6
-"Spagna","Belgio",10
-"Spagna","Brasile",8
-"Spagna","Canada",19
-"Spagna","Cina",12
-"Spagna","Danimarca",5
-"Spagna","Francia",23
-"Spagna","Germania",21
-"Spagna","Giappone",7
-"Spagna","Grecia",4
-"Spagna","India",6
-"Spagna","Irlanda",4
-"Spagna","Israele",5
-"Spagna","Italia",41
-"Spagna","Korea",5
+"Singapore","Australia",13
+"Singapore","Belgio",5
+"Singapore","Brasile",4
+"Singapore","Canada",11
+"Singapore","Cina",30
+"Singapore","Francia",7
+"Singapore","Germania",12
+"Singapore","Giappone",8
+"Singapore","India",9
+"Singapore","Italia",12
+"Singapore","Korea",8
+"Singapore","Paesi Bassi",5
+"Singapore","Spagna",8
+"Singapore","Svizzera",9
+"Singapore","Tailandia",5
+"Singapore","Taiwan",5
+"Singapore","UK",23
+"Singapore","USA",35
+"Slovenia","Croazia",4
+"Slovenia","Italia",5
+"Slovenia","UK",4
+"Spagna","Argentina",6
+"Spagna","Australia",19
+"Spagna","Austria",14
+"Spagna","Belgio",18
+"Spagna","Brasile",13
+"Spagna","Canada",29
+"Spagna","Cina",18
+"Spagna","Colombia",6
+"Spagna","Danimarca",8
+"Spagna","Egitto",5
+"Spagna","Francia",44
+"Spagna","Germania",44
+"Spagna","Giappone",12
+"Spagna","Grecia",10
+"Spagna","Hong Kong",4
+"Spagna","India",10
+"Spagna","Iran",4
+"Spagna","Irlanda",8
+"Spagna","Israele",10
+"Spagna","Italia",75
+"Spagna","Korea",7
+"Spagna","Messico",7
 "Spagna","N/A",4
-"Spagna","Norvegia",4
-"Spagna","Paesi Bassi",9
-"Spagna","Portogallo",6
+"Spagna","Norvegia",8
+"Spagna","Nuova Zelanda",5
+"Spagna","Paesi Bassi",26
+"Spagna","Polonia",8
+"Spagna","Portogallo",15
+"Spagna","Repubblica Ceca",4
 "Spagna","Russia",5
-"Spagna","Singapore",4
-"Spagna","Svezia",7
-"Spagna","Svizzera",15
-"Spagna","Turchia",4
-"Spagna","UK",33
-"Spagna","USA",38
+"Spagna","Singapore",8
+"Spagna","Sud Africa",5
+"Spagna","Svezia",13
+"Spagna","Svizzera",21
+"Spagna","Turchia",7
+"Spagna","UK",57
+"Spagna","USA",66
+"Sud Africa","Australia",6
+"Sud Africa","Brasile",4
+"Sud Africa","Canada",6
 "Sud Africa","Cina",4
-"Sud Africa","Italia",4
-"Sud Africa","Svizzera",5
-"Sud Africa","UK",8
-"Sud Africa","USA",9
-"Svezia","Australia",8
-"Svezia","Austria",6
-"Svezia","Belgio",6
-"Svezia","Brasile",6
+"Sud Africa","Germania",4
+"Sud Africa","Giappone",4
+"Sud Africa","Israele",4
+"Sud Africa","Italia",7
+"Sud Africa","Kenya",4
+"Sud Africa","Korea",4
+"Sud Africa","Spagna",5
+"Sud Africa","Svizzera",9
+"Sud Africa","UK",14
+"Sud Africa","USA",17
+"Svezia","Australia",12
+"Svezia","Austria",9
+"Svezia","Belgio",10
+"Svezia","Brasile",4
 "Svezia","Canada",7
-"Svezia","Cina",8
-"Svezia","Francia",12
-"Svezia","Germania",13
-"Svezia","Italia",12
+"Svezia","Cina",10
+"Svezia","Danimarca",4
+"Svezia","Francia",19
+"Svezia","Germania",24
+"Svezia","Giappone",6
+"Svezia","Irlanda",4
+"Svezia","Israele",4
+"Svezia","Italia",24
 "Svezia","N/A",4
-"Svezia","Paesi Bassi",5
-"Svezia","Spagna",7
-"Svezia","Svizzera",7
-"Svezia","UK",13
-"Svezia","USA",15
-"Svizzera","Australia",12
-"Svizzera","Austria",12
-"Svizzera","Belgio",10
-"Svizzera","Canada",11
-"Svizzera","Cina",13
-"Svizzera","Danimarca",6
-"Svizzera","Francia",21
-"Svizzera","Germania",21
-"Svizzera","Giappone",5
-"Svizzera","India",4
-"Svizzera","Italia",33
-"Svizzera","Korea",5
-"Svizzera","Paesi Bassi",12
-"Svizzera","Polonia",6
-"Svizzera","Portogallo",4
-"Svizzera","Russia",4
-"Svizzera","Singapore",8
-"Svizzera","Spagna",15
-"Svizzera","Sud Africa",5
-"Svizzera","Svezia",7
-"Svizzera","Turchia",4
-"Svizzera","UK",27
-"Svizzera","USA",25
+"Svezia","Norvegia",9
+"Svezia","Paesi Bassi",14
+"Svezia","Portogallo",5
+"Svezia","Spagna",13
+"Svezia","Svizzera",9
+"Svezia","UK",26
+"Svezia","USA",22
+"Svizzera","Australia",23
+"Svizzera","Austria",19
+"Svizzera","Belgio",14
+"Svizzera","Brasile",4
+"Svizzera","Canada",15
+"Svizzera","Cina",18
+"Svizzera","Colombia",4
+"Svizzera","Danimarca",7
+"Svizzera","Francia",32
+"Svizzera","Germania",32
+"Svizzera","Giappone",8
+"Svizzera","Grecia",5
+"Svizzera","India",9
+"Svizzera","Iran",4
+"Svizzera","Irlanda",4
+"Svizzera","Israele",5
+"Svizzera","Italia",48
+"Svizzera","Korea",6
+"Svizzera","Paesi Bassi",15
+"Svizzera","Polonia",7
+"Svizzera","Portogallo",8
+"Svizzera","Russia",5
+"Svizzera","Singapore",9
+"Svizzera","Spagna",21
+"Svizzera","Sud Africa",9
+"Svizzera","Svezia",9
+"Svizzera","Turchia",6
+"Svizzera","UK",42
+"Svizzera","USA",45
 "Tailandia","Cina",6
-"Tailandia","India",12
-"Tailandia","Korea",4
-"Tailandia","Singapore",4
+"Tailandia","Giappone",4
+"Tailandia","India",22
+"Tailandia","Korea",5
+"Tailandia","Singapore",5
+"Tailandia","Taiwan",4
 "Tailandia","USA",6
-"Taiwan","Cina",14
-"Taiwan","USA",11
-"Turchia","Austria",5
+"Taiwan","Australia",4
+"Taiwan","Cina",19
+"Taiwan","Giappone",4
+"Taiwan","Hong Kong",4
+"Taiwan","Italia",4
+"Taiwan","Korea",4
+"Taiwan","Singapore",5
+"Taiwan","Tailandia",4
+"Taiwan","USA",16
+"Tunisia","Brasile",4
+"Tunisia","Iran",4
+"Tunisia","Italia",4
+"Tunisia","USA",5
+"Turchia","Austria",7
+"Turchia","Belgio",5
 "Turchia","Brasile",4
-"Turchia","Cina",4
-"Turchia","Francia",6
-"Turchia","Germania",6
-"Turchia","Giappone",4
-"Turchia","Iran",4
-"Turchia","Italia",10
-"Turchia","Paesi Bassi",4
-"Turchia","Spagna",4
-"Turchia","Svizzera",4
-"Turchia","UK",8
-"Turchia","USA",7
-"UK","Arabia Saudita",6
-"UK","Australia",41
-"UK","Austria",19
-"UK","Belgio",28
-"UK","Brasile",15
-"UK","Camerun",4
-"UK","Canada",46
-"UK","Cina",73
-"UK","Colombia",7
-"UK","Danimarca",10
-"UK","Emirati Arabi Uniti",5
-"UK","Francia",47
-"UK","Germania",45
-"UK","Giappone",11
-"UK","Grecia",6
-"UK","Hong Kong",12
-"UK","India",12
-"UK","Iran",6
-"UK","Irlanda",11
-"UK","Israele",9
-"UK","Italia",78
-"UK","Korea",10
+"Turchia","Canada",5
+"Turchia","Cina",7
+"Turchia","Egitto",4
+"Turchia","Francia",9
+"Turchia","Germania",10
+"Turchia","Giappone",5
+"Turchia","Iran",8
+"Turchia","Italia",17
+"Turchia","Paesi Bassi",5
+"Turchia","Portogallo",5
+"Turchia","Spagna",7
+"Turchia","Svizzera",6
+"Turchia","UK",16
+"Turchia","USA",14
+"Turchia","Ungheria",4
+"UK","Arabia Saudita",8
+"UK","Argentina",6
+"UK","Australia",62
+"UK","Austria",33
+"UK","Bangladesh",6
+"UK","Belgio",40
+"UK","Brasile",21
+"UK","Camerun",6
+"UK","Canada",61
+"UK","Cina",88
+"UK","Colombia",8
+"UK","Croazia",8
+"UK","Danimarca",15
+"UK","Egitto",6
+"UK","Emirati Arabi Uniti",7
+"UK","Francia",69
+"UK","Germania",74
+"UK","Giappone",19
+"UK","Grecia",12
+"UK","Hong Kong",10
+"UK","India",24
+"UK","Iran",12
+"UK","Irlanda",18
+"UK","Israele",13
+"UK","Italia",121
+"UK","Kenya",6
+"UK","Korea",12
 "UK","Malesia",5
-"UK","N/A",14
-"UK","Norvegia",8
-"UK","Paesi Bassi",33
-"UK","Polonia",6
-"UK","Portogallo",9
-"UK","Romania",4
-"UK","Russia",4
+"UK","Messico",5
+"UK","N/A",13
+"UK","Nigeria",4
+"UK","Norvegia",13
+"UK","Nuova Zelanda",6
+"UK","Oman",4
+"UK","Paesi Bassi",54
+"UK","Polonia",17
+"UK","Portogallo",19
+"UK","Repubblica Ceca",7
+"UK","Repubblica del Congo",5
+"UK","Romania",5
+"UK","Russia",6
 "UK","Senegal",4
-"UK","Singapore",17
-"UK","Spagna",33
-"UK","Sud Africa",8
-"UK","Svezia",13
-"UK","Svizzera",27
-"UK","Turchia",8
-"UK","USA",128
+"UK","Singapore",23
+"UK","Slovenia",4
+"UK","Spagna",57
+"UK","Sud Africa",14
+"UK","Svezia",26
+"UK","Svizzera",42
+"UK","Turchia",16
+"UK","USA",180
+"UK","Uganda",4
+"UK","Ungheria",8
 "USA","Arabia Saudita",15
-"USA","Argentina",6
-"USA","Australia",66
-"USA","Austria",12
-"USA","Bangladesh",5
-"USA","Belgio",21
-"USA","Brasile",22
-"USA","Canada",101
-"USA","Cile",5
-"USA","Cina",163
-"USA","Colombia",7
-"USA","Croazia",4
-"USA","Danimarca",15
-"USA","Egitto",8
-"USA","Emirati Arabi Uniti",9
-"USA","Francia",52
-"USA","Germania",57
-"USA","Giappone",17
-"USA","Grecia",10
-"USA","Hong Kong",27
-"USA","India",22
-"USA","Iran",22
-"USA","Irlanda",10
-"USA","Israele",17
-"USA","Italia",114
-"USA","Korea",17
-"USA","Libano",7
-"USA","Malesia",6
-"USA","Messico",5
-"USA","N/A",37
-"USA","Nepal",5
-"USA","Nigeria",5
-"USA","Norvegia",11
-"USA","Nuova Zelanda",6
-"USA","Paesi Bassi",29
-"USA","Pakistan",5
-"USA","Perù",5
-"USA","Polonia",11
-"USA","Portogallo",8
+"USA","Argentina",10
+"USA","Australia",92
+"USA","Austria",20
+"USA","Bangladesh",7
+"USA","Belgio",31
+"USA","Brasile",38
+"USA","Camerun",4
+"USA","Canada",165
+"USA","Cile",6
+"USA","Cina",215
+"USA","Colombia",14
+"USA","Croazia",5
+"USA","Danimarca",21
+"USA","Egitto",11
+"USA","Emirati Arabi Uniti",11
+"USA","Francia",71
+"USA","Germania",88
+"USA","Giappone",35
+"USA","Grecia",17
+"USA","Honduras",4
+"USA","Hong Kong",24
+"USA","India",58
+"USA","Indonesia",5
+"USA","Iran",33
+"USA","Irlanda",21
+"USA","Israele",30
+"USA","Italia",166
+"USA","Kenya",6
+"USA","Korea",20
+"USA","Libano",11
+"USA","Malesia",7
+"USA","Messico",18
+"USA","N/A",34
+"USA","Nepal",8
+"USA","Nigeria",10
+"USA","Norvegia",14
+"USA","Nuova Zelanda",11
+"USA","Oman",4
+"USA","Paesi Bassi",49
+"USA","Pakistan",9
+"USA","Perù",8
+"USA","Polonia",23
+"USA","Portogallo",18
+"USA","Romania",6
+"USA","Russia",6
 "USA","Senegal",4
-"USA","Singapore",25
-"USA","Spagna",38
-"USA","Sud Africa",9
-"USA","Svezia",15
-"USA","Svizzera",25
+"USA","Singapore",35
+"USA","Spagna",66
+"USA","Sud Africa",17
+"USA","Svezia",22
+"USA","Svizzera",45
 "USA","Tailandia",6
-"USA","Taiwan",11
-"USA","Turchia",7
-"USA","UK",128
-"USA","Ungheria",5
-"Ungheria","USA",5
+"USA","Taiwan",16
+"USA","Tunisia",5
+"USA","Turchia",14
+"USA","UK",180
+"USA","Ungheria",9
+"USA","Uruguay",4
+"Uganda","UK",4
+"Ungheria","Austria",6
+"Ungheria","Germania",8
+"Ungheria","Iran",6
+"Ungheria","Italia",6
+"Ungheria","Portogallo",6
+"Ungheria","Turchia",4
+"Ungheria","UK",8
+"Ungheria","USA",9
+"Uruguay","Brasile",4
+"Uruguay","USA",4

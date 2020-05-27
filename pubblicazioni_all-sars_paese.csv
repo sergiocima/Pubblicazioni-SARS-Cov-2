@@ -1,53 +1,64 @@
 "Country","Codice","Articoli pubblicati"
-"Arabia Saudita","SAU",47
-"Argentina","ARG",14
-"Australia","AUS",155
-"Austria","AUT",38
-"Bangladesh","BGD",12
-"Belgio","BEL",68
-"Brasile","BRA",88
-"Canada","CAN",241
-"Cile","CHL",16
-"Cina","CHN",1265
-"Colombia","COL",21
-"Croazia","HRV",15
-"Danimarca","DNK",28
-"Egitto","EGY",22
-"Emirati Arabi Uniti","ARE",15
-"Francia","FRA",231
-"Germania","DEU",216
-"Giappone","JPN",77
-"Giordania","JOR",10
-"Grecia","GRC",36
-"Hong Kong","HKG",73
-"India","IND",197
-"Iran","IRN",116
-"Irlanda","IRL",31
-"Israele","ISR",38
-"Italia","ITA",587
-"Korea","KOR",83
-"Libano","LBN",14
-"Malesia","MYS",21
-"Messico","MEX",27
-"N/A","N/A",263
-"Nepal","NPL",18
-"Nigeria","NGA",15
-"Norvegia","NOR",21
-"Nuova Zelanda","NZL",12
-"Paesi Bassi","NLD",84
-"Pakistan","PAK",10
-"Polonia","POL",28
-"Portogallo","PRT",27
-"Russia","RUS",10
-"Singapore","SGP",133
-"Spagna","ESP",158
-"Sud Africa","ZAF",23
-"Svezia","SWE",46
-"Svizzera","CHE",113
-"Tailandia","THA",29
-"Taiwan","TWN",70
-"Turchia","TUR",59
-"UK","GBR",511
-"USA","USA",1594
-"Ungheria","HUN",20
-"Altro",,172
+,,49
+,"#XL_EVAL_ERROR#",137
+"Arabia Saudita","SAU",65
+"Argentina","ARG",33
+"Australia","AUS",244
+"Austria","AUT",76
+"Bangladesh","BGD",19
+"Belgio","BEL",107
+"Brasile","BRA",172
+"Canada","CAN",400
+"Cile","CHL",18
+"Cina","CHN",1525
+"Colombia","COL",41
+"Croazia","HRV",29
+"Danimarca","DNK",46
+"Egitto","EGY",36
+"Emirati Arabi Uniti","ARE",25
+"Finlandia","FIN",11
+"Francia","FRA",335
+"Germania","DEU",314
+"Giappone","JPN",110
+"Giordania","JOR",17
+"Grecia","GRC",66
+"Hong Kong","HKG",79
+"India","IND",347
+"Indonesia","IDN",16
+"Iran","IRN",181
+"Irlanda","IRL",76
+"Israele","ISR",72
+"Italia","ITA",905
+"Kenya","KEN",11
+"Korea","KOR",94
+"Libano","LBN",22
+"Malesia","MYS",27
+"Marocco","MAR",14
+"Messico","MEX",54
+"N/A","N/A",277
+"Nepal","NPL",24
+"Nigeria","NGA",26
+"Norvegia","NOR",36
+"Nuova Zelanda","NZL",25
+"Paesi Bassi","NLD",141
+"Pakistan","PAK",31
+"Perù","PER",12
+"Polonia","POL",54
+"Portogallo","PRT",63
+"Qatar","QAT",12
+"Repubblica Ceca","CZE",13
+"Romania","ROU",12
+"Russia","RUS",15
+"Singapore","SGP",183
+"Spagna","ESP",304
+"Sud Africa","ZAF",50
+"Svezia","SWE",73
+"Svizzera","CHE",161
+"Tailandia","THA",46
+"Taiwan","TWN",90
+"Turchia","TUR",103
+"UK","GBR",813
+"USA","USA",2553
+"Ungheria","HUN",28
+"Vietnam","VNM",12
+"Altro",,238
