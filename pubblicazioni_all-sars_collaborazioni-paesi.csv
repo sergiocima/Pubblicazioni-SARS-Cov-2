@@ -74,7 +74,7 @@
 "Austria","Svizzera",19
 "Austria","Turchia",7
 "Austria","UK",33
-"Austria","USA",20
+"Austria","USA",21
 "Austria","Ungheria",6
 "Bangladesh","Australia",5
 "Bangladesh","UK",6
@@ -101,7 +101,7 @@
 "Belgio","Svizzera",14
 "Belgio","Turchia",5
 "Belgio","UK",40
-"Belgio","USA",31
+"Belgio","USA",32
 "Bolivia","Colombia",4
 "Brasile","Argentina",9
 "Brasile","Australia",9
@@ -153,7 +153,7 @@
 "Canada","Korea",8
 "Canada","Libano",4
 "Canada","Messico",6
-"Canada","N/A",5
+"Canada","N/A",6
 "Canada","Norvegia",5
 "Canada","Nuova Zelanda",8
 "Canada","Paesi Bassi",16
@@ -167,7 +167,7 @@
 "Canada","Svizzera",15
 "Canada","Turchia",5
 "Canada","UK",61
-"Canada","USA",165
+"Canada","USA",166
 "Cile","Argentina",4
 "Cile","Brasile",4
 "Cile","USA",6
@@ -192,7 +192,7 @@
 "Cina","Italia",54
 "Cina","Korea",18
 "Cina","Malesia",6
-"Cina","N/A",11
+"Cina","N/A",12
 "Cina","Paesi Bassi",17
 "Cina","Pakistan",5
 "Cina","Polonia",5
@@ -231,7 +231,7 @@
 "Croazia","Polonia",5
 "Croazia","Slovenia",4
 "Croazia","UK",8
-"Croazia","USA",5
+"Croazia","USA",6
 "Danimarca","Australia",12
 "Danimarca","Belgio",6
 "Danimarca","Canada",13
@@ -298,7 +298,7 @@
 "Francia","Svizzera",32
 "Francia","Turchia",9
 "Francia","UK",69
-"Francia","USA",71
+"Francia","USA",72
 "Germania","Argentina",8
 "Germania","Australia",29
 "Germania","Austria",28
@@ -336,7 +336,7 @@
 "Germania","Svizzera",32
 "Germania","Turchia",10
 "Germania","UK",74
-"Germania","USA",88
+"Germania","USA",89
 "Germania","Ungheria",8
 "Giappone","Australia",8
 "Giappone","Belgio",6
@@ -446,11 +446,11 @@
 "Irlanda","Germania",9
 "Irlanda","Italia",12
 "Irlanda","Paesi Bassi",10
-"Irlanda","Spagna",8
+"Irlanda","Spagna",9
 "Irlanda","Svezia",4
 "Irlanda","Svizzera",4
 "Irlanda","UK",18
-"Irlanda","USA",21
+"Irlanda","USA",22
 "Israele","Australia",5
 "Israele","Canada",16
 "Israele","Cina",7
@@ -512,7 +512,7 @@
 "Italia","Tunisia",4
 "Italia","Turchia",17
 "Italia","UK",121
-"Italia","USA",166
+"Italia","USA",168
 "Italia","Ungheria",6
 "Kenya","Sud Africa",4
 "Kenya","UK",6
@@ -555,8 +555,8 @@
 "Messico","UK",5
 "Messico","USA",18
 "N/A","Belgio",4
-"N/A","Canada",5
-"N/A","Cina",11
+"N/A","Canada",6
+"N/A","Cina",12
 "N/A","Francia",4
 "N/A","Germania",12
 "N/A","Giappone",4
@@ -564,8 +564,8 @@
 "N/A","Italia",9
 "N/A","Spagna",4
 "N/A","Svezia",4
-"N/A","UK",13
-"N/A","USA",34
+"N/A","UK",15
+"N/A","USA",36
 "Nepal","Colombia",4
 "Nepal","India",6
 "Nepal","USA",8
@@ -729,7 +729,7 @@
 "Spagna","Hong Kong",4
 "Spagna","India",10
 "Spagna","Iran",4
-"Spagna","Irlanda",8
+"Spagna","Irlanda",9
 "Spagna","Israele",10
 "Spagna","Italia",75
 "Spagna","Korea",7
@@ -812,7 +812,7 @@
 "Svizzera","Svezia",9
 "Svizzera","Turchia",6
 "Svizzera","UK",42
-"Svizzera","USA",45
+"Svizzera","USA",46
 "Tailandia","Cina",6
 "Tailandia","Giappone",4
 "Tailandia","India",22
@@ -880,7 +880,7 @@
 "UK","Korea",12
 "UK","Malesia",5
 "UK","Messico",5
-"UK","N/A",13
+"UK","N/A",15
 "UK","Nigeria",4
 "UK","Norvegia",13
 "UK","Nuova Zelanda",6
@@ -900,27 +900,27 @@
 "UK","Svezia",26
 "UK","Svizzera",42
 "UK","Turchia",16
-"UK","USA",180
+"UK","USA",182
 "UK","Uganda",4
 "UK","Ungheria",8
 "USA","Arabia Saudita",15
 "USA","Argentina",10
 "USA","Australia",92
-"USA","Austria",20
+"USA","Austria",21
 "USA","Bangladesh",7
-"USA","Belgio",31
+"USA","Belgio",32
 "USA","Brasile",38
 "USA","Camerun",4
-"USA","Canada",165
+"USA","Canada",166
 "USA","Cile",6
 "USA","Cina",215
 "USA","Colombia",14
-"USA","Croazia",5
+"USA","Croazia",6
 "USA","Danimarca",21
 "USA","Egitto",11
 "USA","Emirati Arabi Uniti",11
-"USA","Francia",71
-"USA","Germania",88
+"USA","Francia",72
+"USA","Germania",89
 "USA","Giappone",35
 "USA","Grecia",17
 "USA","Honduras",4
@@ -928,15 +928,15 @@
 "USA","India",58
 "USA","Indonesia",5
 "USA","Iran",33
-"USA","Irlanda",21
+"USA","Irlanda",22
 "USA","Israele",30
-"USA","Italia",166
+"USA","Italia",168
 "USA","Kenya",6
 "USA","Korea",20
 "USA","Libano",11
 "USA","Malesia",7
 "USA","Messico",18
-"USA","N/A",34
+"USA","N/A",36
 "USA","Nepal",8
 "USA","Nigeria",10
 "USA","Norvegia",14
@@ -954,12 +954,12 @@
 "USA","Spagna",66
 "USA","Sud Africa",17
 "USA","Svezia",22
-"USA","Svizzera",45
+"USA","Svizzera",46
 "USA","Tailandia",6
 "USA","Taiwan",16
 "USA","Tunisia",5
 "USA","Turchia",14
-"USA","UK",180
+"USA","UK",182
 "USA","Ungheria",9
 "USA","Uruguay",4
 "Uganda","UK",4

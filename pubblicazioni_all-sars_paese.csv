@@ -1,6 +1,6 @@
 "Country","Codice","Articoli pubblicati"
-,,49
-,"#XL_EVAL_ERROR#",137
+,,48
+,"#XL_EVAL_ERROR#",99
 "Arabia Saudita","SAU",65
 "Argentina","ARG",33
 "Australia","AUS",244
@@ -8,9 +8,9 @@
 "Bangladesh","BGD",19
 "Belgio","BEL",107
 "Brasile","BRA",172
-"Canada","CAN",400
+"Canada","CAN",402
 "Cile","CHL",18
-"Cina","CHN",1525
+"Cina","CHN",1524
 "Colombia","COL",41
 "Croazia","HRV",29
 "Danimarca","DNK",46
@@ -23,19 +23,19 @@
 "Giordania","JOR",17
 "Grecia","GRC",66
 "Hong Kong","HKG",79
-"India","IND",347
+"India","IND",351
 "Indonesia","IDN",16
 "Iran","IRN",181
-"Irlanda","IRL",76
+"Irlanda","IRL",78
 "Israele","ISR",72
-"Italia","ITA",905
+"Italia","ITA",906
 "Kenya","KEN",11
 "Korea","KOR",94
 "Libano","LBN",22
 "Malesia","MYS",27
 "Marocco","MAR",14
 "Messico","MEX",54
-"N/A","N/A",277
+"N/A","N/A",285
 "Nepal","NPL",24
 "Nigeria","NGA",26
 "Norvegia","NOR",36
@@ -49,7 +49,7 @@
 "Repubblica Ceca","CZE",13
 "Romania","ROU",12
 "Russia","RUS",15
-"Singapore","SGP",183
+"Singapore","SGP",184
 "Spagna","ESP",304
 "Sud Africa","ZAF",50
 "Svezia","SWE",73
@@ -57,8 +57,8 @@
 "Tailandia","THA",46
 "Taiwan","TWN",90
 "Turchia","TUR",103
-"UK","GBR",813
-"USA","USA",2553
+"UK","GBR",814
+"USA","USA",2565
 "Ungheria","HUN",28
 "Vietnam","VNM",12
-"Altro",,238
+"Altro",,239
